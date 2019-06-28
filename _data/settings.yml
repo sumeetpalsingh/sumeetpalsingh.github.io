@@ -8,14 +8,22 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Home'
+    - title: 'Research'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Lab Members'
+      url: '/members'
+    - title: 'Publications'
+      url: '/publications'
+    - title: 'Vacancies'
+      url: '/vacancies'
+    - title: 'Funding'
+      url: '/funding'
+    - title: 'Collaborations'
+      url: '/collaboration'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Blog'
+      url: '/blog/'
 
 footer_settings:
   footer_tagline: Single-cell Endocrinology.
