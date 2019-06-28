@@ -14,9 +14,9 @@ We are located in Brussels, the heart of European Union.
 
 ## Send us a postcard
 
-IRIBHM ULB
-808 route de Lennik
-1070 Brussels
+IRIBHM ULB\
+808 route de Lennik\
+1070 Brussels\
 Belgium
 
 ## Send us an e-card
