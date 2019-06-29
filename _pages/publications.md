@@ -22,8 +22,8 @@ featured_image: /images/demo/home1.jpg
 1. [Machine learning based classification of cells into chronological stages using single-cell transcriptomics](https://www.nature.com/articles/s41598-018-35218-5)
 
   *Scientific Reports*  
-  **Sumeet Pal Singh$**, Sharan Janjuha, Samata Chaudhuri, Susanne Reinhardt, Annekathrin Kränkel, Sevina Dietz, Anne Eugster, Halil Bilgin, Selçuk Korkmaz, Gökmen Zararsız, Nikolay Ninov & John E. Reid  
-  $ Corresponding author
+  **Sumeet Pal Singh<sup>§</sup>**, Sharan Janjuha, Samata Chaudhuri, Susanne Reinhardt, Annekathrin Kränkel, Sevina Dietz, Anne Eugster, Halil Bilgin, Selçuk Korkmaz, Gökmen Zararsız, Nikolay Ninov & John E. Reid  
+  <sup>§</sup> Corresponding author
 
 2. [In Toto Imaging of Dynamic Osteoblast Behaviors in Regenerating Skeletal Bone](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31419-2)
 
@@ -33,8 +33,8 @@ featured_image: /images/demo/home1.jpg
 3. [Analysis of Beta-cell Function Using Single-cell Resolution Calcium Imaging in Zebrafish Islets](https://www.jove.com/video/57851/analysis-beta-cell-function-using-single-cell-resolution-calcium)
 
   *Journal of Visualized Experiments*  
-  Sharan Janjuha$, **Sumeet Pal Singh$**, Nikolay Ninov  
-  $ Co-Authors
+  Sharan Janjuha<sup>*</sup>, **Sumeet Pal Singh<sup>*</sup>**, Nikolay Ninov  
+  <sup>*</sup> Co-Authors
   
 4. [Age-related islet inflammation marks the proliferative decline of pancreatic beta-cells in zebrafish](https://elifesciences.org/articles/32965)
 
