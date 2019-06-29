@@ -2,7 +2,7 @@
 title: Contact
 subtitle: We would like to hear from you. Better visit us!
 description: We would like to hear from you.
-featured_image: /images/demo/home1.jpg
+featured_image: /images/demo/contact1.jpg
 ---
 
 #### Location
