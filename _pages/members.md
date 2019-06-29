@@ -8,7 +8,7 @@ featured_image: /images/demo/members.jpg
 
 #### PhD Students
 
-<span style="color:coral">**Elif Eski**</span>
+<span style="color:coral">**Elif Eski**</span>, the lab's first PhD student, is joining on 01 November, 2019!
 
 #### Group Leader
 <img src="/images/members/sumeet.jpeg" alt="Sumeet" style="float:left;width:150px;height:150px;margin:-20px 30px 0px 0px"> 
