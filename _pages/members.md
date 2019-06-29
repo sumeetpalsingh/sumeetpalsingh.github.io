@@ -14,7 +14,10 @@ featured_image: /images/demo/about.jpg
 
 ### Sumeet Pal Singh 
 
-![Sumeet](/images/members/sumeet.jpeg "Group Leader"){: .align-left}
-Sumeet performed his PhD under the supervision of Dr. [Kenneth Poss](https://sites.duke.edu/posslab/) at Duke University, USA. 
+<div class="gallery" data-columns="2">
+    <img src="/images/members/sumeet.jpeg">
+</div>
 
-He 
+
+![Sumeet](/images/members/sumeet.jpeg "Group Leader"){: .align-left}
+Sumeet performed his PhD under the supervision of Dr. [Kenneth Poss](https://sites.duke.edu/posslab/) at Duke University, USA. He 
