@@ -1,13 +1,11 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+title: Publications
+subtitle: Extending the boundaries of knowledge.
+description: Papers.
+featured_image: /images/demo/home1.jpg
 ---
 
-## Features
-
-We've packed Personal full of powerful features to help showcase your work:
+### 2019
 
 * Beautiful, minimal design
 * Large header image and single column post layout
@@ -25,8 +23,6 @@ We've packed Personal full of powerful features to help showcase your work:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
-## Get Personal
+### 2018
 
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+* Beautiful, minimal design

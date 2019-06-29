@@ -1,8 +1,8 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+title: Vacancies
+subtitle: Join our scientific family.
+description: Job opportunities.
+featured_image: /images/demo/home1.jpg
 ---
 
 ## Features
