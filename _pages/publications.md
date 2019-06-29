@@ -2,7 +2,7 @@
 title: Publications
 subtitle: Extending the boundaries of knowledge.
 description: Papers.
-featured_image: /images/demo/home1.jpg
+featured_image: /images/demo/publications.jpg
 ---
 
 ### 2019
