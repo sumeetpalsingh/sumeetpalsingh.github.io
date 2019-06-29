@@ -19,7 +19,8 @@ For post-doctoral work, Sumeet started work on planarian model system, a fascina
   
 For his second post-doc, he returned to zebrafish research in the lab of [Dr. Nikolay Ninov](https://www.crt-dresden.de/research/research-groups/core-groups/group-leaders/dr-nikolay-ninov/) at Center for Regenerative Therapies Dresden ([CRTD](https://www.crt-dresden.de/about-us/)), Germany. Focussing on the pancreatic beta-cells, Sumeet uncovered latent heterogeneity in the beta-cell population. For this, he developed several transgenic reagents to interrogate the proliferative and functional differences among individual cells. His efforts led his to obtain an [EFSD/Lilly Young Investigator Fellowship](http://www.europeandiabetesfoundation.org/efsdlilly-young-investigator.html).  
   
-In 2019, Sumeet was awarded the Mandat d’impulsion scientifique - mobilité Ulysse ([MISU](https://www.frs-fnrs.be/fr/reglements-guides#bourses-mandats)) by Le Fonds de la Recherche Scientifique ([FNRS](https://www.frs-fnrs.be/fr/)) to start his group at [IRIBHM](https://iribhm.org/), part of [ULB](https://www.ulb.be/en) in Brussels, Belgium.
+In 2019, Sumeet was awarded the Mandat d’impulsion scientifique - mobilité Ulysse ([MISU](https://www.frs-fnrs.be/fr/reglements-guides#bourses-mandats)) by Le Fonds de la Recherche Scientifique ([FNRS](https://www.frs-fnrs.be/fr/)) to start his group at [IRIBHM](https://iribhm.org/), part of [ULB](https://www.ulb.be/en) in Brussels, Belgium.  
+  
 Download [CV][1]
 
 [1]:{{ site.url }}/download/CV_PubList_Singh.pdf
