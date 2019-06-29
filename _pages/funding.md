@@ -5,6 +5,6 @@ description: Grants.
 featured_image: /images/demo/funding.jpg
 ---
 
-<div class="gallery" data-columns="3">
-    <img src="/images/funding/fnrs.png">
+<div class="gallery" data-columns="3">  
+    <a href="https://www.frs-fnrs.be/fr/"><img src="/images/funding/fnrs.png"></a>
 </div>
