@@ -2,7 +2,7 @@
 title: Members
 subtitle: If you want to go fast, go alone. If you want to go far, go together.
 description: Singh Lab Members.
-featured_image: /images/demo/home1.jpg
+featured_image: /images/demo/members.jpg
 ---
 
 
