@@ -20,4 +20,5 @@ featured_image: /images/demo/about.jpg
 
 
 ![Sumeet](/images/members/sumeet.jpeg "Group Leader"){: .align-left}
+
 Sumeet performed his PhD under the supervision of Dr. [Kenneth Poss](https://sites.duke.edu/posslab/) at Duke University, USA. He 
