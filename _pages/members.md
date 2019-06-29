@@ -13,4 +13,5 @@ featured_image: /images/demo/about.jpg
 ## Group Leader
 
 ### Sumeet Pal Singh 
-![Sumeet](/images/members/sumeet.jpeg "Group Leader") Sumeet performed his PhD under the supervision of Dr. Kenneth Poss at Duke University, USA. 
+![Sumeet](/images/members/sumeet.jpeg "Group Leader")
+Sumeet performed his PhD under the supervision of Dr. Kenneth Poss at Duke University, USA. 
