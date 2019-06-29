@@ -6,11 +6,11 @@ featured_image: /images/demo/home1.jpg
 ---
 
 
-### PhD Students
+#### PhD Students
 
 **Elif Eski**
 
-### Group Leader
+#### Group Leader
 
 **Sumeet Pal Singh** performed his PhD under the supervision of Dr. [Kenneth Poss](https://sites.duke.edu/posslab/) at Duke University, USA. For his PhD, Sumeet worked on the cellular basis of bone regeneration in the zebrafish fin amputation model.
 
