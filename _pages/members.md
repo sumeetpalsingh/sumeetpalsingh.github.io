@@ -16,9 +16,6 @@ featured_image: /images/demo/about.jpg
 
 <div class="gallery" data-columns="5">
     <img src="/images/members/sumeet.jpeg">
-    <img src="/images/demo/work-07.jpg">
-    <img src="/images/demo/work-08.jpg">
-    <img src="/images/demo/work-09.jpg">
 </div>
 
 
