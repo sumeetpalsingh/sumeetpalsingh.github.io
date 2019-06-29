@@ -14,8 +14,9 @@ featured_image: /images/demo/about.jpg
 
 ### Sumeet Pal Singh 
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="4">
     <img src="/images/members/sumeet.jpeg">
+    Sumeet
 </div>
 
 
