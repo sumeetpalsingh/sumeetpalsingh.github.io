@@ -12,12 +12,7 @@ featured_image: /images/demo/members.jpg
 
 #### Group Leader
 
-**Sumeet Pal Singh** performed his PhD under the supervision of Dr. [Kenneth Poss](https://sites.duke.edu/posslab/) at Duke University, USA. For his PhD, Sumeet worked on the cellular basis of bone regeneration in the zebrafish fin amputation model.
-
-<div class="gallery" data-columns="5">
-    <img src="/images/members/sumeet.jpeg">
-</div>
-
-
-
-![Sumeet](/images/members/sumeet.jpeg "Group Leader")
+<p>
+<img src="/images/members/sumeet.jpeg" alt="Sumeet" style="float:left;width:150px;height:150px;">
+    Sumeet Pal Singh performed his PhD under the supervision of <a href="https://sites.duke.edu/posslab/">Dr. Kenneth Poss</a> at Duke University, USA. For his PhD, Sumeet worked on the cellular basis of bone regeneration in the zebrafish fin amputation model.  
+</p>
