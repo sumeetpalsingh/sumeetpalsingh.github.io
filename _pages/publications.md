@@ -20,9 +20,11 @@ featured_image: /images/demo/home1.jpg
 ### 2018
 
 1. [Machine learning based classification of cells into chronological stages using single-cell transcriptomics](https://www.nature.com/articles/s41598-018-35218-5)  
+  <br/>
   <span style="color:coral">*Scientific Reports*</span>  
   <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sharan Janjuha, Samata Chaudhuri, Susanne Reinhardt, Annekathrin Kränkel, Sevina Dietz, Anne Eugster, Halil Bilgin, Selçuk Korkmaz, Gökmen Zararsız, Nikolay Ninov & John E. Reid  
-  <sup>§</sup> Corresponding author
+  <sup>§</sup> Corresponding author  
+  <br/>
 2. [In Toto Imaging of Dynamic Osteoblast Behaviors in Regenerating Skeletal Bone](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31419-2)  
   <span style="color:coral">*Current Biology*</span>  
   Ben D. Cox, Alessandro De Simone, Valerie A. Tornini, <span style="color:black">**Sumeet Pal Singh**</span>, Stefano Di Talia, Kenneth D. Poss   
