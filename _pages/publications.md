@@ -18,62 +18,48 @@ featured_image: /images/demo/publications.jpg
 ### 2018
 
 1. [Machine learning based classification of cells into chronological stages using single-cell transcriptomics](https://www.nature.com/articles/s41598-018-35218-5)  
-  <br/>
   <span style="color:coral">*Scientific Reports*</span>  
   <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sharan Janjuha, Samata Chaudhuri, Susanne Reinhardt, Annekathrin Kränkel, Sevina Dietz, Anne Eugster, Halil Bilgin, Selçuk Korkmaz, Gökmen Zararsız, Nikolay Ninov & John E. Reid  
   <sup>§</sup> Corresponding author  
   <br/>
 2. [In Toto Imaging of Dynamic Osteoblast Behaviors in Regenerating Skeletal Bone](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31419-2)  
-  <br/>
   <span style="color:coral">*Current Biology*</span>  
   Ben D. Cox, Alessandro De Simone, Valerie A. Tornini, <span style="color:black">**Sumeet Pal Singh**</span>, Stefano Di Talia, Kenneth D. Poss  
   <br/>
 3. [Analysis of Beta-cell Function Using Single-cell Resolution Calcium Imaging in Zebrafish Islets](https://www.jove.com/video/57851/analysis-beta-cell-function-using-single-cell-resolution-calcium)  
-  <br/>
   <span style="color:coral">*Journal of Visualized Experiments*</span>  
   Sharan Janjuha<sup>*</sup>, <span style="color:black">**Sumeet Pal Singh<sup>*</sup>**</span>, Nikolay Ninov  
   <sup>*</sup> Co-Authors  
   <br/>
 4. [Age-related islet inflammation marks the proliferative decline of pancreatic beta-cells in zebrafish](https://elifesciences.org/articles/32965)  
-  <br/>
   <span style="color:coral">*eLife*</span>    
   Sharan Janjuha<sup>*</sup>, <span style="color:black">**Sumeet Pal Singh<sup>*</sup>**</span>, Anastasia Tsakmaki, S Neda Mousavy Gharavy, Priyanka Murawala, Judith Konantz, Sarah Birke, David J Hodson, Guy A Rutter, Gavin A Bewick, Nikolay Ninov  
   <sup>*</sup> Co-Authors  
   <br/>
 5. [The triumvirate of beta-cell regeneration: solutions and bottlenecks to curing diabetes.](http://www.ijdb.ehu.es/web/paper.php?doi=180067nn)  
-  <br/>
   <span style="color:coral">*The International journal of developmental biology*</span>      
   <span style="color:black">**Sumeet Pal Singh**</span> and Nikolay Ninov  
-  <br/>
   
 ### 2017
 
 1. [Different developmental histories of beta-cells generate functional and proliferative heterogeneity during islet growth](https://www.nature.com/articles/s41467-017-00461-3)  
-  <br/>
   <span style="color:coral">*Nature Communications*</span>    
   <span style="color:black">**Sumeet Pal Singh**</span>, Sharan Janjuha, Theresa Hartmann, Özge Kayisoglu, Judith Konantz, Sarah Birke, Priyanka Murawala, Ezzaldin Ahmed Alfar, Kei Murata, Anne Eugster, Naoki Tsuji, Edward R. Morrissey, Michael Brand & Nikolay Ninov  
-  <br/>
   
 ### 2016
 
 1. [Tissue- and time-directed electroporation of CAS9 protein–gRNA complexes in vivo yields efficient multigene knockout for studying gene function in regeneration](https://www.nature.com/articles/npjregenmed20162)  
-  <br/>
   <span style="color:coral">*npj Regenerative Medicine*</span>  
-  Ji-Feng Fei, Dunja Knapp, Maritta Schuez, Prayag Murawala, Yan Zou, <span style="color:black">**Sumeet Pal Singh**</span>, David Drechsel & Elly M Tanaka  
-  <br/>  
+  Ji-Feng Fei, Dunja Knapp, Maritta Schuez, Prayag Murawala, Yan Zou, <span style="color:black">**Sumeet Pal Singh**</span>, David Drechsel & Elly M Tanaka    
   
 ### 2012
 
 1. [Regeneration of amputated zebrafish fin rays from de novo osteoblasts](https://www.cell.com/developmental-cell/fulltext/S1534-5807(12)00129-3)  
-  <br/>
   <span style="color:coral">*Developmental Cell*</span>  
-  <span style="color:black">**Sumeet Pal Singh**</span>, Jennifer E. Holdway, Kenneth D. Poss  
-  <br/>  
+  <span style="color:black">**Sumeet Pal Singh**</span>, Jennifer E. Holdway, Kenneth D. Poss   
   
 ### 2011
 
 1. [The regenerative capacity of zebrafish reverses cardiac failure caused by genetic cardiomyocyte depletion](https://dev.biologists.org/content/138/16/3421)  
-  <br/>
   <span style="color:coral">*Development*</span>  
-  Jinhu Wang, Daniela Panáková, Kazu Kikuchi, Jennifer E. Holdway, Matthew Gemberling, James S. Burris, <span style="color:black">**Sumeet Pal Singh**</span>, Amy L. Dickson, Yi-Fan Lin, M. Khaled Sabeh, Andreas A. Werdich, Deborah Yelon, Calum A. MacRae, Kenneth D. Poss  
-  <br/>    
+  Jinhu Wang, Daniela Panáková, Kazu Kikuchi, Jennifer E. Holdway, Matthew Gemberling, James S. Burris, <span style="color:black">**Sumeet Pal Singh**</span>, Amy L. Dickson, Yi-Fan Lin, M. Khaled Sabeh, Andreas A. Werdich, Deborah Yelon, Calum A. MacRae, Kenneth D. Poss      
