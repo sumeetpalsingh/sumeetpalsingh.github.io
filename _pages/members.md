@@ -14,3 +14,6 @@ featured_image: /images/demo/members.jpg
 <img src="/images/members/sumeet.jpeg" alt="Sumeet" style="float:left;width:150px;height:150px;margin:-20px 30px 0px 0px"> 
 
 <span style="color:coral">**Sumeet Pal Singh**</span> performed his PhD under the supervision of [Dr. Kenneth Poss](https://sites.duke.edu/posslab/) at Duke University, USA. For his PhD, Sumeet worked on the cellular basis of bone regeneration in the zebrafish fin amputation model.  
+Download [CV][1]
+
+[1]:{{ site.url }}/download/CV_PubList_Singh.pdf
