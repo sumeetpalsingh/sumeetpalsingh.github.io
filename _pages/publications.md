@@ -15,7 +15,7 @@ featured_image: /images/demo/home1.jpg
 2. [RNA-seq analysis of LPS-induced transcriptional changes and its possible implications for the adrenal gland dysregulation during sepsis](https://www.sciencedirect.com/science/article/abs/pii/S0960076018306150)
 
   *The Journal of steroid biochemistry and molecular biology*  
-  Lan-Sun Chen, **Sumeet Pal Singh**, Maria Schuster, Tatyana Grinenko, Stefan R. Bornstein, Waldemar Kanczkowski
+  Lan-Sun Chen, <span style="color:black">**Sumeet Pal Singh**</span>, Maria Schuster, Tatyana Grinenko, Stefan R. Bornstein, Waldemar Kanczkowski
   
 ### 2018
 
@@ -39,8 +39,8 @@ featured_image: /images/demo/home1.jpg
 4. [Age-related islet inflammation marks the proliferative decline of pancreatic beta-cells in zebrafish](https://elifesciences.org/articles/32965)
 
   *eLife*  
-  Sharan Janjuha$, **Sumeet Pal Singh$**, Anastasia Tsakmaki, S Neda Mousavy Gharavy, Priyanka Murawala, Judith Konantz, Sarah Birke, David J Hodson, Guy A Rutter, Gavin A Bewick, Nikolay Ninov  
-  $ Co-Authors
+  Sharan Janjuha<sup>*</sup>, **Sumeet Pal Singh<sup>*</sup>**, Anastasia Tsakmaki, S Neda Mousavy Gharavy, Priyanka Murawala, Judith Konantz, Sarah Birke, David J Hodson, Guy A Rutter, Gavin A Bewick, Nikolay Ninov  
+  <sup>*</sup> Co-Authors
   
 5. [The triumvirate of beta-cell regeneration: solutions and bottlenecks to curing diabetes.](http://www.ijdb.ehu.es/web/paper.php?doi=180067nn)
 
