@@ -17,4 +17,4 @@ Advertisement coming in July, 2019
 
 Advertisement coming in July, 2019
 
-Interested candidates should forward their curriculum vitae and references to <a href = "mailto: sumeetpalsingh@gmail.com">sumeetpalsingh@gmail.com</a>
+Interested candidates should forward their curriculum vitae and references to [Sumeet sumeetpalsingh@gmail.com]("mailto: sumeetpalsingh@gmail.com")
