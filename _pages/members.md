@@ -6,20 +6,20 @@ featured_image: /images/demo/about.jpg
 ---
 
 
-## PhD Students
+### PhD Students
 
-### Elif Eski
+***Elif Eski***
 
-## Group Leader
+### Group Leader
+ 
 
-### Sumeet Pal Singh 
-
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="5">
     <img src="/images/members/sumeet.jpeg">
     Sumeet
 </div>
 
 
-Sumeet performed his PhD under the supervision of Dr. [Kenneth Poss](https://sites.duke.edu/posslab/) at Duke University, USA. He ![Sumeet](/images/members/sumeet.jpeg "Group Leader"){: .align-left}
+**Sumeet Pal Singh** performed his PhD under the supervision of Dr. [Kenneth Poss](https://sites.duke.edu/posslab/) at Duke University, USA. He:
+![Sumeet](/images/members/sumeet.jpeg "Group Leader"){: .align-left}
 
 Sumeet performed his PhD under the supervision of Dr. [Kenneth Poss](https://sites.duke.edu/posslab/) at Duke University, USA. He 
