@@ -17,4 +17,3 @@ Advertisement coming in July, 2019
 
 Advertisement coming in July, 2019
 
-Interested candidates should forward their curriculum vitae and references to <sumeetpalsingh@gmail.com> Test
