@@ -3,10 +3,10 @@ title: 'Functional Imaging'
 subtitle: 'Illuminating cellular properties.'
 date: 2018-06-29 00:00:00
 description: Tool Development.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/animation.gif'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/animation.gif)
 
 ## Demo content
 
