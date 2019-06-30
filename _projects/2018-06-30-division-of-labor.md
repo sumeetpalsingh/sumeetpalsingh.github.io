@@ -2,13 +2,13 @@
 title: 'Division Of Labor'
 subtitle: 'How individuals come together to form a team.'
 date: 2018-06-30 00:00:00
-description: Community effect.
-featured_image: '/images/demo/demo-square.jpg'
+description: Our research interest lies in understanding the organizational principles underlying a cellular community. Similar to human society, cellular societies are required to efficiently multi-task in order to survive in an ever-changing environment. We want to understand how cells distribute the various tasks among themselves to achieve multi-tasking..
+featured_image: '/images/demo/BB6.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/BB6.jpg)
 
-## Demo content
+## The formation of cellular communities
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
