@@ -1,7 +1,7 @@
 ---
 title: 'News'
 subtitle: 'Latest from the lab.'
-date: 2018-06-27 00:00:00
+date: 2018-07-01 00:00:00
 description: Current.
 featured_image: '/images/demo/demo-square.jpg'
 ---
