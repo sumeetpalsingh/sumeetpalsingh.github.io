@@ -2,99 +2,12 @@
 title: 'Division Of Labor'
 subtitle: 'How individuals come together to form a team.'
 date: 2018-06-30 00:00:00
-description: Our research interest lies in understanding the organizational principles underlying a cellular community. Similar to human society, cellular societies are required to efficiently multi-task in order to survive in an ever-changing environment. We want to understand how cells distribute the various tasks among themselves to achieve multi-tasking..
+description: Our research interest lies in understanding the organizational principles underlying a cellular community. Similar to human society, cellular societies are required to efficiently multi-task in order to survive in an ever-changing environment. We want to understand how cells distribute the various tasks among themselves to achieve multi-tasking.
 featured_image: '/images/demo/BB6.jpg'
 ---
 
-![](/images/demo/BB6.jpg)
+## How do cells multi-task?
 
-## The formation of cellular communities
+Our research interest lies in understanding the organizational principles underlying a cellular community. Similar to human society, cellular societies are required to efficiently multi-task in order to survive in an ever-changing environment. We want to understand how cells distribute the various tasks among themselves to achieve multi-tasking.
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+The prime reason why cells need to multi-task is that one cell cannot be optimal at all the tasks at once. Thus, cells need to focus on a specific task, which tunes its gene expression towards the specialty. The process may be dynamic, with cells continuously shifting roles with each other. However, at a given point in time, the tradeoff in cellular responsibilities segregates a cellular community. Such tradeoffs have been suggested for [cancer cells](https://www.ncbi.nlm.nih.gov/pubmed/24213474). For example, cancer cells either invest in [cell division or tissue-invasion](https://www.ncbi.nlm.nih.gov/pubmed/19713745), as each of the tasks requires a specific gene regulatory network that is not compatible with each other. This tradeoff, termed [‘Go or grow’](https://www.ncbi.nlm.nih.gov/pubmed/20610469), nicely captures the requirement for adaptability, and hence diversity, for optimal survival.
