@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Division Of Labor'
+subtitle: 'How individuals come together to form a team.'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Community effect.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 

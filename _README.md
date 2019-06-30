@@ -151,6 +151,9 @@ These control the main content of your website, and are found inside the `_proje
 
 Take a look at the demo content inside each folder for full descriptions on what you can do inside these, and to use as a template for your own content.
 
+Research -- `_projects`
+blog - `_posts`
+
 ---
 
 ## Any questions?
