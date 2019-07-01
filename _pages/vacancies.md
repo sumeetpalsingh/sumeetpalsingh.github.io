@@ -7,8 +7,8 @@ featured_image: /images/demo/vacancy.jpg
 
 #### We are offering:
 #### 1. <a href="#PhD">Fully funded PhD student</a>
-#### 2. [Fully funded lab technician]{#Tech}
-#### 3. [Support for a Marie-Curie Post-Doctoral Fellowship]{#PostDoc}
+#### 2. <a href="#Tech">Fully funded lab technician</a>
+#### 3. <a href="#PostDoc">Support for a Marie-Curie Post-Doctoral Fellowship</a>
 
 ---
 
@@ -40,8 +40,7 @@ Kindly submit your CV with the contact information for three referees and a lett
 
 ---
 
-#### Post-Doc
-{: #PostDoc }
+<h4 id="PostDoc">PhD</h4>
 
 Support for Marie Curie Post-Doc Position in ‘Investigating the cell fate decisions during differentiation of ES-cells to thyroid gland using single-cell technologies’
 
@@ -60,8 +59,7 @@ Please contact us at the earliest with your CV and a letter of motivation via e-
 
 ---
 
-#### Technician
-{: #Tech }
+<h4 id="Tech">Technician</h4>
 
 We are offering a position for Biological Research Technician starting 01 October, 2019. The position is limited until 30 September, 2021 (two years), with extension based on available funding.  
 
