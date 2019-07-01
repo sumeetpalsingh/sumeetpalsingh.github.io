@@ -156,6 +156,14 @@ blog - `_posts`
 
 ---
 
+## Making gif
+
+ffmpeg -i 41467_2017_461_MOESM4_ESM.mp4 -vf scale=320:-1 -r 10 output/ffout%3d.png
+
+convert -delay 8 -loop 0 output/ffout*.png output/animation.gif
+
+---
+
 ## Any questions?
 
 If you have any questions or feedback about the theme, don't hesitate to reach out to hello@jekyllthemes.io for 1-to-1 support direct from the developers!
