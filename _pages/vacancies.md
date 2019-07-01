@@ -7,27 +7,11 @@ featured_image: /images/demo/vacancy.jpg
 
 #### PhD
 
-Download [the advertisement for fully funded PhD position][1]
-
 We are offering a PhD position starting 01 October, 2019.
 
+Download [the advertisement for fully funded PhD position][1]
+
 The PhD student will be involved in live-imaging intercellular signalling pathways in the thyroid gland (https://sumeetpalsingh.github.io/project/live-imaging), and for developing tools modulating cAMP signalling in thyroid follicular cells. The tool development would additional lead to new models of hypo- and hyperthyroid disease models. 
-
-The PhD student is expected to: 
-1.	Read literature and keep up-to-date with the current knowledge in the field.
-2.	Gain independence in planning, conduction and analysis of experiments.
-3.	Generate publication quality figures for presentations, manuscripts and grant applications.
-4.	Draft manuscripts for publication.
-5.	She/he will be required to attend institute seminars, encouraged to participate in after-hours social events and take part in retreats.
-6.	She/he will be encouraged to undertake skill-development courses (particularly bioinformatics skills) in the university or online (such as Coursera)
-
-Requirements: 
-1.	Diplomas and degrees equivalent to a European Union Master's degree, which includes project work summarized in a written “small thesis”
-2.	Three referees willing to provide letter of recommendations
-3.	Excellent knowledge of English
-4.	Excellent interpersonal and organisational skills  
-
-Kindly submit your CV with the contact information for three referees and a letter of motivation by email to sumeetpalsingh@gmail.com.
 
 [1]:{{ site.url }}/vacancy/PhD.pdf
 
@@ -45,13 +29,6 @@ The research group of [Dr Sabine Costagliola](https://costalab.ulb.ac.be/) along
 
 The lab of Dr. Costagliola was [the first to generate functional thyroid gland from mouse ES cells](https://www.ncbi.nlm.nih.gov/pubmed/23051751). With our expertise in single-cell transcriptome analysis, the project will aim to define the trajectory from naïve ES cells to functional thyroid gland using single-cell genomics. We hope to understand the bottlenecks and hurdles in the differentiation process so as to overcome them and generate a more efficient differentiation process.
 
-The call for Marie Curie Post-Doc Fellowships opened on 15 June, 2019 and ends on 01 October, 2019. The Fellowship requires:
-1.	Applicants of any age and of any nationality are eligible.
-2.	Eligible applicants are Experienced Researchers, i.e.
-a.	Holders of a PhD degree obtained max. 7 years before the call deadline.
-b.	Applicants without a PhD, provided they have documented full-time equivalent research experience of minimum 4 and maximum 11 years. An eligibility extension of 15 weeks per child is granted in case of maternity
-3.	Eligible applicants must not have resided or carried out their main activity (work, studies, etc.) in Belgium for more than 12 months during the 3 years preceding the call deadline.
-
 For further information, please refer to this website: [https://if-at-ulb.ulb.be/call-information](https://if-at-ulb.ulb.be/call-information).
 Please contact us at the earliest with your CV and a letter of motivation via e-mail to scostag@ulb.ac.be and sumeetpalsingh@gmail.com. 
 
@@ -61,28 +38,26 @@ Please contact us at the earliest with your CV and a letter of motivation via e-
 
 #### Technician
 
-Download [the advertisement for Technician position][3]
-
 We are offering a position for Biological Research Technician starting 01 October, 2019. The position is limited until 30 September, 2021 (two years), with extension based on available funding.  
 
-The major aim of the group’s research is to understand the development of cellular communities using endocrine organs, specifically thyroid gland and pancreatic beta-cells, as a model system. The research is focussed on using zebrafish as a model system.  
+Download [the advertisement for Technician position][3]
 
 Tasks: 
-1.	Organization of the lab inventory: Ensure the laboratory is well-stocked and resourced and that everything is clearly and correctly labelled.
-2.	Maintaining and calibrating lab equipment.
-3.	Injection of zebrafish embryos for transgenesis.
-4.	Crossing zebrafish for collecting eggs and maintaining zebrafish transgenic lines
-5.	Standard molecular biology experiments (cloning and maxi-preps)
-6.	Tissue processing (fixation, antibody staining, in-situ hybridization) and confocal imaging
-7.	Live-imaging and image-analysis  
+1. Organization of the lab inventory: Ensure the laboratory is well-stocked and resourced and that everything is clearly and correctly labelled.
+2. Maintaining and calibrating lab equipment.
+3. Injection of zebrafish embryos for transgenesis.
+4. Crossing zebrafish for collecting eggs and maintaining zebrafish transgenic lines
+5. Standard molecular biology experiments (cloning and maxi-preps)
+6. Tissue processing (fixation, antibody staining, in-situ hybridization) and confocal imaging
+7. Live-imaging and image-analysis  
 
 Requirements: 
-1.	Diploma as a laboratory technician, or equivalent knowledge and skills in a biological laboratory. 
-2.	Excellent knowledge of English and French (written & oral)
-3.	Capacity for working independently
-4.	Excellent interpersonal and organisational skills
-5.	Will to work in an international team within a highly collaborative environment. 
-6.	Experience in transgenesis and/or zebrafish research would be an asset.
+1. Diploma as a laboratory technician, or equivalent knowledge and skills in a biological laboratory. 
+2. Excellent knowledge of English and French (written & oral)
+3. Capacity for working independently
+4. Excellent interpersonal and organisational skills
+5. Will to work in an international team within a highly collaborative environment. 
+6. Experience in transgenesis and/or zebrafish research would be an asset.
 
 Applications from women are particularly welcome. The same applies to people with disabilities.
 
