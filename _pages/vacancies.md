@@ -5,13 +5,14 @@ description: Job opportunities.
 featured_image: /images/demo/vacancy.jpg
 ---
 
-### We are offering:
-### 1. [Fully funded PhD student]{#PhD}
-### 2. [Fully funded lab technician]{#Tech}
-### 3. [Support for a Marie-Curie Post-Doctoral Fellowship]{#PostDoc}
+#### We are offering:
+#### 1. <a href="#PhD">Fully funded PhD student</a>
+#### 2. [Fully funded lab technician]{#Tech}
+#### 3. [Support for a Marie-Curie Post-Doctoral Fellowship]{#PostDoc}
 
-#### PhD
-{: #PhD }
+---
+
+<h4 id="PhD">PhD</h4>
 
 We are offering a PhD position starting 01 October, 2019.
 
