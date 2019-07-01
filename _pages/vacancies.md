@@ -6,14 +6,14 @@ featured_image: /images/demo/vacancy.jpg
 ---
 
 #### We are offering:
-
 #### 1. Fully funded PhD
-#### 2. Fully funded lab technician
-#### 3. Support for a Marie-Curie Post-Doctoral Fellowship
+#### 2. Support for a Marie-Curie Post-Doctoral Fellowship
+#### 3. Fully funded lab technician
+##### Please read corresponding advertisements below
 
 ---
 
-#### [PhD](#2-fully-funded-lab-technician) 
+#### PhD
 
 We are offering a PhD position starting 01 October, 2019.
 
