@@ -6,13 +6,13 @@ featured_image: /images/demo/vacancy.jpg
 ---
 
 #### We are offering:
-#### 1. <a href="#PhD">Fully funded PhD student</a>
+#### 1. [Fully funded PhD student](#phd)
 #### 2. <a href="#Tech">Fully funded lab technician</a>
 #### 3. <a href="#PostDoc">Support for a Marie-Curie Post-Doctoral Fellowship</a>
 
 ---
 
-<h4 id="PhD">PhD</h4>
+#### PhD ####
 
 We are offering a PhD position starting 01 October, 2019.
 
@@ -40,7 +40,7 @@ Kindly submit your CV with the contact information for three referees and a lett
 
 ---
 
-<h4 id="PostDoc">PhD</h4>
+<h4 id="PostDoc">Post-Doctoral Fellowship</h4>
 
 Support for Marie Curie Post-Doc Position in ‘Investigating the cell fate decisions during differentiation of ES-cells to thyroid gland using single-cell technologies’
 
