@@ -13,6 +13,22 @@ Download [the advertisement for fully funded PhD position][1]
 
 The PhD student will be involved in [live-imaging intercellular signalling pathways in the thyroid gland](https://sumeetpalsingh.github.io/project/live-imaging), and for developing tools modulating cAMP signalling in thyroid follicular cells. The tool development would additional lead to new models of hypo- and hyperthyroid disease models. 
 
+The PhD student is expected to: 
+1. Read literature and keep up-to-date with the current knowledge in the field.
+2. Gain independence in planning, conduction and analysis of experiments.
+3. Generate publication quality figures for presentations, manuscripts and grant applications.
+4. Draft manuscripts for publication.
+5. She/he will be required to attend institute seminars, encouraged to participate in after-hours social events and take part in retreats.
+6. She/he will be encouraged to undertake skill-development courses (particularly bioinformatics skills) in the university or online (such as Coursera)
+
+Requirements: 
+1. Diplomas and degrees equivalent to a European Union Master's degree, which includes project work summarized in a written “small thesis”
+2. Three referees willing to provide letter of recommendations
+3. Excellent knowledge of English
+4. Excellent interpersonal and organisational skills
+
+Kindly submit your CV with the contact information for three referees and a letter of motivation by email to sumeetpalsingh@gmail.com.
+
 [1]:{{ site.url }}/vacancy/PhD.pdf
 
 ---
