@@ -5,6 +5,8 @@ description: Job opportunities.
 featured_image: /images/demo/vacancy.jpg
 ---
 
+### We have position for a fully funded PhD student, lab technician. And we are providing support for a Marie-Curie Post-Doctoral Fellowship.
+
 #### PhD
 
 We are offering a PhD position starting 01 October, 2019.
