@@ -7,15 +7,13 @@ featured_image: /images/demo/vacancy.jpg
 
 #### We are offering:
 
-[Fully funded PhD student](#phd)
-
-Test
-#### 2. <a href="#Tech">Fully funded lab technician</a>
-#### 3. <a href="#PostDoc">Support for a Marie-Curie Post-Doctoral Fellowship</a>
+#### 1. Fully funded PhD student
+#### 2. Fully funded lab technician
+#### 3. Support for a Marie-Curie Post-Doctoral Fellowship
 
 ---
 
-#### <a name="phd">PhD</a> 
+#### PhD 
 
 We are offering a PhD position starting 01 October, 2019.
 
