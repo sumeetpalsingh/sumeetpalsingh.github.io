@@ -13,7 +13,7 @@ featured_image: /images/demo/vacancy.jpg
 
 ---
 
-#### [PhD](2-fully-funded-lab-technician) 
+#### [PhD](#2-fully-funded-lab-technician) 
 
 We are offering a PhD position starting 01 October, 2019.
 
