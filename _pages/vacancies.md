@@ -6,7 +6,11 @@ featured_image: /images/demo/vacancy.jpg
 ---
 
 #### We are offering:
-#### 1. [Fully funded PhD student](#phd)
+
+
+[Fully funded PhD student](#phd)
+
+
 #### 2. <a href="#Tech">Fully funded lab technician</a>
 #### 3. <a href="#PostDoc">Support for a Marie-Curie Post-Doctoral Fellowship</a>
 
