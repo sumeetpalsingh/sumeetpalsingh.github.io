@@ -11,7 +11,7 @@ We are offering a PhD position starting 01 October, 2019.
 
 Download [the advertisement for fully funded PhD position][1]
 
-The PhD student will be involved in live-imaging intercellular signalling pathways in the thyroid gland (https://sumeetpalsingh.github.io/project/live-imaging), and for developing tools modulating cAMP signalling in thyroid follicular cells. The tool development would additional lead to new models of hypo- and hyperthyroid disease models. 
+The PhD student will be involved in [live-imaging intercellular signalling pathways in the thyroid gland](https://sumeetpalsingh.github.io/project/live-imaging), and for developing tools modulating cAMP signalling in thyroid follicular cells. The tool development would additional lead to new models of hypo- and hyperthyroid disease models. 
 
 [1]:{{ site.url }}/vacancy/PhD.pdf
 
