@@ -7,7 +7,7 @@ featured_image: /images/demo/vacancy.jpg
 
 #### We are offering:
 
-#### 1. [Fully funded PhD](#phd)
+#### 1. [Fully funded PhD](phd)
 #### 2. Fully funded lab technician
 #### 3. Support for a Marie-Curie Post-Doctoral Fellowship
 
