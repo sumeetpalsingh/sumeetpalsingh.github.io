@@ -5,10 +5,10 @@ description: Job opportunities.
 featured_image: /images/demo/vacancy.jpg
 ---
 
-#### We are offering:
-#### 1. [Fully funded PhD][1]
-#### 2. [Support for a Marie-Curie Post-Doctoral Fellowship][2]
-#### 3. [Fully funded lab technician][3]
+##### We are offering:
+1. [Fully funded PhD][1]
+2. [Support for a Marie-Curie Post-Doctoral Fellowship][2]
+3. [Fully funded lab technician][3]
 ##### Please read corresponding advertisements below
 
 ---
