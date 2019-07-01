@@ -2,7 +2,7 @@
 title: 'Functional Imaging'
 subtitle: 'Illuminating cellular properties.'
 date: 2018-06-29 00:00:00
-description: For cooperative behavior to develop in human or cellular society, efficient communication is necessary. In cells, communication involves listening to external stimulus and translating it into intercellular signaling. We are interested in live imaging of the intercellular signaling pathways at **single-cell resolution** to gain insights into communication underlying cooperative behavior; and modulating it to understand its role during disease development.
+description: For cooperative behavior to develop in human or cellular society, efficient communication is necessary. In cells, communication involves listening to external stimulus and translating it into intercellular signaling. We are interested in live imaging of the intercellular signaling pathways at single-cell resolution to gain insights into communication underlying cooperative behavior; and modulating it to understand its role during disease development.
 featured_image: '/images/demo/animation.gif'
 ---
 
