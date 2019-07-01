@@ -7,7 +7,6 @@ featured_image: /images/demo/vacancy.jpg
 
 #### We are offering:
 
-
 [Fully funded PhD student](#phd)
 
 
@@ -16,7 +15,7 @@ featured_image: /images/demo/vacancy.jpg
 
 ---
 
-#### PhD ####
+#### <a name="phd">PhD</a> 
 
 We are offering a PhD position starting 01 October, 2019.
 
