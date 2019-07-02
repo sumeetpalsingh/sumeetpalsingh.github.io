@@ -14,8 +14,8 @@ For example, one method of transducing intercellular signaling is via calcium io
 
 <img src="/images/demo/animation.gif" alt="Sumeet" style="float:left;width:320px;height:355px;margin:0px 30px 0px 0px">  
 
-On left is shown zebrafish a pancreatic islet containing beta-cells whose nuclei are marked by expression of red fluorescent protein. In addition, the beta-cells express [a genetically encoded sensor of calcium concentration, called GCaMP](https://en.wikipedia.org/wiki/GCaMP). GCaMP is not fluorescent at low calcium concentration, while it starts to emit green fluorescent light upon increasing calcium concentration.  
+The video shows a zebrafish pancreatic islet containing beta-cells whose nuclei are marked by expression of red fluorescent protein. In addition, the beta-cells express [a genetically encoded sensor of calcium concentration, called GCaMP](https://en.wikipedia.org/wiki/GCaMP). GCaMP is not fluorescent at low calcium concentration, while it starts to emit green fluorescent light upon increasing calcium concentration.  
 
 The islet is exposed to increasing amount of glucose. In response, calcium ions rush into the cells and causes an increase of GCaMP-based green fluorescence. As we have single-cell resolution in this imaging setup, we can identify cells that are responsive to a specific concentration of glucose.  
 
-Our lab is interested in extending imaging of signaling pathways to other endocrine organs. Particularly, [we are looking for PhD students to develop live-imaging of thyroid glands in zebrafish](https://sumeetpalsingh.github.io/vacancies).
+Our lab is interested in extending imaging of signaling pathways to other endocrine organs. Particularly, [we are looking for PhD students to develop live-imaging of intercellular signaling for the thyroid glands in zebrafish](https://sumeetpalsingh.github.io/vacancies).
