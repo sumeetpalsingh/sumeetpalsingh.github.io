@@ -15,7 +15,7 @@ featured_image: /images/demo/vacancy.jpg
 
 #### PhD
 
-We are offering a PhD position starting 01 October, 2019.
+We are offering a PhD position starting 01 November, 2019.
 
 Download [the advertisement for fully funded PhD position][1]
 
