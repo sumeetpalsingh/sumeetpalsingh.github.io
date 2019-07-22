@@ -6,13 +6,13 @@ featured_image: /images/demo/vacancy.jpg
 ---
 
 ##### We are offering:
-1. [Fully funded PhD][1]
-2. [Support for a Marie-Curie Post-Doctoral Fellowship][2]
-3. [Fully funded lab technician][3]
+<!--1. [Fully funded PhD][1]-->
+1. [Support for a Marie-Curie Post-Doctoral Fellowship][2]
+2. [Fully funded lab technician][3]
 ##### Please read corresponding advertisements below
 
 ---
-
+<!--
 #### PhD
 
 We are offering a PhD position starting 01 November, 2019.
@@ -40,7 +40,7 @@ Kindly submit your CV with the contact information for three referees and a lett
 [1]:{{ site.url }}/vacancy/PhD.pdf
 
 ---
-
+-->
 #### Post-Doctoral Fellowship
 
 Support for Marie Curie Post-Doc Position in ‘Investigating the cell fate decisions during differentiation of ES-cells to thyroid gland using single-cell technologies’
