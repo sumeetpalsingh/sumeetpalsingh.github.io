@@ -7,7 +7,9 @@ featured_image: /images/demo/contact1.jpg
 
 ## ULB Single-cell Meetup (December, 2019)
 
+Download [Meeting Announcement][1]
 
+[1]:{{ site.url }}/images/singleCellMeetup_19Dec.jpg
 
 #### 10x Genomics Grant Program
 
@@ -18,9 +20,9 @@ featured_image: /images/demo/contact1.jpg
 **3rd** 25% discount
 All participants: 10% discount
 
-Download [Grant Program Information][1]
+Download [Grant Program Information][2]
 
-[1]:{{ site.url }}/download/10xGenomics_GrantProgram_BS_2019.pdf
+[2]:{{ site.url }}/download/10xGenomics_GrantProgram_BS_2019.pdf
 
 #### Contact
 
