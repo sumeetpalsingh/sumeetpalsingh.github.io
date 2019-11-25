@@ -5,25 +5,24 @@ description: Helping each other move forward.
 featured_image: /images/demo/contact1.jpg
 ---
 
-#### ULB Single-cell Meetup (December, 2019)
+## ULB Single-cell Meetup (December, 2019)
 
-The lab is housed at [IRIBHM](https://iribhm.org/), part of [ULB](https://www.ulb.be/en).
 
-We are located in Brussels, the heart of European Union.<br/>
-<br/>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.9801652618257!2d4.265410415575088!3d50.81300617952712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c6f714650e4f%3A0x89c304a080aa50dc!2sInstitut+de+Recherche+Interdisciplinaire+en+Biologie+Humaine+et+Mol%C3%A9culaire+(IRIBHM)!5e0!3m2!1sen!2sde!4v1561750621447!5m2!1sen!2sde" width="300" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-## 10x Genomics Grant Program
+#### 10x Genomics Grant Program
 
-IRIBHM ULB<br/>
-Building C, Floor 6<br/>
-808 Route de Lennik <br/> 
-BE-1070 Anderlecht <br/> 
-Belgium
+10x Genomics are kindly sponsering a **Grant Program**, with the aim of generating pilot data for grant application for 10x Genomics users and non-users. The grant program involves and **Abstract competition**. The prizes are as follows:
 
-#### E-mail
+**1st** 4 samples kit provided by 10x Genomics to the Lab on applications that the Lab has been trained on (100% discount - FREE). Winner covers sequencing cost.
+**2nd** 50% discount
+**3rd** 25% discount
+All participants: 10% discount
 
-{% include contact-form.html %}
+Download [Grant Program Information][1]
 
-<!--We've made a contact form that you can use with [Formspree](https://formspree.io/) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.-->
-We will try to get back to you as soon as possible!
+[1]:{{ site.url }}/download/10xGenomics_GrantProgram_BS_2019.pdf
+
+#### Contact
+
+Email: sumeet.pal.singh@ulb.ac.be
+Phone: +32-473-125019
