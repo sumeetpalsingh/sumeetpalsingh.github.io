@@ -31,7 +31,7 @@ Download [Meeting Announcement][1]
 
 10x Genomics is kindly sponsering a **_Grant Program_**, with the aim of generating pilot data for grant application for 10x Genomics users and non-users. The grant program involves and **_Abstract competition_**. The prizes are as follows:
 
-**1st**: 4 samples kit provided by 10x Genomics to the Lab on applications that the Lab has been trained on (100% discount - FREE). Winner covers sequencing cost.
+**1st**: 4 samples kit provided by 10x Genomics (100% discount - FREE). Winner covers sequencing cost.
 
 **2nd**: 50% discount
 
