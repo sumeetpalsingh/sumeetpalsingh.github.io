@@ -15,10 +15,10 @@ We are located in Brussels, the heart of European Union.<br/>
 
 #### Address
 
-IRIBHM ULB
-Building C, Floor 6
-808 Route de Lennik  
-BE-1070 Anderlecht  
+IRIBHM ULB<br/>
+Building C, Floor 6<br/>
+808 Route de Lennik <br/> 
+BE-1070 Anderlecht <br/> 
 Belgium
 
 #### E-mail
