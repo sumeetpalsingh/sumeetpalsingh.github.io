@@ -27,6 +27,12 @@ Download [Meeting Announcement][1]
 
 [1]:{{ site.url }}/images/singleCellMeetup_19Dec.jpg
 
+## Speakers
+
+We are looking for two volunteers to give a 20 min talk on any aspect of their single-cell sequencing project. This could include any part of the pipeline (sample preparation, library generation and sequencing, bioinformatics analysis), or even a biological question that might be queried by single-cell tools. 
+
+**Presentations are restricted to PhD students and Post-docs! Use this opportunity to get helpful feedback on your project.**
+
 #### 10x Genomics Grant Program
 
 10x Genomics is kindly sponsering a **_Grant Program_**, with the aim of generating pilot data for grant application for 10x Genomics users and non-users. The grant program involves and **_Abstract competition_**. The prizes are as follows:
