@@ -7,6 +7,21 @@ featured_image: /images/demo/meeting_header.jpg
 
 ## ULB Single-cell Meetup (December, 2019)
 
+A single-cell user and interest group meetup! 
+
+A monthly platform for obtaining feedback on project setup, analysis; logistics for single-cell experiment, new tool development and most importantly, debugging not-so-good experiments. 
+
+The meetup will be in conjugation with the Gosselies campus, and we hope to bring all the expertise and interest in single-cell at ULB under one roof for an evening.
+
+**_First Edition_**
+
+Date: 19 December, 2019 (Thursday)
+
+Time: 16:00 onwards
+
+Where: IRIBHM, ULB (Building C, Campus Erasme)
+
+Address: 808 Route de Lennik, BE-1070 Anderlecht
 
 Download [Meeting Announcement][1]
 
