@@ -16,6 +16,8 @@ menu_settings:
       url: '/publications'
 #    - title: 'Vacancies'
 #      url: '/vacancies'
+    - title: 'Meetings'
+      url: '/meetings'
     - title: 'Funding'
       url: '/funding'
 #    - title: 'Collaborations'
