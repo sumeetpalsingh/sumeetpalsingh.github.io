@@ -21,6 +21,8 @@ Time: 16:00 onwards
 
 Where: IRIBHM, ULB (Building C, Campus Erasme)
 
+Room: C4 121 (Salle J.P. Gillet)
+
 Address: 808 Route de Lennik, BE-1070 Anderlecht
 
 Download [Meeting Announcement][1]
@@ -29,9 +31,9 @@ Download [Meeting Announcement][1]
 
 ## Speakers
 
-We are looking for two volunteers to give a 20 min talk on any aspect of their single-cell sequencing project. This could include any part of the pipeline (sample preparation, library generation and sequencing, bioinformatics analysis), or even a biological question that might be queried by single-cell tools. 
+**Isabel Vogel**: CD4-cell heterogeneity in autoimmunity-from questions to clusters to more questions
 
-**Presentations are restricted to PhD students and Post-docs! Use this opportunity to get helpful feedback on your project.**
+**Bechara Saykali**: Mouse mesoderm heterogeneity and specification at single cell resolution
 
 #### 10x Genomics Grant Program
 
@@ -45,9 +47,11 @@ We are looking for two volunteers to give a 20 min talk on any aspect of their s
 
 All participants: 10% discount
 
+[Application Website](https://pages.10xgenomics.com/ISS-2019-12-18-OTHER-RA_G-EMEA-GRANT-PROGRAM-CLGP-ULB-BELGIUM_LP.html)
+
 Download [Grant Program Information][2]
 
-[2]:{{ site.url }}/download/10xGenomics_GrantProgram_BS_2019.pdf
+[2]:{{ site.url }}/download/CLGP_10xGenomics_ULB_2019_1.pdf
 
 #### Contact
 
