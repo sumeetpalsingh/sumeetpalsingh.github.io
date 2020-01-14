@@ -13,7 +13,7 @@ featured_image: /images/demo/members.jpg
 
 <br/>
 
-<img src="/images/members/Ines.jpg" alt="Ines" style="float:left;width:123px;height:150px;margin:-20px 30px 0px 0px">
+<img src="/images/members/Ines.jpg" alt="Ines" style="float:left;width:150px;height:135px;margin:-20px 30px 0px 0px">
 
 <span style="color:coral">**Inés Garteizgogeascoa Suñer.**</span> Graduated in Biochemistry from University Autónoma de Madrid, Spain; followed by a M.Sc. degree in Integrative Biology and Physiology from University Claude Bernard de Lyon, France (2019). During her master’s thesis under the supervision of Dr. Karine Gauthier and Dr.Fréderic Flamant, she focused on studying thyroid hormone-mediated thermogenesis in brown adipose tissue in mice. She was able to identify potential new thermogenic pathways, independent from UCP-1 classic mechanism, regulated by thyroid hormone in response to prolonged cold exposure. She joined the SinghLab in 2020 to work on developing tools for imaging of signalling pathways in zebrafish thyroid gland.
 
