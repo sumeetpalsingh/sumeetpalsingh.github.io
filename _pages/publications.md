@@ -12,6 +12,7 @@ featured_image: /images/demo/publications.jpg
 1. [Single-cell transcriptome analysis reveals cell-cell communication and thyrocyte diversity in the zebrafish thyroid gland](https://www.biorxiv.org/content/10.1101/2020.01.13.891630v1)  
   <span style="color:coral">*bioRxiv*</span>  
   Pierre Gillotay, Meghna P Shankar, Sema Elif Eski, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>
+  
   <sup>§</sup> Co-Corresponding author 
   <br/> 
 
