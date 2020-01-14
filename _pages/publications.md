@@ -7,6 +7,14 @@ featured_image: /images/demo/publications.jpg
 
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
+### 2020
+
+1. [Single-cell transcriptome analysis reveals cell-cell communication and thyrocyte diversity in the zebrafish thyroid gland](https://www.biorxiv.org/content/10.1101/2020.01.13.891630v1)  
+  <span style="color:coral">*bioRxiv*</span>  
+  Pierre Gillotay, Meghna P Shankar, Sema Elif Eski, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>
+  <sup>§</sup> Co-Corresponding author 
+  <br/> 
+
 ### 2019
 
 1. [Leader β-cells coordinate Ca2+ dynamics across pancreatic islets in vivo](https://www.nature.com/articles/s42255-019-0075-2)  
