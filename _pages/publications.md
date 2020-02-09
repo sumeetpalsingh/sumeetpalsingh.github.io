@@ -7,7 +7,7 @@ featured_image: /images/demo/publications.jpg
 
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
-  ### 2020
+### 2020
 
 1. [Single-cell transcriptome analysis reveals cell-cell communication and thyrocyte diversity in the zebrafish thyroid gland](https://www.biorxiv.org/content/10.1101/2020.01.13.891630v1)  
   <span style="color:coral">*bioRxiv*</span>  
@@ -22,7 +22,7 @@ featured_image: /images/demo/publications.jpg
   <span style="color:coral">*Animal Models of Diabetes: Methods and Protocols*</span>  
   <span style="color:black">**Sumeet Pal Singh**</span> and Nikolay Ninov. Editor: King, Aileen. Publisher: Springer US  
 
-  ### 2019
+### 2019
 
 1. [Leader β-cells coordinate Ca2+ dynamics across pancreatic islets in vivo](https://www.nature.com/articles/s42255-019-0075-2)  
   <span style="color:coral">*Nature Metabolism*</span>  
@@ -39,21 +39,21 @@ featured_image: /images/demo/publications.jpg
   <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sharan Janjuha, Samata Chaudhuri, Susanne Reinhardt, Annekathrin Kränkel, Sevina Dietz, Anne Eugster, Halil Bilgin, Selçuk Korkmaz, Gökmen Zararsız, Nikolay Ninov & John E. Reid  
   <sup>§</sup> Corresponding author  
   <br/>
-2. [In Toto Imaging of Dynamic Osteoblast Behaviors in Regenerating Skeletal Bone](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31419-2)  
+1. [In Toto Imaging of Dynamic Osteoblast Behaviors in Regenerating Skeletal Bone](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31419-2)  
   <span style="color:coral">*Current Biology*</span>  
   Ben D. Cox, Alessandro De Simone, Valerie A. Tornini, <span style="color:black">**Sumeet Pal Singh**</span>, Stefano Di Talia, Kenneth D. Poss  
   <br/>
-3. [Analysis of Beta-cell Function Using Single-cell Resolution Calcium Imaging in Zebrafish Islets](https://www.jove.com/video/57851/analysis-beta-cell-function-using-single-cell-resolution-calcium)  
+1. [Analysis of Beta-cell Function Using Single-cell Resolution Calcium Imaging in Zebrafish Islets](https://www.jove.com/video/57851/analysis-beta-cell-function-using-single-cell-resolution-calcium)  
   <span style="color:coral">*Journal of Visualized Experiments*</span>  
   Sharan Janjuha<sup>*</sup>, <span style="color:black">**Sumeet Pal Singh<sup>*</sup>**</span>, Nikolay Ninov  
   <sup>*</sup> Co-Authors  
   <br/>
-4. [Age-related islet inflammation marks the proliferative decline of pancreatic beta-cells in zebrafish](https://elifesciences.org/articles/32965)  
+1. [Age-related islet inflammation marks the proliferative decline of pancreatic beta-cells in zebrafish](https://elifesciences.org/articles/32965)  
   <span style="color:coral">*eLife*</span>    
   Sharan Janjuha<sup>*</sup>, <span style="color:black">**Sumeet Pal Singh<sup>*</sup>**</span>, Anastasia Tsakmaki, S Neda Mousavy Gharavy, Priyanka Murawala, Judith Konantz, Sarah Birke, David J Hodson, Guy A Rutter, Gavin A Bewick, Nikolay Ninov  
   <sup>*</sup> Co-Authors  
   <br/>
-5. [The triumvirate of beta-cell regeneration: solutions and bottlenecks to curing diabetes.](http://www.ijdb.ehu.es/web/paper.php?doi=180067nn)  
+1. [The triumvirate of beta-cell regeneration: solutions and bottlenecks to curing diabetes.](http://www.ijdb.ehu.es/web/paper.php?doi=180067nn)  
   <span style="color:coral">*The International journal of developmental biology*</span>      
   <span style="color:black">**Sumeet Pal Singh**</span> and Nikolay Ninov  
   
