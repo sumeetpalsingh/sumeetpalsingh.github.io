@@ -7,7 +7,7 @@ featured_image: /images/demo/publications.jpg
 
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
-### 2020
+  ### 2020
 
 1. [Single-cell transcriptome analysis reveals cell-cell communication and thyrocyte diversity in the zebrafish thyroid gland](https://www.biorxiv.org/content/10.1101/2020.01.13.891630v1)  
   <span style="color:coral">*bioRxiv*</span>  
@@ -22,13 +22,13 @@ featured_image: /images/demo/publications.jpg
   <span style="color:coral">*Animal Models of Diabetes: Methods and Protocols*</span>  
   <span style="color:black">**Sumeet Pal Singh**</span> and Nikolay Ninov. Editor: King, Aileen. Publisher: Springer US  
 
-### 2019
+  ### 2019
 
 1. [Leader β-cells coordinate Ca2+ dynamics across pancreatic islets in vivo](https://www.nature.com/articles/s42255-019-0075-2)  
   <span style="color:coral">*Nature Metabolism*</span>  
   Victoria Salem, Luis Delgadillo Silva, Kinga Suba, Eleni Georgiadou, S. Neda Mousavy Gharavy, Nadeem Akhtar, Aldara Martin-Alonso, David C. A. Gaboriau, Stephen M. Rothery, Theodoros Stylianides, Gaelle Carrat, Timothy J. Pullen, <span style="color:black">**Sumeet Pal Singh**</span>, David J. Hodson, Isabelle Leclerc, A. M. James Shapiro, Piero Marchetti, Linford J. B. Briant, Walter Distaso, Nikolay Ninov & Guy A. Rutter  
   <br/> 
-2. [RNA-seq analysis of LPS-induced transcriptional changes and its possible implications for the adrenal gland dysregulation during sepsis](https://www.sciencedirect.com/science/article/abs/pii/S0960076018306150)  
+1. [RNA-seq analysis of LPS-induced transcriptional changes and its possible implications for the adrenal gland dysregulation during sepsis](https://www.sciencedirect.com/science/article/abs/pii/S0960076018306150)  
   <span style="color:coral">*The Journal of steroid biochemistry and molecular biology*</span>  
   Lan-Sun Chen, <span style="color:black">**Sumeet Pal Singh**</span>, Maria Schuster, Tatyana Grinenko, Stefan R. Bornstein, Waldemar Kanczkowski
   
