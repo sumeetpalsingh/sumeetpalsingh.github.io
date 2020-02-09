@@ -7,13 +7,6 @@ featured_image: /images/demo/publications.jpg
 
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
-#. Test
-
-#. Test
-
-#. Test
-
-
 ### 2020
 
 1. [Single-cell transcriptome analysis reveals cell-cell communication and thyrocyte diversity in the zebrafish thyroid gland](https://www.biorxiv.org/content/10.1101/2020.01.13.891630v1)  
@@ -21,11 +14,11 @@ featured_image: /images/demo/publications.jpg
   Pierre Gillotay, Meghna P Shankar, <span style="color:black">**Sema Elif Eski**</span>, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
   <sup>§</sup> Co-Corresponding author  
   <br/>
-2. [Transcriptional analysis of sepsis-induced activation and damage of the adrenal microvascular cells](https://www.frontiersin.org/articles/10.3389/fendo.2019.00944/full)  
+1. [Transcriptional analysis of sepsis-induced activation and damage of the adrenal microvascular cells](https://www.frontiersin.org/articles/10.3389/fendo.2019.00944/full)  
   <span style="color:coral">*Frontiers in Endocrinology*</span>  
   Lan-Sun Chen, <span style="color:black">**Sumeet Pal Singh**</span>, Gregor Müller, Stefan R. Bornstein and Waldemar Kanczkowski  
   <br/>
-3. [Multicolor labeling and tracing of pancreatic beta-cell proliferation in zebrafish](https://www.springer.com/gp/book/9781071603840)  
+1. [Multicolor labeling and tracing of pancreatic beta-cell proliferation in zebrafish](https://www.springer.com/gp/book/9781071603840)  
   <span style="color:coral">*Animal Models of Diabetes: Methods and Protocols*</span>  
   <span style="color:black">**Sumeet Pal Singh**</span> and Nikolay Ninov. Editor: King, Aileen. Publisher: Springer US  
 
