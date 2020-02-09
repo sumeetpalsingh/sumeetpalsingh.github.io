@@ -40,4 +40,4 @@ In 2019, Sumeet was awarded the Mandat d’impulsion scientifique - mobilité Ul
   
 Download [CV][1]
 
-[1]:{{ site.url }}/download/CV_PubList_Singh.pdf
+[1]:{{ site.url }}/download/Sumeet_CV_Feb2020.pdf
