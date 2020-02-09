@@ -20,7 +20,7 @@ featured_image: /images/demo/publications.jpg
   <br/> 
   3. [Multicolor labeling and tracing of pancreatic beta-cell proliferation in zebrafish](https://www.springer.com/gp/book/9781071603840)
   <span style="color:coral">*Animal Models of Diabetes: Methods and Protocols*</span>
-  Editor: King, Aileen. Publisher: Springer US
+  <span style="color:black">**Sumeet Pal Singh**</span> and Nikolay Ninov. Editor: King, Aileen. Publisher: Springer US
 
 ### 2019
 
