@@ -5,17 +5,17 @@ description: Helping each other move forward.
 featured_image: /images/demo/meeting_header.jpg
 ---
 
-## ULB Single-cell Meetup (December, 2019)
+## ULB Single-cell Meetup (March, 2020)
 
 A single-cell user and interest group meetup! 
 
-A monthly platform for obtaining feedback on project setup, analysis; logistics for single-cell experiment, new tool development and most importantly, debugging not-so-good experiments. 
+A platform for obtaining feedback on project setup, analysis; logistics for single-cell experiment, new tool development and most importantly, debugging not-so-good experiments. 
 
 The meetup will be in conjugation with the Gosselies campus, and we hope to bring all the expertise and interest in single-cell at ULB under one roof for an evening.
 
-**_First Edition_**
+**_Second Edition_**
 
-Date: 19 December, 2019 (Thursday)
+Date: 19 March, 2020 (Thursday)
 
 Time: 16:00 onwards
 
@@ -27,15 +27,16 @@ Address: 808 Route de Lennik, BE-1070 Anderlecht
 
 Download [Meeting Announcement][1]
 
-[1]:{{ site.url }}/images/singleCellMeetup_19Dec.jpg
+[1]:{{ site.url }}/images/Scmeetup_march20.jpg
 
-## Speakers
+## Speaker
 
-**Isabel Vogel**: CD4-cell heterogeneity in autoimmunity-from questions to clusters to more questions
+[**Dr. Mirjana Efremova, Wellcome Sanger Institute, Cambridge, UK**](https://www.sanger.ac.uk/people/directory/efremova-mirjana)
 
-**Bechara Saykali**: Mouse mesoderm heterogeneity and specification at single cell resolution
+Talk on single-cell omics, followed by QnA session.
 
-#### 10x Genomics Grant Program
+
+#### 10x Genomics Grant Program (Deadline: 01 March, 2020)
 
 10x Genomics is kindly sponsering a **_Grant Program_**, with the aim of generating pilot data for grant application for 10x Genomics users and non-users. The grant program involves and **_Abstract competition_**. The prizes are as follows:
 
