@@ -24,7 +24,7 @@ featured_image: /images/demo/publications.jpg
   <br/>
 1. [An asymmetry in the frequency and position of mitosis in the epiblast precedes gastrulation and suggests a role for mitotic rounding in cell delamination during primitive streak epithelial-mesenchymal transition](https://www.biorxiv.org/content/10.1101/2020.02.21.959080v1)
   <span style="color:coral">*bioRxiv*</span>  
-   Evangeline Despin-Guitard,  Navrita Mathiah,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte
+  Evangeline Despin-Guitard,  Navrita Mathiah,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte
 
 
 ### 2019
