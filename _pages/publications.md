@@ -21,6 +21,11 @@ featured_image: /images/demo/publications.jpg
 1. [Multicolor labeling and tracing of pancreatic beta-cell proliferation in zebrafish](https://www.springer.com/gp/book/9781071603840)  
   <span style="color:coral">*Animal Models of Diabetes: Methods and Protocols*</span>  
   <span style="color:black">**Sumeet Pal Singh**</span> and Nikolay Ninov. Editor: King, Aileen. Publisher: Springer US  
+  <br/>
+1. [An asymmetry in the frequency and position of mitosis in the epiblast precedes gastrulation and suggests a role for mitotic rounding in cell delamination during primitive streak epithelial-mesenchymal transition](https://www.biorxiv.org/content/10.1101/2020.02.21.959080v1)
+  <span style="color:coral">*bioRxiv*</span>  
+   Evangeline Despin-Guitard,  Navrita Mathiah,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte
+
 
 ### 2019
 
