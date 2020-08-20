@@ -5,6 +5,9 @@ description: Singh Lab Members.
 featured_image: /images/demo/members.jpg
 ---
 
+#### 2020
+
+<img src="/images/members/GroupPhoto2020_Small.jpg" alt="GroupPhoto 2020">
 
 #### PhD Students
 <img src="/images/members/Elif.jpg" alt="Elif" style="float:left;width:123px;height:150px;margin:-20px 30px 0px 0px">

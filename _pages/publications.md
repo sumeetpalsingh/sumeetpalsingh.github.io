@@ -14,6 +14,10 @@ featured_image: /images/demo/publications.jpg
   Pierre Gillotay, Meghna P Shankar, <span style="color:black">**Sema Elif Eski**</span>, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
   <sup>§</sup> Co-Corresponding author  
   <br/>
+1. [Nuclei Isolation from Whole Tissue using a Detergent and Enzyme-Free Method](https://www.jove.com/t/61471/nuclei-isolation-from-whole-tissue-using-detergent-enzyme-free)  
+  <span style="color:coral">*J. Vis. Exp.*</span>  
+  <span style="color:black">**Sema Elif Eski**</span>, Christine Dubois, <span style="color:black">**Sumeet Pal Singh**</span>  
+  <br/>
 1. [Transcriptional analysis of sepsis-induced activation and damage of the adrenal microvascular cells](https://www.frontiersin.org/articles/10.3389/fendo.2019.00944/full)  
   <span style="color:coral">*Frontiers in Endocrinology*</span>  
   Lan-Sun Chen, <span style="color:black">**Sumeet Pal Singh**</span>, Gregor Müller, Stefan R. Bornstein and Waldemar Kanczkowski  
