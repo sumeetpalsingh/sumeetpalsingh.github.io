@@ -16,7 +16,7 @@ featured_image: /images/demo/publications.jpg
   <br/>
 1. [An asymmetry in the frequency and position of mitosis in the epiblast precedes gastrulation and suggests a role for mitotic rounding in cell delamination during primitive streak epithelial-mesenchymal transition](https://doi.org/10.15252/embr.202050944)  
   <span style="color:coral">*EMBO reports*</span>  
-  Navrita Mathiah,  Evangeline Despin-Guitard,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte
+  Navrita Mathiah,  Evangeline Despin-Guitard,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte  
   <br/>
 1. [Nuclei Isolation from Whole Tissue using a Detergent and Enzyme-Free Method](https://www.jove.com/t/61471/nuclei-isolation-from-whole-tissue-using-detergent-enzyme-free)  
   <span style="color:coral">*J. Vis. Exp.*</span>  
