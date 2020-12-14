@@ -9,10 +9,14 @@ featured_image: /images/demo/publications.jpg
 
 ### 2020
 
-1. [Single-cell transcriptome analysis reveals cell-cell communication and thyrocyte diversity in the zebrafish thyroid gland](https://www.biorxiv.org/content/10.1101/2020.01.13.891630v1)  
-  <span style="color:coral">*bioRxiv*</span>  
-  Pierre Gillotay, Meghna P Shankar, <span style="color:black">**Sema Elif Eski**</span>, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
+1. [Single-cell transcriptome analysis reveals thyrocyte diversity in the zebrafish thyroid gland](https://doi.org/10.15252/embr.202050612)  
+  <span style="color:coral">*EMBO reports*</span>  
+  Pierre Gillotay, Meghna P Shankar, <span style="color:black">**Sema Elif Eski, Macarena Pozo-Morales, Inés Garteizgogeascoa**</span>, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Nikolay Ninov, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
   <sup>§</sup> Co-Corresponding author  
+  <br/>
+  1. [An asymmetry in the frequency and position of mitosis in the epiblast precedes gastrulation and suggests a role for mitotic rounding in cell delamination during primitive streak epithelial-mesenchymal transition](https://doi.org/10.15252/embr.202050944) 
+  <span style="color:coral">*EMBO reports*</span>  
+  Navrita Mathiah,  Evangeline Despin-Guitard,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte
   <br/>
 1. [Nuclei Isolation from Whole Tissue using a Detergent and Enzyme-Free Method](https://www.jove.com/t/61471/nuclei-isolation-from-whole-tissue-using-detergent-enzyme-free)  
   <span style="color:coral">*J. Vis. Exp.*</span>  
@@ -25,11 +29,7 @@ featured_image: /images/demo/publications.jpg
 1. [Multicolor labeling and tracing of pancreatic beta-cell proliferation in zebrafish](https://www.springer.com/gp/book/9781071603840)  
   <span style="color:coral">*Animal Models of Diabetes: Methods and Protocols*</span>  
   <span style="color:black">**Sumeet Pal Singh**</span> and Nikolay Ninov. Editor: King, Aileen. Publisher: Springer US  
-  <br/>
-1. [An asymmetry in the frequency and position of mitosis in the epiblast precedes gastrulation and suggests a role for mitotic rounding in cell delamination during primitive streak epithelial-mesenchymal transition](https://www.biorxiv.org/content/10.1101/2020.02.21.959080v1)  
-  <span style="color:coral">*bioRxiv*</span>  
-  Evangeline Despin-Guitard,  Navrita Mathiah,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte
-
+  
 
 ### 2019
 
