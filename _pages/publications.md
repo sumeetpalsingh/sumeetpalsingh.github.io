@@ -8,7 +8,7 @@ featured_image: /images/demo/publications.jpg
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
 ### 2020
-
+<img src="/images/publications/EMBOCover_Small.jpeg" alt="Elif" style="float:left;width:193px;height:251px;margin:-20px 30px 0px 0px">
 1. [Single-cell transcriptome analysis reveals thyrocyte diversity in the zebrafish thyroid gland](https://doi.org/10.15252/embr.202050612)  
   <span style="color:coral">*EMBO reports*</span>  
   Pierre Gillotay, Meghna P Shankar, <span style="color:black">**Sema Elif Eski, Macarena Pozo-Morales, Inés Garteizgogeascoa**</span>, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Nikolay Ninov, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
