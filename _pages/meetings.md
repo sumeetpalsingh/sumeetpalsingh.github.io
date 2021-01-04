@@ -28,15 +28,14 @@ Where: Zoom [https://us02web.zoom.us/j/86278029712](https://us02web.zoom.us/j/86
 
 <!-- [1]:{{ site.url }}/images/Scmeetup_march20.jpg -->
 
-## Speakers
-
+### Talks
 
 ##### Single Cell Multiome ATAC + Gene Expression
-###### Christophe Fleury, Ph. D., 10x Genomics
+**Christophe Fleury, Ph. D., 10x Genomics**
 
 
 ##### Spatial Transcriptomics
-###### Prof. Vincent Detours, Ph. D., IRIBHM, ULB
+**Prof. Vincent Detours, Ph. D., IRIBHM, ULB**
 
 #### Contact
 
