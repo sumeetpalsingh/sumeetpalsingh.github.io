@@ -19,26 +19,24 @@ Date: 20 January, 2021 (Wednesday)
 
 Time: 16:00 onwards
 
-Where: Zoom (https://us02web.zoom.us/j/86278029712)
-<!---
+Where: Zoom [https://us02web.zoom.us/j/86278029712](https://us02web.zoom.us/j/86278029712)
+<!-- Room: C4 121 (Salle J.P. Gillet) -->
 
-Room: C4 121 (Salle J.P. Gillet)
+<!-- Address: 808 Route de Lennik, BE-1070 Anderlecht -->
 
-Address: 808 Route de Lennik, BE-1070 Anderlecht
+<!-- Download [Meeting Announcement][1] -->
 
-Download [Meeting Announcement][1]
+<!-- [1]:{{ site.url }}/images/Scmeetup_march20.jpg -->
 
-[1]:{{ site.url }}/images/Scmeetup_march20.jpg
---->
 ## Speakers
 
-**Christophe Fleury, Ph. D., 10x Genomics**
+#### Christophe Fleury, Ph. D., 10x Genomics
 
-### Single Cell Multiome ATAC + Gene Expression
+##### Single Cell Multiome ATAC + Gene Expression
 
-[**Prof. Vincent Detours, Ph. D., IRIBHM, ULB**]
+#### Prof. Vincent Detours, Ph. D., IRIBHM, ULB
 
-### Spatial Transcriptomics
+##### Spatial Transcriptomics
 
 
 #### Contact
