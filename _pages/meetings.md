@@ -24,9 +24,9 @@ Where: Zoom [https://us02web.zoom.us/j/86278029712](https://us02web.zoom.us/j/86
 
 <!-- Address: 808 Route de Lennik, BE-1070 Anderlecht -->
 
-<!-- Download [Meeting Announcement][1] -->
+Download [Meeting Announcement][1]
 
-<!-- [1]:{{ site.url }}/images/Scmeetup_march20.jpg -->
+[1]:{{ site.url }}/images/scMeet_Jan2021.png
 
 ### Talks
 
