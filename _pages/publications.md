@@ -26,7 +26,7 @@ featured_image: /images/demo/publications.jpg
   Pierre Gillotay, Meghna P Shankar, <span style="color:black">**Sema Elif Eski, Macarena Pozo-Morales, Inés Garteizgogeascoa**</span>, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Nikolay Ninov, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
   <sup>§</sup> Co-Corresponding author  
   <br/>
-1. [An asymmetry in the frequency and position of mitosis in the epiblast precedes gastrulation and suggests a role for mitotic rounding in cell delamination during primitive streak epithelial-mesenchymal transition](https://doi.org/10.15252/embr.202050944)  
+1. [Asymmetry in the frequency and position of mitosis in the mouse embryo epiblast at gastrulation](https://doi.org/10.15252/embr.202050944)  
   <span style="color:coral">*EMBO reports*</span>  
   Navrita Mathiah,  Evangeline Despin-Guitard,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte  
   <br/>
