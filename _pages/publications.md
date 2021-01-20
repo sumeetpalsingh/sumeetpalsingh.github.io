@@ -12,7 +12,7 @@ featured_image: /images/demo/publications.jpg
 1. [Single-cell trajectory inference guided enhancement of thyroid maturation in vitro using TGF-beta inhibition](https://doi.org/10.1101/2021.01.18.427103)  
   <span style="color:coral">*bioRxiv*</span>  
   Mirian Romitti<sup>§</sup><sup>*</sup>, Sema Elif Eski<sup>*</sup>, Barbara Faria Fonseca, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sabine Costagliola<sup>§</sup>  
-  <sup>*</sup> Co-Authors
+  <sup>*</sup> Co-Authors  
   <sup>§</sup> Co-Corresponding author    
   
 ### 2020
