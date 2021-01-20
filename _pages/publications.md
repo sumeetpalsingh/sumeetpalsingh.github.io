@@ -14,6 +14,10 @@ featured_image: /images/demo/publications.jpg
   Mirian Romitti<sup>§</sup><sup>*</sup>, Sema Elif Eski<sup>*</sup>, Barbara Faria Fonseca, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sabine Costagliola<sup>§</sup>  
   <sup>*</sup> Co-Authors  
   <sup>§</sup> Co-Corresponding author    
+  <br/>
+1. [In vivo proximity labeling identifies cardiomyocyte protein networks during zebrafish heart regeneration](https://doi.org/10.1101/2021.01.19.427246)  
+  <span style="color:coral">*bioRxiv*</span>  
+  Mira I. Pronobis, Susan Zheng, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Kenneth D. Poss      
   
 ### 2020
 <img src="/images/publications/EMBOCover_Small.jpeg" alt="EMBO_Cover" style="float:left;width:193px;height:251px;margin:-20px 30px 0px 0px">
