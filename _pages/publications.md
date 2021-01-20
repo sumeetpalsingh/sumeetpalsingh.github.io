@@ -7,6 +7,14 @@ featured_image: /images/demo/publications.jpg
 
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
+### 2021
+1. [Single-cell trajectory inference guided enhancement of thyroid maturation in vitro using TGF-beta inhibition](https://doi.org/10.1101/2021.01.18.427103)  
+  <span style="color:coral">*bioRxiv*</span>  
+  Mirian Romitti, Sema Elif Eski, Barbara Faria Fonseca, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sabine Costagliola<sup>§</sup>  
+  <sup>§</sup> Co-Corresponding author  
+  <br/>  
+  
+
 ### 2020
 <img src="/images/publications/EMBOCover_Small.jpeg" alt="EMBO_Cover" style="float:left;width:193px;height:251px;margin:-20px 30px 0px 0px">
 1. [Single-cell transcriptome analysis reveals thyrocyte diversity in the zebrafish thyroid gland](https://doi.org/10.15252/embr.202050612)  
