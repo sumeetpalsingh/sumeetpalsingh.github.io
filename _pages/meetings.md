@@ -15,7 +15,7 @@ The meetup will be in conjugation with the Gosselies campus, and we hope to brin
 
 **_April 2021 Edition_**
 
-Date: 28 January, 2021 (Wednesday)
+Date: 28 April, 2021 (Wednesday)
 
 Time: 16:00 onwards
 
