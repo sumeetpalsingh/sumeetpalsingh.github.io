@@ -9,8 +9,8 @@ featured_image: /images/demo/publications.jpg
 
 ### 2021
 
-1. [Keratin dynamics govern the establishment of the maternal-fetal interface.](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)  
-  <span style="color:coral">*bioRxiv*</span>  
+1. [Keratin dynamics govern the establishment of the maternal-fetal interface.      
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)    
   Wallis Nahaboo, Sema Elif Eski, Marjorie Vermeersch, Bechara Saykali , Daniel Monteyne, Thomas M. Magin, Nicole Schwarz, An Zwijsen, David Perez-Morga, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Migeotte    
   <br/>
 1. [Single-cell trajectory inference guided enhancement of thyroid maturation in vitro using TGF-beta inhibition](https://doi.org/10.1101/2021.01.18.427103)  
@@ -22,7 +22,7 @@ featured_image: /images/demo/publications.jpg
 1. [In vivo proximity labeling identifies cardiomyocyte protein networks during zebrafish heart regeneration](https://elifesciences.org/articles/66079)  
   <span style="color:coral">*eLife*</span>    
   Mira I. Pronobis, Susan Zheng, <span style="color:black">**Sumeet Pal Singh**</span>, Joseph A Goldman, Kenneth D. Poss  
-  [*bioRxiv*](https://doi.org/10.1101/2021.01.19.427246)  
+  [*bioRxiv* Submission](https://doi.org/10.1101/2021.01.19.427246)  
   
 ### 2020
 <img src="/images/publications/EMBOCover_Small.jpeg" alt="EMBO_Cover" style="float:left;width:193px;height:251px;margin:-20px 30px 0px 0px">
@@ -30,12 +30,12 @@ featured_image: /images/demo/publications.jpg
   <span style="color:coral">*EMBO reports*</span>   
   Pierre Gillotay, Meghna P Shankar, <span style="color:black">**Sema Elif Eski, Macarena Pozo-Morales, Inés Garteizgogeascoa**</span>, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Nikolay Ninov, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
   <sup>§</sup> Co-Corresponding author  
-  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.01.13.891630v2)   
+  [*bioRxiv* Submission](https://www.biorxiv.org/content/10.1101/2020.01.13.891630v2)   
   <br/>
 1. [Asymmetry in the frequency and position of mitosis in the mouse embryo epiblast at gastrulation](https://doi.org/10.15252/embr.202050944)  
   <span style="color:coral">*EMBO reports*</span>  
   Navrita Mathiah,  Evangeline Despin-Guitard,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte  
-  [*bioRxiv*](https://doi.org/10.1101/2020.02.21.959080)  
+  [*bioRxiv* Submission](https://doi.org/10.1101/2020.02.21.959080)  
   <br/>
 1. [Nuclei Isolation from Whole Tissue using a Detergent and Enzyme-Free Method](https://www.jove.com/t/61471/nuclei-isolation-from-whole-tissue-using-detergent-enzyme-free)  
   <span style="color:coral">*J. Vis. Exp.*</span>  
@@ -66,7 +66,7 @@ featured_image: /images/demo/publications.jpg
   <span style="color:coral">*Scientific Reports*</span>  
   <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sharan Janjuha, Samata Chaudhuri, Susanne Reinhardt, Annekathrin Kränkel, Sevina Dietz, Anne Eugster, Halil Bilgin, Selçuk Korkmaz, Gökmen Zararsız, Nikolay Ninov & John E. Reid  
   <sup>§</sup> Corresponding author  
-  [*bioRxiv*](https://doi.org/10.1101/303214)  
+  [*bioRxiv* Submission](https://doi.org/10.1101/303214)  
   <br/>
 1. [In Toto Imaging of Dynamic Osteoblast Behaviors in Regenerating Skeletal Bone](https://www.cell.com/current-biology/fulltext/S0960-9822(18)31419-2)  
   <span style="color:coral">*Current Biology*</span>  
