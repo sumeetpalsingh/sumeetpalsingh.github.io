@@ -34,7 +34,7 @@ Download [Meeting Announcement][1]
 **Guillem Sánchez Sánchez, ULB Center for Research in Immunology**
 
 
-##### Collaborative Data Exploration
+##### Collaborative Data Exploration with iSEE
 **[Federico Marini](https://federicomarini.github.io/), PhD, IMBEI (Instituts für Medizinische Biometrie, Epidemiologie und Informatik) - University Medical Center 
 Mainz, Germany**
 
