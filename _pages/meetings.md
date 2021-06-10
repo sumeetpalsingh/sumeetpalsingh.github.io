@@ -35,7 +35,8 @@ Download [Meeting Announcement][1]
 
 
 ##### Collaborative Data Exploration
-**[Federico Marini](https://federicomarini.github.io/), PhD, Uni Mainz, Germany**
+**[Federico Marini](https://federicomarini.github.io/), PhD, IMBEI (Instituts für Medizinische Biometrie, Epidemiologie und Informatik) - University Medical Center 
+Mainz, Germany**
 
 #### Contact
 
