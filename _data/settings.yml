@@ -28,7 +28,7 @@ menu_settings:
 #      url: '/blog/'
 
 footer_settings:
-  footer_tagline: Single-cell Endocrinology.
+  footer_tagline: Regenerative Biology.
 
 hero_settings:
   overlay_opacity: 0.8
