@@ -8,10 +8,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Home'
-      url: '/'
     - title: 'Research'
-      url: '/research'
+      url: '/'
+#    - title: 'Research'
+#      url: '/research'
     - title: 'Members'
       url: '/members'
     - title: 'Publications'
