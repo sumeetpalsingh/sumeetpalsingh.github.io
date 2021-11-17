@@ -7,12 +7,19 @@ featured_image: /images/demo/members.jpg
 
 #### 2020
 
-<img src="/images/members/GroupPhoto2020_Small.jpg" alt="GroupPhoto 2020">
+<img src="/images/members/GroupPhoto2021_Small.jpg" alt="GroupPhoto 2021">
+
+#### Technician
+<img src="/images/members/Camille.jpg" alt="Camille" style="float:left;width:123px;height:150px;margin:-20px 30px 0px 0px">
+
+<span style="color:coral">**Camille Perazzolo**</span>.  
+
+<br/>
 
 #### PhD Students
 <img src="/images/members/Elif.jpg" alt="Elif" style="float:left;width:123px;height:150px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Elif Eski**</span>, the lab's first PhD student, is joining on 01 November, 2019! She obtained her M.Sc. degree from Bogazici University, Turkey. During her master's thesis under the supervision of [Dr. Stefan H. Fuss](http://neurobio.boun.edu.tr/), she focussed on the role of Wnt/β-catenin signaling during regenerative neurogenesis in adult zebrafish olfactory epithelium. 
+<span style="color:coral">**Elif Eski**</span>, the lab's first PhD student, joined on 01 November, 2019. She obtained her M.Sc. degree from Bogazici University, Turkey. During her master's thesis under the supervision of [Dr. Stefan H. Fuss](http://neurobio.boun.edu.tr/), she focussed on the role of Wnt/β-catenin signaling during regenerative neurogenesis in adult zebrafish olfactory epithelium. 
 
 <br/>
 
