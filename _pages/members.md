@@ -5,7 +5,7 @@ description: Singh Lab Members.
 featured_image: /images/demo/members.jpg
 ---
 
-#### 2020
+#### 2021
 
 <img src="/images/members/GroupPhoto2021_Small.jpg" alt="GroupPhoto 2021">
 
