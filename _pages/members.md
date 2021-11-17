@@ -12,7 +12,7 @@ featured_image: /images/demo/members.jpg
 #### Technician
 <img src="/images/members/Camille.jpg" alt="Camille" style="float:left;width:135px;height:150px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Camille Perazzolo**</span> performed her Bachelor in medical biology with clinical chemistry option at the Paul Lambin Institute (Haute école Da Vinci). She graduated June 2012 with Distinction. Since 2012, she has been working at ULB on projects related to zebrafish. She has strong expertise in handing, maintainance and transgenesis of  zebrafish. 
+<span style="color:coral">**Camille Perazzolo**</span> performed her Bachelor in medical biology with clinical chemistry option at the Paul Lambin Institute (Haute école Da Vinci), where she graduated in June 2012 with Distinction. Since 2012, she has been working at ULB on projects related to zebrafish. She has strong expertise in handing, maintainance and transgenesis of  zebrafish, as well as molecular biology and confocal imaging. She is currently focusing on developing tools to visualize the dynamic response of the cells to stress. 
 
 <br/>
 
