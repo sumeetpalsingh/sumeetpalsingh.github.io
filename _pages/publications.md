@@ -22,7 +22,7 @@ featured_image: /images/demo/publications.jpg
   Wallis Nahaboo, Sema Elif Eski, Marjorie Vermeersch, Bechara Saykali , Daniel Monteyne, Thomas M. Magin, Nicole Schwarz, An Zwijsen, David Perez-Morga, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Migeotte    
   <br/>
 1. [Single-cell trajectory inference guided enhancement of thyroid maturation in vitro using TGF-beta inhibition     
-  <span style="color:coral">*Frontiers in Endocrinology*</span>](https://doi.org/10.3389/fendo.2021.657195) 
+  <span style="color:coral">*Frontiers in Endocrinology*</span>](https://doi.org/10.3389/fendo.2021.657195)  
   [*bioRxiv*](https://doi.org/10.1101/2021.01.18.427103)  
   Mirian Romitti<sup>§</sup><sup>*</sup>, Sema Elif Eski<sup>*</sup>, Barbara Faria Fonseca, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sabine Costagliola<sup>§</sup>  
   <sup>*</sup> Co-Authors  
