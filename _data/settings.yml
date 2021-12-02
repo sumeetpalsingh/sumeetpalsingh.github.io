@@ -31,8 +31,6 @@ menu_settings:
 
 footer_settings:
   footer_tagline: Regenerative Biology.
-  logo_image: /images/logo.png
-  logo_width: 50
 
 hero_settings:
   overlay_opacity: 0.8
