@@ -16,7 +16,7 @@ featured_image: /images/demo/publications.jpg
 1. [A single-cell atlas of de novo β-cell regeneration reveals the contribution of hybrid β/δ cells to diabetes recovery in zebrafish.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.06.24.449704v1)    
   <span style="color:black">**Sumeet Pal Singh**</span><sup>*</sup>, Prateek Chawla<sup>*</sup>, Alisa Hnatiuk, Margrit Kamel, Luis Delgadillo Silva, Bastiaan Spanjard, Sema Elif Eski, Sharan Janjuha, Pedro Olivares, Oezge Kayisoglu, Fabian Rost, Juliane Bläsche, Annekathrin Kränkel, Andreas Petzold, Thomas Kurth, Susanne Reinhardt, Jan Philipp Junker, Nikolay Ninov  
-  <sup>*</sup> Co-Authors
+  <sup>*</sup> Co-Authors  
   <br/>
 1. [Keratin dynamics govern the establishment of the maternal-fetal interface.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)    
