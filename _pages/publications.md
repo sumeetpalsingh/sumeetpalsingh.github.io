@@ -7,6 +7,13 @@ featured_image: /images/demo/publications.jpg
 
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
+### 2022
+
+1. PTPN2 regulates the interferon signalling and endoplasmic reticulum stress response in pancreatic β-cells in autoimmune diabetes.      
+  <span style="color:coral">*Diabetes (Accepted)*</span>    
+  Bernat Elvira, Valerie Vandenbempt, JuliaBauzá-Martinez, Raphaël Crutzen, Javier Negueruela, Hazem Ibrahim, Matthew Winder, Manoja Brahma, Beata Vekeriotaite, Pieter-Jan Martens, <span style="color:black">**Sumeet Pal Singh**</span>, Fernando Rossello, Pascale Lybaert, Timo Otonkoski, Conny Gysemans, Wei Wu, Esteban Gurzov  
+  
+
 ### 2021
 
 1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
