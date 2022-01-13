@@ -24,21 +24,21 @@ featured_image: /images/demo/publications.jpg
 
 1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.12.01.470729v1)    
-  Mirian Romitti, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Adrien Tourneur, Sema Elif Eski, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Pal Refetoff, Sabine Costagliola    
+  Mirian Romitti, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Adrien Tourneur, <span style="color:teal">**Sema Elif Eski**</span>, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Pal Refetoff, Sabine Costagliola    
   <br/>
 1. [A single-cell atlas of de novo β-cell regeneration reveals the contribution of hybrid β/δ cells to diabetes recovery in zebrafish.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.06.24.449704v1)    
-  <span style="color:black">**Sumeet Pal Singh**</span><sup>*</sup>, Prateek Chawla<sup>*</sup>, Alisa Hnatiuk, Margrit Kamel, Luis Delgadillo Silva, Bastiaan Spanjard, Sema Elif Eski, Sharan Janjuha, Pedro Olivares, Oezge Kayisoglu, Fabian Rost, Juliane Bläsche, Annekathrin Kränkel, Andreas Petzold, Thomas Kurth, Susanne Reinhardt, Jan Philipp Junker, Nikolay Ninov  
+  <span style="color:black">**Sumeet Pal Singh**</span><sup>*</sup>, Prateek Chawla<sup>*</sup>, Alisa Hnatiuk, Margrit Kamel, Luis Delgadillo Silva, Bastiaan Spanjard, <span style="color:teal">**Sema Elif Eski**</span>, Sharan Janjuha, Pedro Olivares, Oezge Kayisoglu, Fabian Rost, Juliane Bläsche, Annekathrin Kränkel, Andreas Petzold, Thomas Kurth, Susanne Reinhardt, Jan Philipp Junker, Nikolay Ninov  
   <sup>*</sup> Co-Authors  
   <br/>
 1. [Keratin dynamics govern the establishment of the maternal-fetal interface.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)    
-  Wallis Nahaboo, Sema Elif Eski, Marjorie Vermeersch, Bechara Saykali , Daniel Monteyne, Thomas M. Magin, Nicole Schwarz, An Zwijsen, David Perez-Morga, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Migeotte    
+  Wallis Nahaboo, <span style="color:teal">**Sema Elif Eski**</span>, Marjorie Vermeersch, Bechara Saykali , Daniel Monteyne, Thomas M. Magin, Nicole Schwarz, An Zwijsen, David Perez-Morga, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Migeotte    
   <br/>
 1. [Single-cell trajectory inference guided enhancement of thyroid maturation in vitro using TGF-beta inhibition     
   <span style="color:coral">*Frontiers in Endocrinology*</span>](https://doi.org/10.3389/fendo.2021.657195)  
   [*bioRxiv*](https://doi.org/10.1101/2021.01.18.427103)  
-  Mirian Romitti<sup>§</sup><sup>*</sup>, Sema Elif Eski<sup>*</sup>, Barbara Faria Fonseca, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sabine Costagliola<sup>§</sup>  
+  Mirian Romitti<sup>§</sup><sup>*</sup>, <span style="color:teal">**Sema Elif Eski**</span><sup>*</sup>, Barbara Faria Fonseca, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sabine Costagliola<sup>§</sup>  
   <sup>*</sup> Co-Authors  
   <sup>§</sup> Co-Corresponding author    
   <br/>
