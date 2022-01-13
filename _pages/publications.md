@@ -7,7 +7,7 @@ featured_image: /images/demo/publications.jpg
 
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
-<span style="color:D96098">Lab Members in Teal</span>
+<span style="color:#D96098">Lab Members in Teal</span>
 
 ### 2022
 
