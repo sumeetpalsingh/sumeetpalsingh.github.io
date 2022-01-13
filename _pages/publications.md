@@ -11,7 +11,7 @@ featured_image: /images/demo/publications.jpg
 
 1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes    
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
-  <span style="color:black">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo, Sumeet Pal Singh**</span>       
+  <span style="color:teal">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo</span>, <span style="color:black">Sumeet Pal Singh**</span>       
   <br/>
 1. PTPN2 regulates the interferon signalling and endoplasmic reticulum stress response in pancreatic β-cells in autoimmune diabetes.      
   <span style="color:coral">*Diabetes (Accepted)*</span>    
