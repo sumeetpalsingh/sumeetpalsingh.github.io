@@ -7,11 +7,13 @@ featured_image: /images/demo/publications.jpg
 
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
+<span style="color:#D96098">Lab Members in Purple</span>
+
 ### 2022
 
 1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes    
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
-  <span style="color:black">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo, Sumeet Pal Singh**</span>       
+  <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, <span style="color:black">**Sumeet Pal Singh**</span>       
   <br/>
 1. [PTPN2 regulates the interferon signalling and endoplasmic reticulum stress response in pancreatic β-cells in autoimmune diabetes.      
   <span style="color:coral">*Diabetes*</span>](https://doi.org/10.2337/db21-0443)    
@@ -22,21 +24,21 @@ featured_image: /images/demo/publications.jpg
 
 1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.12.01.470729v1)    
-  Mirian Romitti, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Adrien Tourneur, Sema Elif Eski, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Pal Refetoff, Sabine Costagliola    
+  Mirian Romitti, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Adrien Tourneur, <span style="color:#D96098">**Sema Elif Eski**</span>, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Pal Refetoff, Sabine Costagliola    
   <br/>
 1. [A single-cell atlas of de novo β-cell regeneration reveals the contribution of hybrid β/δ cells to diabetes recovery in zebrafish.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.06.24.449704v1)    
-  <span style="color:black">**Sumeet Pal Singh**</span><sup>*</sup>, Prateek Chawla<sup>*</sup>, Alisa Hnatiuk, Margrit Kamel, Luis Delgadillo Silva, Bastiaan Spanjard, Sema Elif Eski, Sharan Janjuha, Pedro Olivares, Oezge Kayisoglu, Fabian Rost, Juliane Bläsche, Annekathrin Kränkel, Andreas Petzold, Thomas Kurth, Susanne Reinhardt, Jan Philipp Junker, Nikolay Ninov  
+  <span style="color:black">**Sumeet Pal Singh**</span><sup>*</sup>, Prateek Chawla<sup>*</sup>, Alisa Hnatiuk, Margrit Kamel, Luis Delgadillo Silva, Bastiaan Spanjard, <span style="color:#D96098">**Sema Elif Eski**</span>, Sharan Janjuha, Pedro Olivares, Oezge Kayisoglu, Fabian Rost, Juliane Bläsche, Annekathrin Kränkel, Andreas Petzold, Thomas Kurth, Susanne Reinhardt, Jan Philipp Junker, Nikolay Ninov  
   <sup>*</sup> Co-Authors  
   <br/>
 1. [Keratin dynamics govern the establishment of the maternal-fetal interface.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)    
-  Wallis Nahaboo, Sema Elif Eski, Marjorie Vermeersch, Bechara Saykali , Daniel Monteyne, Thomas M. Magin, Nicole Schwarz, An Zwijsen, David Perez-Morga, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Migeotte    
+  Wallis Nahaboo, <span style="color:#D96098">**Sema Elif Eski**</span>, Marjorie Vermeersch, Bechara Saykali , Daniel Monteyne, Thomas M. Magin, Nicole Schwarz, An Zwijsen, David Perez-Morga, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Migeotte    
   <br/>
 1. [Single-cell trajectory inference guided enhancement of thyroid maturation in vitro using TGF-beta inhibition     
   <span style="color:coral">*Frontiers in Endocrinology*</span>](https://doi.org/10.3389/fendo.2021.657195)  
   [*bioRxiv*](https://doi.org/10.1101/2021.01.18.427103)  
-  Mirian Romitti<sup>§</sup><sup>*</sup>, Sema Elif Eski<sup>*</sup>, Barbara Faria Fonseca, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sabine Costagliola<sup>§</sup>  
+  Mirian Romitti<sup>§</sup><sup>*</sup>, <span style="color:#D96098">**Sema Elif Eski**</span><sup>*</sup>, Barbara Faria Fonseca, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>, Sabine Costagliola<sup>§</sup>  
   <sup>*</sup> Co-Authors  
   <sup>§</sup> Co-Corresponding author    
   <br/>
@@ -50,17 +52,17 @@ featured_image: /images/demo/publications.jpg
 1. [Single-cell transcriptome analysis reveals thyrocyte diversity in the zebrafish thyroid gland    
   <span style="color:coral">*EMBO reports*</span>](https://doi.org/10.15252/embr.202050612)     
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2020.01.13.891630v2)   
-  Pierre Gillotay, Meghna P Shankar, <span style="color:black">**Sema Elif Eski, Macarena Pozo-Morales, Inés Garteizgogeascoa**</span>, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Nikolay Ninov, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
+  Pierre Gillotay, Meghna P Shankar, <span style="color:#D96098">**Sema Elif Eski, Macarena Pozo-Morales, Inés Garteizgogeascoa**</span>, Susanne Reinhardt, Annekathrin Kraenkel, Juliane Blaesche, Andreas Petzold, Nikolay Ninov, Gokul Kesavan, Christian Lange, Michael Brand, Vincent Detours, Sabine Costagliola<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
   <sup>§</sup> Co-Corresponding author     
   <br/>
 1. [Asymmetry in the frequency and position of mitosis in the mouse embryo epiblast at gastrulation     
   <span style="color:coral">*EMBO reports*</span>](https://doi.org/10.15252/embr.202050944)    
   [*bioRxiv*](https://doi.org/10.1101/2020.02.21.959080)  
-  Navrita Mathiah,  Evangeline Despin-Guitard,  Matthew Stower,  Wallis Nahaboo,  <span style="color:black">**Sema Elif Eski, Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte  
+  Navrita Mathiah,  Evangeline Despin-Guitard,  Matthew Stower,  Wallis Nahaboo,  <span style="color:#D96098">**Sema Elif Eski**</span>, <span style="color:black">**Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte  
   <br/>
 1. [Nuclei Isolation from Whole Tissue using a Detergent and Enzyme-Free Method    
   <span style="color:coral">*J. Vis. Exp.*</span>](https://www.jove.com/t/61471/nuclei-isolation-from-whole-tissue-using-detergent-enzyme-free)    
-  <span style="color:black">**Sema Elif Eski**</span>, Christine Dubois, <span style="color:black">**Sumeet Pal Singh**</span>  
+  <span style="color:#D96098">**Sema Elif Eski**</span>, Christine Dubois, <span style="color:black">**Sumeet Pal Singh**</span>  
   <br/>
 1. [Transcriptional analysis of sepsis-induced activation and damage of the adrenal microvascular cells  
   <span style="color:coral">*Frontiers in Endocrinology*</span>](https://www.frontiersin.org/articles/10.3389/fendo.2019.00944/full)  
