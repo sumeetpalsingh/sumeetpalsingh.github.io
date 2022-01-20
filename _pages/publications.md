@@ -13,8 +13,8 @@ featured_image: /images/demo/publications.jpg
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
   <span style="color:black">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo, Sumeet Pal Singh**</span>       
   <br/>
-1. PTPN2 regulates the interferon signalling and endoplasmic reticulum stress response in pancreatic β-cells in autoimmune diabetes.      
-  <span style="color:coral">*Diabetes (Accepted)*</span>    
+1. [PTPN2 regulates the interferon signalling and endoplasmic reticulum stress response in pancreatic β-cells in autoimmune diabetes.      
+  <span style="color:coral">*Diabetes*</span>](https://doi.org/10.2337/db21-0443)    
   Bernat Elvira, Valerie Vandenbempt, JuliaBauzá-Martinez, Raphaël Crutzen, Javier Negueruela, Hazem Ibrahim, Matthew Winder, Manoja Brahma, Beata Vekeriotaite, Pieter-Jan Martens, <span style="color:black">**Sumeet Pal Singh**</span>, Fernando Rossello, Pascale Lybaert, Timo Otonkoski, Conny Gysemans, Wei Wu, Esteban Gurzov  
   
 
