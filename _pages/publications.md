@@ -16,7 +16,7 @@ featured_image: /images/demo/publications.jpg
   <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, <span style="color:black">**Sumeet Pal Singh**</span>       
   <br/>
 1. [A single-cell atlas of de novo β-cell regeneration reveals the contribution of hybrid β/δ cells to diabetes recovery in zebrafish.      
-  <span style="color:coral">*Development*</span>](https://doi.org/10.1242/dev.199853)
+  <span style="color:coral">*Development*</span>](https://doi.org/10.1242/dev.199853)  
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.06.24.449704v1)    
   <span style="color:black">**Sumeet Pal Singh**</span><sup>*</sup>, Prateek Chawla<sup>*</sup>, Alisa Hnatiuk, Margrit Kamel, Luis Delgadillo Silva, Bastiaan Spanjard, <span style="color:#D96098">**Sema Elif Eski**</span>, Sharan Janjuha, Pedro Olivares, Oezge Kayisoglu, Fabian Rost, Juliane Bläsche, Annekathrin Kränkel, Andreas Petzold, Thomas Kurth, Susanne Reinhardt, Jan Philipp Junker, Nikolay Ninov  
   <sup>*</sup> Co-Authors  
