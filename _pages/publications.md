@@ -15,6 +15,12 @@ featured_image: /images/demo/publications.jpg
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
   <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, <span style="color:black">**Sumeet Pal Singh**</span>       
   <br/>
+1. [A single-cell atlas of de novo β-cell regeneration reveals the contribution of hybrid β/δ cells to diabetes recovery in zebrafish.      
+  <span style="color:coral">*Development*</span>](https://doi.org/10.1242/dev.199853)
+  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.06.24.449704v1)    
+  <span style="color:black">**Sumeet Pal Singh**</span><sup>*</sup>, Prateek Chawla<sup>*</sup>, Alisa Hnatiuk, Margrit Kamel, Luis Delgadillo Silva, Bastiaan Spanjard, <span style="color:#D96098">**Sema Elif Eski**</span>, Sharan Janjuha, Pedro Olivares, Oezge Kayisoglu, Fabian Rost, Juliane Bläsche, Annekathrin Kränkel, Andreas Petzold, Thomas Kurth, Susanne Reinhardt, Jan Philipp Junker, Nikolay Ninov  
+  <sup>*</sup> Co-Authors  
+  <br/>
 1. [PTPN2 regulates the interferon signalling and endoplasmic reticulum stress response in pancreatic β-cells in autoimmune diabetes.      
   <span style="color:coral">*Diabetes*</span>](https://doi.org/10.2337/db21-0443)    
   Bernat Elvira, Valerie Vandenbempt, JuliaBauzá-Martinez, Raphaël Crutzen, Javier Negueruela, Hazem Ibrahim, Matthew Winder, Manoja Brahma, Beata Vekeriotaite, Pieter-Jan Martens, <span style="color:black">**Sumeet Pal Singh**</span>, Fernando Rossello, Pascale Lybaert, Timo Otonkoski, Conny Gysemans, Wei Wu, Esteban Gurzov  
@@ -25,11 +31,6 @@ featured_image: /images/demo/publications.jpg
 1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.12.01.470729v1)    
   Mirian Romitti, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Adrien Tourneur, <span style="color:#D96098">**Sema Elif Eski**</span>, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Pal Refetoff, Sabine Costagliola    
-  <br/>
-1. [A single-cell atlas of de novo β-cell regeneration reveals the contribution of hybrid β/δ cells to diabetes recovery in zebrafish.      
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.06.24.449704v1)    
-  <span style="color:black">**Sumeet Pal Singh**</span><sup>*</sup>, Prateek Chawla<sup>*</sup>, Alisa Hnatiuk, Margrit Kamel, Luis Delgadillo Silva, Bastiaan Spanjard, <span style="color:#D96098">**Sema Elif Eski**</span>, Sharan Janjuha, Pedro Olivares, Oezge Kayisoglu, Fabian Rost, Juliane Bläsche, Annekathrin Kränkel, Andreas Petzold, Thomas Kurth, Susanne Reinhardt, Jan Philipp Junker, Nikolay Ninov  
-  <sup>*</sup> Co-Authors  
   <br/>
 1. [Keratin dynamics govern the establishment of the maternal-fetal interface.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)    
