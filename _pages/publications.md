@@ -15,6 +15,10 @@ featured_image: /images/demo/publications.jpg
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.05.16.492074v1)     
   Barbara F. Fonseca, Cindy Barbée, Mirian Romitti, <span style="color:#D96098">**Sema Elif Eski**</span>, Pierre Gillotay, Daniel Monteyne, David Perez Morga, Samuel Refetoff, <span style="color:black">**Sumeet Pal Singh**</span>, Sabine Costagliola        
   <br/>
+1. [Nrf2 promotes thyroid development and hormone synthesis.    
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.02.27.482168v1)     
+  Gillotay Pierre, Romitti Mirian, Dassy Benjamin, Haerlingen Benoit, Parakkal Shankar Meghna, Faria Fonseca Barbara, Ziros G. Panos, <span style="color:black">**Sumeet Pal Singh**</span>, Sykiotis P. Gerasimos, Sabine Costagliola        
+  <br/>
 1. [Keratin filaments mediate the expansion of extra-embryonic membranes in the post-gastrulation mouse embryo.      
   <span style="color:coral">*The EMBO Journal*</span>](https://www.embopress.org/doi/full/10.15252/embj.2021108747)  
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)    
