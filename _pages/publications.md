@@ -15,6 +15,11 @@ featured_image: /images/demo/publications.jpg
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.05.16.492074v1)     
   Barbara F. Fonseca, Cindy Barbée, Mirian Romitti, <span style="color:#D96098">**Sema Elif Eski**</span>, Pierre Gillotay, Daniel Monteyne, David Perez Morga, Samuel Refetoff, <span style="color:black">**Sumeet Pal Singh**</span>, Sabine Costagliola        
   <br/>
+1. [Keratin filaments mediate the expansion of extra-embryonic membranes in the post-gastrulation mouse embryo.      
+  <span style="color:coral">*The EMBO Journal*</span>](https://www.embopress.org/doi/full/10.15252/embj.2021108747)  
+  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)    
+  Wallis Nahaboo, <span style="color:#D96098">**Sema Elif Eski**</span>, Evangéline Despin-Guitard, Marjorie Vermeersch, Marie Versaevel, Bechara Saykali, Daniel Monteyne, Sylvain Gabriele, Thomas M Magin, Nicole Schwarz, Rudolf E Leube, An Zwijsen, David Perez-Morga, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Migeotte    
+  <br/>
 1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
   <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, <span style="color:black">**Sumeet Pal Singh**</span>       
@@ -35,10 +40,6 @@ featured_image: /images/demo/publications.jpg
 1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.12.01.470729v1)    
   Mirian Romitti, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Adrien Tourneur, <span style="color:#D96098">**Sema Elif Eski**</span>, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Pal Refetoff, Sabine Costagliola    
-  <br/>
-1. [Keratin dynamics govern the establishment of the maternal-fetal interface.      
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)    
-  Wallis Nahaboo, <span style="color:#D96098">**Sema Elif Eski**</span>, Marjorie Vermeersch, Bechara Saykali , Daniel Monteyne, Thomas M. Magin, Nicole Schwarz, An Zwijsen, David Perez-Morga, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Migeotte    
   <br/>
 1. [Single-cell trajectory inference guided enhancement of thyroid maturation in vitro using TGF-beta inhibition     
   <span style="color:coral">*Frontiers in Endocrinology*</span>](https://doi.org/10.3389/fendo.2021.657195)  
