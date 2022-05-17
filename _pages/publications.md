@@ -11,7 +11,11 @@ featured_image: /images/demo/publications.jpg
 
 ### 2022
 
-1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes    
+1. [Foxe1 orchestrates thyroid and lung cell lineage divergence in mouse stem cell-derived organoids.    
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.05.16.492074v1)     
+  Barbara F. Fonseca, Cindy Barbée, Mirian Romitti, <span style="color:#D96098">**Sema Elif Eski**</span>, Pierre Gillotay, Daniel Monteyne, David Perez Morga, Samuel Refetoff, <span style="color:black">**Sumeet Pal Singh**</span>, Sabine Costagliola        
+  <br/>
+1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
   <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, <span style="color:black">**Sumeet Pal Singh**</span>       
   <br/>
