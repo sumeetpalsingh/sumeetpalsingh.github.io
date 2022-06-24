@@ -12,7 +12,7 @@ featured_image: /images/demo/publications.jpg
 ### 2022
 
 1. [NF-κB-inducing kinase (NIK) is activated in pancreatic β-cells but does not contribute to the development of diabetes.    
-  <span style="color:coral">*Cell Death & Disease volume*</span>](https://www.nature.com/articles/s41419-022-04931-5)     
+  <span style="color:coral">*Cell Death & Disease*</span>](https://www.nature.com/articles/s41419-022-04931-5)     
   Peng Xiao, Tatiana Takiishi, Natalia Moretti Violato, Giada Licata, Francesco Dotta, Guido Sebastiani, Lorella Marselli, <span style="color:black">**Sumeet Pal Singh**</span>, Mozes Sze, Geert Van Loo, Emmanuel Dejardin, Esteban Nicolas Gurzov & Alessandra Kupper Cardozo    
   <br/>
 1. [Foxe1 orchestrates thyroid and lung cell lineage divergence in mouse stem cell-derived organoids.    
