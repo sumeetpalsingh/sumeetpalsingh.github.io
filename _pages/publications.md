@@ -14,7 +14,7 @@ featured_image: /images/demo/publications.jpg
 1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
   <span style="color:coral">*Hepatology*</span>](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32663)
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
-  <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, <span style="color:black">**Sumeet Pal Singh**</span>       
+  <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, Juhoon So, Donghun Shin, <span style="color:black">**Sumeet Pal Singh**</span>       
   <br/>
 1. [NF-κB-inducing kinase (NIK) is activated in pancreatic β-cells but does not contribute to the development of diabetes.    
   <span style="color:coral">*Cell Death & Disease*</span>](https://www.nature.com/articles/s41419-022-04931-5)     
