@@ -12,7 +12,7 @@ featured_image: /images/demo/publications.jpg
 ### 2022
 
 1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
-  <span style="color:coral">*Hepatology*</span>](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32663)
+  <span style="color:coral">*Hepatology*</span>](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32663)   
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
   <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, Juhoon So, Donghun Shin, <span style="color:black">**Sumeet Pal Singh**</span>       
   <br/>
