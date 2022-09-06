@@ -11,6 +11,11 @@ featured_image: /images/demo/publications.jpg
 
 ### 2022
 
+1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
+  <span style="color:coral">*Hepatology*</span>](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32663)
+  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
+  <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, <span style="color:black">**Sumeet Pal Singh**</span>       
+  <br/>
 1. [NF-κB-inducing kinase (NIK) is activated in pancreatic β-cells but does not contribute to the development of diabetes.    
   <span style="color:coral">*Cell Death & Disease*</span>](https://www.nature.com/articles/s41419-022-04931-5)     
   Peng Xiao, Tatiana Takiishi, Natalia Moretti Violato, Giada Licata, Francesco Dotta, Guido Sebastiani, Lorella Marselli, <span style="color:black">**Sumeet Pal Singh**</span>, Mozes Sze, Geert Van Loo, Emmanuel Dejardin, Esteban Nicolas Gurzov & Alessandra Kupper Cardozo    
@@ -27,10 +32,6 @@ featured_image: /images/demo/publications.jpg
   <span style="color:coral">*The EMBO Journal*</span>](https://www.embopress.org/doi/full/10.15252/embj.2021108747)  
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.04.07.438772v1)    
   Wallis Nahaboo, <span style="color:#D96098">**Sema Elif Eski**</span>, Evangéline Despin-Guitard, Marjorie Vermeersch, Marie Versaevel, Bechara Saykali, Daniel Monteyne, Sylvain Gabriele, Thomas M Magin, Nicole Schwarz, Rudolf E Leube, An Zwijsen, David Perez-Morga, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Migeotte    
-  <br/>
-1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
-  <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, <span style="color:black">**Sumeet Pal Singh**</span>       
   <br/>
 1. [A single-cell atlas of de novo β-cell regeneration reveals the contribution of hybrid β/δ cells to diabetes recovery in zebrafish.      
   <span style="color:coral">*Development*</span>](https://doi.org/10.1242/dev.199853)  
