@@ -11,6 +11,10 @@ featured_image: /images/demo/publications.jpg
 
 ### 2022
 
+1. [Cellular senescence modulates progenitor cell expansion during axolotl limb regeneration.    
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.09.01.506196v1)     
+  Qinghao Yu, Hannah E. Walters, Giovanni Pasquini, <span style="color:black">**Sumeet Pal Singh**</span>, Daniel León-Periñán, Andreas Petzold, Preethi Kesavan, Cristina Subiran, <span style="color:#D96098">**Ines Garteizgogeascoa**</span>, Dunja Knapp, Anne Wagner, Andrea Bernardos, María Alfonso, Gayathri Nadar,  Andreas Dahl, Volker Busskamp, Ramón Martínez-Máñez, Maximina H. Yun        
+  <br/>
 1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
   <span style="color:coral">*Hepatology*</span>](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32663)   
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
