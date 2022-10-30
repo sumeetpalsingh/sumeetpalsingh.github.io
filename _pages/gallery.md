@@ -35,6 +35,7 @@ featured_image: /images/demo/StarryNight.jpeg
 </div>-->
 
 <div class="gallery" data-columns="2" style="height=400px">
+    <img src="/images/gallery/Regeneration_GreenT.jpg">
     <img src="/images/gallery/Steatosis.jpg"> 
     <img src="/images/gallery/Fed_MAX_Image-1.jpg"> 
     <img src="/images/gallery/Thyroid adult_flt1.jpg">
