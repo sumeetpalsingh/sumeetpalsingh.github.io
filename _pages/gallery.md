@@ -18,6 +18,14 @@ featured_image: /images/demo/StarryNight.jpeg
 <div class="gallery" data-columns="1">
     <div>
     <img src="/images/gallery/Steatosis.png"> 
-    <p>description="Zebrafish liver (pink) displaying starvation induced accumulation of lipid droplets (yellow)"</p>
+    <p>Zebrafish liver (magenta) displaying starvation induced accumulation of lipid droplets (yellow)</p>
+    </div>
+    <div>
+    <img src="/images/gallery/Fed_MAX_Image-1.png"> 
+    <p>Zebrafish hepatocytes (magenta) being phagocytosed by marcrophages (cyan)</p>
+    </div>
+    <div>
+    <img src="/images/gallery/Thyroid adult_flt1.png"> 
+    <p>Zebrafish thyroid gland (green) surrounding blood vessel (red). Nuclei in blue.</p>
     </div>
 </div>
