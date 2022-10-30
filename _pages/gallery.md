@@ -5,7 +5,7 @@ description: Pictures.
 featured_image: /images/demo/StarryNight.jpeg
 ---
 
-<div class="gallery" data-columns="1">  
+<div class="gallery" data-columns="2">  
 <!--
     <p><kbd>
         <img src="/images/gallery/Steatosis.png">  
