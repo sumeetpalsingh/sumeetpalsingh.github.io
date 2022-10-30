@@ -11,6 +11,10 @@ featured_image: /images/demo/publications.jpg
 
 ### 2022
 
+1. [Loss of tetraspanin-7 expression reduces pancreatic beta-cell exocytosis Ca<sup>2+</sup> sensitivity but has limited effect on systemic metabolism.   
+  <span style="color:coral">*Diabetic Medicine*</span>](https://onlinelibrary.wiley.com/doi/abs/10.1111/dme.14984)     
+  Kerry McLaughlin, Samuel Acreman, Sameena Nawaz, Joseph Cutteridge, Anne Clark, Jakob G. Knudsen, Geoffrey Denwood, Aliya F. Spigelman, Jocelyn E. Manning Fox, <span style="color:black">**Sumeet Pal Singh**</span>, Patrick E. MacDonald, Benoit Hastoy, Quan Zhang      
+  <br/>
 1. [Cellular senescence modulates progenitor cell expansion during axolotl limb regeneration.    
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.09.01.506196v1)     
   Qinghao Yu, Hannah E. Walters, Giovanni Pasquini, <span style="color:black">**Sumeet Pal Singh**</span>, Daniel León-Periñán, Andreas Petzold, Preethi Kesavan, Cristina Subiran, <span style="color:#D96098">**Ines Garteizgogeascoa**</span>, Dunja Knapp, Anne Wagner, Andrea Bernardos, María Alfonso, Gayathri Nadar,  Andreas Dahl, Volker Busskamp, Ramón Martínez-Máñez, Maximina H. Yun        
