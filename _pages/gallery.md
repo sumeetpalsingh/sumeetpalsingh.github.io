@@ -17,17 +17,17 @@ featured_image: /images/demo/StarryNight.jpeg
 
 <div class="gallery" data-columns="1" >
     <div style="text-align: center">
-    <img src="/images/gallery/Steatosis.png"> 
+    <img src="/images/gallery/Steatosis.png" style="text-align: center"> 
     <p>Zebrafish liver (magenta) displaying starvation induced accumulation of lipid droplets (yellow)</p>  
     <br/>
     </div>
     <div style="text-align: center">
-    <img src="/images/gallery/Fed_MAX_Image-1.png"> 
+    <img src="/images/gallery/Fed_MAX_Image-1.png" style="text-align: center"> 
     <p>Zebrafish hepatocytes (magenta) being phagocytosed by marcrophages (cyan)</p>  
     <br/>
     </div>
     <div style="text-align: center">
-    <img src="/images/gallery/Thyroid adult_flt1.png"> 
+    <img src="/images/gallery/Thyroid adult_flt1.png" style="text-align: center">
     <p>Zebrafish thyroid gland (green) surrounding blood vessel (red). Nuclei in blue.</p>  
     <br/>
     </div>
