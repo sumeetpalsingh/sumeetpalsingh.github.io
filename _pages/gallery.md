@@ -15,6 +15,7 @@ featured_image: /images/demo/StarryNight.jpeg
 -->
 
 
+<!--
 <div class="gallery" data-columns="1" >
     <div style="text-align: center">
     <img src="/images/gallery/Steatosis.png" style="text-align: center"> 
@@ -31,4 +32,10 @@ featured_image: /images/demo/StarryNight.jpeg
     <p>Zebrafish thyroid gland (green) surrounding blood vessel (red). Nuclei in blue.</p>  
     <br/>
     </div>
+</div>-->
+
+<div class="gallery" data-columns="1" >
+    <img src="/images/gallery/Steatosis.png"> 
+    <img src="/images/gallery/Fed_MAX_Image-1.png"> 
+    <img src="/images/gallery/Thyroid adult_flt1.png">
 </div>
