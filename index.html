@@ -32,11 +32,11 @@ featured_image: /images/covers/Regeneratorstein.jpg
             <h3>Research Vision</h3>
             
             <p>
-                Welcome to the lab of regenerative biology at <a href="https://iribhm.org/" target="_blank" rel="noopener noreferrer">IRIBHM</a>, <a href="https://www.ulb.be/en" target="_blank" rel="noopener noreferrer">[ULB]</a>. We are interested in understanding the ability of organs to recover from injuries and stress. For example, we are able to heal a cut to our finger, even if it happens multiple times. Our blood regenerates after blood donation within a day or two. In ancient Greek mythology, Prometheus was sentenced to having half of his liver eaten by an eagle every day, but the liver would regenerate during the night – highlighting the almost infinite regenerative capacity of the liver. We are fascinated by such robustness in regenerative systems - which are a hallmark of a dynamic biological system.
+                Welcome to the lab of regenerative biology at <a href="https://iribhm.org/" target="_blank" rel="noopener noreferrer">IRIBHM</a>, <a href="https://www.ulb.be/en" target="_blank" rel="noopener noreferrer">ULB</a>. We are interested in understanding the ability of organs to recover from injuries and stress. For example, we are able to heal a cut to our finger, even if it happens multiple times. Our blood regenerates after blood donation within a day or two. In ancient Greek mythology, Prometheus was sentenced to having half of his liver eaten by an eagle every day, but the liver would regenerate during the night – highlighting the almost infinite regenerative capacity of the liver. We are fascinated by such robustness in regenerative systems - which are a hallmark of a dynamic biological system.
             </p>
             
             <p>
-            To understand the robustness of regenerative systems, we explore three main themes: <b>adaptation, plasticity and memory</b>. Our ongoing efforts are explained <a href="https://sumeetpalsingh.github.io/research">here</a>. 
+            To understand the robustness of regenerative systems, we explore three main themes: <b>adaptation, plasticity and memory</b>. Our ongoing efforts are explained <a target="_self" href="https://sumeetpalsingh.github.io/research">here</a>. 
             </p>
             
             <p>
@@ -49,9 +49,14 @@ featured_image: /images/covers/Regeneratorstein.jpg
                 <img src="/images/gallery/LiverRegeneration.jpg">
                 <img src="/images/gallery/Thyroid adult_flt1.jpg">
             </div>
+            
+            <p>
+            We are situated in the Brussels, the capital of European Union. Feel free to <a target="_self" href="https://sumeetpalsingh.github.io/contact">contact us</a>. 
+            </p>
 
 		</article>
 
+        {% endfor %}
 	</div>
     
     
@@ -60,30 +65,3 @@ featured_image: /images/covers/Regeneratorstein.jpg
 
 
 
-<section class="listing">
-
-	<div class="wrap">
-
-		{% for project in site.projects reversed %}
-
-		<article class="post">
-
-			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{ project.featured_image }})"></div>
-			</div>
-
-			<div class="post__content-wrap">
-				<div class="post__content">
-					<h2 class="post__title"><a href="{{ project.url }}">{{ project.title }}</a></h2>
-					<p class="post__subtitle">{{ project.subtitle }}</p>
-					<p class="post__description">{{ project.description }}</p>
-				</div>
-			</div>
-
-		</article>
-        
-		{% endfor %}
-
-	</div>
-
-</section>
