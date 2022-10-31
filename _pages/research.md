@@ -1,7 +1,7 @@
 ---
-title: Publications
-subtitle: Extending the boundaries of knowledge.
-description: Papers.
+title: Research
+subtitle: Curiosity driven discovery.
+description: Science.
 featured_image: /images/demo/publications.jpg
 ---
 
