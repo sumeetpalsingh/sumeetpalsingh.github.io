@@ -32,7 +32,7 @@ featured_image: /images/demo/members.jpg
 <img src="/images/members/Macarena.jpeg" alt="Macarena" style="float:left;width:123px;height:168px;margin:-20px 30px 0px 0px">
 
 <span style="color:coral">**Macarena Pozo Morales.**</span> Graduated in Biochemistry at the University of Málaga (Spain) in 2018. During her master’s thesis under the supervision of Dr. Ma Ángeles Real Avilés and Dr. Alicia Rivera Ramírez, she focused on determining the role of dopaminergic D4 receptor on the effect of cocaine in caudate putamen in rat. At the same time, she worked as intern student in the lab of Dr. Francisco J. Bermúdez Silva and Dr. Isabel González Mariscal in IBIMA (Spain) to study the role of GPR55 on the onset of type 1 diabetes. <br/>
-She joined the group in 2020 where she’s performing her PhD focused on <span style="color:coral">the immediate response to cell stress and cellular plasticity during regeneration</span>.
+She joined the group in 2020 where she’s performing her PhD focused on <span style="color:coral">the response of zebrafish to starvation</span>.
 <!--, where she focused on studying pharmacogenetic response to Tacrolimus in kidney transplantation, under the supervision of Dr. Ma José Bravo Romero. Also, she joined two Internships Erasmus scholarships during her bachelor’s degree: 1. At Warsaw University of Life Sciences (Poland) in 2017 in the lab of Dr. Hanna Bolibok-Bragoszewska, where she worked on identifying and characterizing sequences targeted by domestication and breeding in rye (Secale Cereale L); 2. At University of Oxford (United Kingdom) in 2018, under the supervision of Dr. David A. Priestman. She focused on studying the supplementation with ursodeoxycholic acid (UDCA) as a new therapy of Niemann-Pick type C (NPC) disease. After her bachelor’s degree, she obtained her M.Sc. degree in Molecular and Cellular Biology at University of Málaga in 2019. <br/>-->
 
 
@@ -48,6 +48,8 @@ For post-doctoral work, Sumeet started work on planarian model system, a fascina
 For his second post-doc, he returned to zebrafish research in the lab of [Dr. Nikolay Ninov](https://www.crt-dresden.de/research/research-groups/core-groups/group-leaders/dr-nikolay-ninov/) at Center for Regenerative Therapies Dresden ([CRTD](https://www.crt-dresden.de/about-us/)), Germany. Focussing on the pancreatic beta-cells, Sumeet uncovered latent heterogeneity in the beta-cell population. For this, he developed several transgenic reagents to interrogate the proliferative and functional differences among individual cells. He was awarded an [EFSD/Lilly Young Investigator Fellowship](http://www.europeandiabetesfoundation.org/efsdlilly-young-investigator.html) for his efforts.  
   
 In 2019, Sumeet was awarded the Mandat d’impulsion scientifique - mobilité Ulysse ([MISU](https://www.frs-fnrs.be/fr/reglements-guides#bourses-mandats)) by Le Fonds de la Recherche Scientifique ([FNRS](https://www.frs-fnrs.be/fr/)) to start his group at [IRIBHM](https://iribhm.org/), part of [ULB](https://www.ulb.be/en) in Brussels, Belgium.  
+
+In 2022, Sumeet was award tenure at ULB. 
   
 Download [CV][1]
 
