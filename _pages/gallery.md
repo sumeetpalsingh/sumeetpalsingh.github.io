@@ -39,5 +39,5 @@ featured_image: /images/demo/StarryNight.jpeg
     <img src="/images/gallery/Steatosis.jpg"> 
     <img src="/images/gallery/Fed_MAX_Image-1.jpg">
     <img src="/images/gallery/Thyroid adult_flt1.jpg">
-    <img src="/images/gallery/LiverRegeneration_2.jpg">
+    <img src="/images/gallery/LiverRegeneration_2.jpeg">
 </div>
