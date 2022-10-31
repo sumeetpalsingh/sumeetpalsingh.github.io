@@ -20,6 +20,8 @@ menu_settings:
 #      url: '/vacancies'
 #    - title: 'Meetings'
 #      url: '/meetings'
+    - title: 'News'
+      url: '/news'
     - title: 'Gallery'
       url: '/gallery'
 #    - title: 'Collaborations'
