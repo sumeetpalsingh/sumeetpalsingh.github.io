@@ -2,7 +2,7 @@
 title: Publications
 subtitle: Extending the boundaries of knowledge.
 description: Papers.
-featured_image: /images/demo/publications.jpg
+featured_image: /images/covers/icon.jpg
 ---
 
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
