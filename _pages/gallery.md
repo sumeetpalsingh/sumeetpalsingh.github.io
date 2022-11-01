@@ -2,7 +2,7 @@
 title: Gallery
 subtitle: Seeing is believing.
 description: Pictures.
-featured_image: /images/demo/StarryNight.jpeg
+featured_image: /images/covers/RGB.jpg
 ---
 
 <div class="gallery" data-columns="2">

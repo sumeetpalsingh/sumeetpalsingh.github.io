@@ -2,7 +2,7 @@
 title: News
 subtitle: Small steps.
 description: Happenings in the lab.
-featured_image: /images/demo/publications.jpg
+featured_image: /images/covers/FishStages.jpg
 ---
 
 #### 10/2022
