@@ -7,9 +7,9 @@ featured_image: /images/covers/FishStages.jpg
 
 #### 10/2022
 
-<img src="/images/comic/coffee1.jpeg">
+<img src="/images/comic/coffee1.jpg">
 
-<img src="/images/comic/coffee2.jpeg">
+<img src="/images/comic/coffee2.jpg">
 
 ---
 

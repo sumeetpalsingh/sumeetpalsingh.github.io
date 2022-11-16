@@ -7,9 +7,9 @@ featured_image: /images/covers/FishStages.jpg
 
 #### 10/2022
 
-<img src="/images/comic/wallet1.jpeg">
+<img src="/images/comic/wallet1.jpg">
 
-<img src="/images/comic/wallet2.jpeg">
+<img src="/images/comic/wallet2.jpg">
 
 ---
 

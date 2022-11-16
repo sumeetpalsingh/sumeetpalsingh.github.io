@@ -7,7 +7,7 @@ featured_image: /images/covers/FishStages.jpg
 
 #### 10/2022
 
-<img src="/images/comic/scene.jpeg" usemap="#image-map">
+<img src="/images/comic/scene.jpg" usemap="#image-map">
 
 <map name="image-map">
     <area target="_self" alt="" title="" href="wallet" coords="444,123,326,70" shape="rect">
