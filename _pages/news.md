@@ -14,7 +14,7 @@ Sumeet gives a talk at Department of Biology, KU Leuven.
 <img src="/images/news/2022/KULeuven.jpeg" usemap="#image-map">
 
 <map name="image-map">
-    <area target="_blank" alt="index" title="index" href="www.google.com" coords="1,1,100,100" shape="rect">
+    <area target="_self" alt="index" title="index" href="contact.md" coords="1,1,100,100" shape="rect">
 </map>
 
 ---
