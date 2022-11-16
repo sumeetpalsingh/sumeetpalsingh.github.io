@@ -9,9 +9,11 @@ featured_image: /images/covers/FishStages.jpg
 
 <img src="/images/comic/wallet1.jpg">
 
-<img src="/images/comic/wallet2.jpg">
+<img src="/images/comic/wallet2.jpg" usemap="#image-map">
 
-<img src="/images/comic/wallet3.jpg">
+<map name="image-map">
+    <area target="_self" alt="" title="" href="wallet2" coords="499,621,765,747" shape="rect">
+</map>
 
 ---
 
