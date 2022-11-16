@@ -11,5 +11,7 @@ featured_image: /images/covers/FishStages.jpg
 
 <img src="/images/comic/wallet2.jpg">
 
+<img src="/images/comic/wallet3.jpg">
+
 ---
 
