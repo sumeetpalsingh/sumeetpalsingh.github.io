@@ -7,9 +7,9 @@ featured_image: /images/covers/FishStages.jpg
 
 #### 10/2022
 
-Sumeet gives a talk at Department of Biology, KU Leuven.  
-  
-![KULeuvenVisit](/images/news/2022/KULeuven.jpeg "KU Leuven Poster")  
+<img src="/images/comic/coffee1.jpeg">
+
+<img src="/images/comic/coffee2.jpeg">
 
 ---
 
