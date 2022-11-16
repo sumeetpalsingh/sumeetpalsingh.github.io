@@ -9,7 +9,11 @@ featured_image: /images/covers/FishStages.jpg
 
 <img src="/images/comic/coffee1.jpg">
 
-<img src="/images/comic/coffee2.jpg">
+<img src="/images/comic/coffee2.jpg" usemap="#image-map">
+
+<map name="image-map">
+    <area target="_self" alt="" title="" href="comic2" coords="412,831,783,914" shape="rect">
+</map>
 
 ---
 
