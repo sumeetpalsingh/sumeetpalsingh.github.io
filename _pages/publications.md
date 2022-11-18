@@ -11,6 +11,11 @@ featured_image: /images/covers/icon.jpg
 
 ### 2022
 
+1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
+  <span style="color:coral">*Nature Communications*</span>](https://doi.org/10.1038/s41467-022-34776-7)
+  [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470729v1)    
+  Mirian Romitti, Adrien Tourneur, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Xiao-Hui Liao, <span style="color:#D96098">**Sema Elif Eski**</span>, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Refetoff, Sabine Costagliola    
+  <br/>
 1. [Loss of tetraspanin-7 expression reduces pancreatic beta-cell exocytosis Ca<sup>2+</sup> sensitivity but has limited effect on systemic metabolism.   
   <span style="color:coral">*Diabetic Medicine*</span>](https://onlinelibrary.wiley.com/doi/abs/10.1111/dme.14984)     
   Kerry McLaughlin, Samuel Acreman, Sameena Nawaz, Joseph Cutteridge, Anne Clark, Jakob G. Knudsen, Geoffrey Denwood, Aliya F. Spigelman, Jocelyn E. Manning Fox, <span style="color:black">**Sumeet Pal Singh**</span>, Patrick E. MacDonald, Benoit Hastoy, Quan Zhang      
@@ -54,10 +59,6 @@ featured_image: /images/covers/icon.jpg
 
 ### 2021
 
-1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2021.12.01.470729v1)    
-  Mirian Romitti, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Adrien Tourneur, <span style="color:#D96098">**Sema Elif Eski**</span>, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Pal Refetoff, Sabine Costagliola    
-  <br/>
 1. [Single-cell trajectory inference guided enhancement of thyroid maturation in vitro using TGF-beta inhibition     
   <span style="color:coral">*Frontiers in Endocrinology*</span>](https://doi.org/10.3389/fendo.2021.657195)  
   [*bioRxiv*](https://doi.org/10.1101/2021.01.18.427103)  
