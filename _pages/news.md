@@ -15,7 +15,7 @@ Macarena gives a talk at IB2 Retreat. Elif and Ines present posters.
 
 Kirsten Sadler Edepli (NYU Abu Dhabi) visits the lab.  
   
-![KSE](/images/news/2022/KirstenVisit.jpg "KSE")  
+![KSE](/images/news/2022/KirstenVisit.jpeg "KSE")  
 
 ##### October
 
