@@ -19,6 +19,8 @@ Kirsten Sadler Edepli (NYU Abu Dhabi) visits the lab.
   
 ![KSE](/images/news/2022/KirstenVisit.jpeg "KSE")  
   
+---
+  
 ##### October
 
 Sumeet gives a talk at Department of Biology, KU Leuven.  
