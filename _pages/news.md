@@ -11,7 +11,7 @@ featured_image: /images/covers/FishStages.jpg
 
 At the Annual Meeting of Belgian Society of Physiology and Pharmacology (PhysPhar), Macarena gave a selected abstract talk. Ines and Elif presented posters. Elif won Best Poster Award!
   
-![PhysPhar2022](/images/news/2022/PhysPhar.jpg "PhysPhar")  
+![PhysPhar2022](/images/news/2022/PhysPhar.jpeg "PhysPhar")  
   
 ---
   
