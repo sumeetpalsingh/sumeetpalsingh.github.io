@@ -12,7 +12,7 @@ featured_image: /images/covers/icon.jpg
 ### 2022
 
 1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
-  <span style="color:coral">*Nature Communications*</span>](https://doi.org/10.1038/s41467-022-34776-7)
+  <span style="color:coral">*Nature Communications*</span>](https://doi.org/10.1038/s41467-022-34776-7)  
   [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470729v1)    
   Mirian Romitti, Adrien Tourneur, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Xiao-Hui Liao, <span style="color:#D96098">**Sema Elif Eski**</span>, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Refetoff, Sabine Costagliola    
   <br/>
