@@ -13,9 +13,8 @@ featured_image: /images/covers/icon.jpg
 
 1. [CD38 promotes hematopoietic stem cell dormancy via c-Fos.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2023.02.08.527614v1)    
-  Liliia Ibneeva,  <span style="color:black">**Sumeet Pal Singh**</span>,  Anupam Sinha,  Sema Elif Eski, Rebekka Wehner, Luise Rupp, Juan Alberto Perez-Valencia,  Alexander Gerbaulet, Susanne Reinhardt,  Manja Wobus,  Malte Bonin,  Jaime Sancho,  Frances E Lund,  Andreas Dahl,  Marc Schmitz, Martin Bornhaeuser,  Triantafyllos Chavakis,  Ben Wielockx,  Tatyana Grinenko   
+  Liliia Ibneeva,  <span style="color:black">**Sumeet Pal Singh**</span>, Anupam Sinha, <span style="color:#D96098">**Sema Elif Eski**</span>, Rebekka Wehner, Luise Rupp, Juan Alberto Perez-Valencia, Alexander Gerbaulet, Susanne Reinhardt, Manja Wobus, Malte Bonin, Jaime Sancho, Frances E Lund, Andreas Dahl, Marc Schmitz, Martin Bornhaeuser, Triantafyllos Chavakis, Ben Wielockx, Tatyana Grinenko   
   <br/>  
-  
 
 ### 2022
 
