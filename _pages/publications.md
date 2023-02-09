@@ -9,6 +9,14 @@ featured_image: /images/covers/icon.jpg
 
 <span style="color:#D96098">Lab Members in Purple</span>
 
+### 2023
+
+1. [CD38 promotes hematopoietic stem cell dormancy via c-Fos.      
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2023.02.08.527614v1)    
+  Liliia Ibneeva,  <span style="color:black">**Sumeet Pal Singh**</span>,  Anupam Sinha,  Sema Elif Eski, Rebekka Wehner, Luise Rupp, Juan Alberto Perez-Valencia,  Alexander Gerbaulet, Susanne Reinhardt,  Manja Wobus,  Malte Bonin,  Jaime Sancho,  Frances E Lund,  Andreas Dahl,  Marc Schmitz, Martin Bornhaeuser,  Triantafyllos Chavakis,  Ben Wielockx,  Tatyana Grinenko   
+  <br/>  
+  
+
 ### 2022
 
 1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
