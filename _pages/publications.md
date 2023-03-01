@@ -11,6 +11,11 @@ featured_image: /images/covers/icon.jpg
 
 ### 2023
 
+1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
+  <span style="color:coral">*Hepatology*</span>](https://journals.lww.com/hep/Abstract/2023/03000/In_vivo_imaging_of_calcium_dynamics_in_zebrafish.10.aspx)   
+  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
+  <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, Juhoon So, Donghun Shin, <span style="color:black">**Sumeet Pal Singh**</span>       
+  <br/>
 1. [CD38 promotes hematopoietic stem cell dormancy via c-Fos.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2023.02.08.527614v1)    
   Liliia Ibneeva,  <span style="color:black">**Sumeet Pal Singh**</span>, Anupam Sinha, <span style="color:#D96098">**Sema Elif Eski**</span>, Rebekka Wehner, Luise Rupp, Juan Alberto Perez-Valencia, Alexander Gerbaulet, Susanne Reinhardt, Manja Wobus, Malte Bonin, Jaime Sancho, Frances E Lund, Andreas Dahl, Marc Schmitz, Martin Bornhaeuser, Triantafyllos Chavakis, Ben Wielockx, Tatyana Grinenko   
@@ -30,11 +35,6 @@ featured_image: /images/covers/icon.jpg
 1. [Cellular senescence modulates progenitor cell expansion during axolotl limb regeneration.    
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.09.01.506196v1)     
   Qinghao Yu, Hannah E. Walters, Giovanni Pasquini, <span style="color:black">**Sumeet Pal Singh**</span>, Daniel León-Periñán, Andreas Petzold, Preethi Kesavan, Cristina Subiran, <span style="color:#D96098">**Ines Garteizgogeascoa**</span>, Dunja Knapp, Anne Wagner, Andrea Bernardos, María Alfonso, Gayathri Nadar,  Andreas Dahl, Volker Busskamp, Ramón Martínez-Máñez, Maximina H. Yun        
-  <br/>
-1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
-  <span style="color:coral">*Hepatology*</span>](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.32663)   
-  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
-  <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, Juhoon So, Donghun Shin, <span style="color:black">**Sumeet Pal Singh**</span>       
   <br/>
 1. [NF-κB-inducing kinase (NIK) is activated in pancreatic β-cells but does not contribute to the development of diabetes.    
   <span style="color:coral">*Cell Death & Disease*</span>](https://www.nature.com/articles/s41419-022-04931-5)     
