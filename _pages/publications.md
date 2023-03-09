@@ -11,6 +11,10 @@ featured_image: /images/covers/icon.jpg
 
 ### 2023
 
+1. [Editorial: Emerging Technologies in Thyroid Biology: Pushing the Frontiers of Thyroid Research.    
+  <span style="color:coral">*Molecular and Cellular Endocrinology*</span>](https://doi.org/10.1016/j.mce.2023.111912)        
+  Sabine Costagliola and <span style="color:black">**Sumeet Pal Singh**</span>       
+  <br/>
 1. [In vivo imaging of calcium dynamics in zebrafish hepatocytes.    
   <span style="color:coral">*Hepatology*</span>](https://journals.lww.com/hep/Abstract/2023/03000/In_vivo_imaging_of_calcium_dynamics_in_zebrafish.10.aspx)   
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
