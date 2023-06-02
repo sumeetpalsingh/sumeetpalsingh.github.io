@@ -5,7 +5,29 @@ description: Happenings in the lab.
 featured_image: /images/covers/FishStages.jpg
 ---
 
-#### 10/2022
+#### 2022
+
+##### November
+
+At the Annual Meeting of Belgian Society of Physiology and Pharmacology (PhysPhar), Macarena gave a selected abstract talk. Ines and Elif presented posters. Elif won Best Poster Award!
+  
+![PhysPhar2022](/images/news/2022/PhysPhar.jpeg "PhysPhar")  
+  
+---
+  
+Macarena gives a talk at IB2 Retreat. Elif and Ines present posters.  
+  
+![IB2](/images/news/2022/IB2.jpg "IB2")  
+  
+---
+  
+Kirsten Sadler Edepli (NYU Abu Dhabi) visits the lab.  
+  
+![KSE](/images/news/2022/KirstenVisit.jpeg "KSE")  
+  
+---
+  
+##### October
 
 Sumeet gives a talk at Department of Biology, KU Leuven.  
   
