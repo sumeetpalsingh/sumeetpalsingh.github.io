@@ -12,9 +12,14 @@ featured_image: /images/covers/icon.jpg
 ### 2023
 
 1. [Fluorescent Sensors for Imaging Interstitial Calcium.    
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2023.03.23.533956v1)        
-  Ariel A. Valiente-Gabioud, <span style="color:#D96098">**Inés Garteizgogeascoa Suñer**</span>, Agata Idziak, Arne Fabritius, Julie Angibaud, Jérome Basquin, U. Valentin Nägerl, <span style="color:black">**Sumeet Pal Singh**</span>, Oliver Griesbeck       
+  <span style="color:coral">*Nature Communications*</span>](https://www.nature.com/articles/s41467-023-41928-w)
+  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.03.23.533956v1)        
+  Ariel A. Valiente-Gabioud, <span style="color:#D96098">**Inés Garteizgogeascoa Suñer**</span>, Agata Idziak, Arne Fabritius,Jérome Basquin, Julie Angibaud, U. Valentin Nägerl, <span style="color:black">**Sumeet Pal Singh**</span>, Oliver Griesbeck       
   <br/>
+1. [A zebrafish knock-in reporter line for the Foxo1a transcription factor.      
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2023.07.17.548093v1)    
+  <span style="color:#D96098">**Inés Garteizgogeascoa Suñer**</span>, <span style="color:black">**Sumeet Pal Singh**</span>   
+  <br/> 
 1. [Editorial: Emerging Technologies in Thyroid Biology: Pushing the Frontiers of Thyroid Research.    
   <span style="color:coral">*Molecular and Cellular Endocrinology*</span>](https://doi.org/10.1016/j.mce.2023.111912)        
   Sabine Costagliola and <span style="color:black">**Sumeet Pal Singh**</span>       
@@ -33,7 +38,7 @@ featured_image: /images/covers/icon.jpg
 
 1. [Transplantable human thyroid organoids generated from embryonic stem cells to rescue hypothyroidism.      
   <span style="color:coral">*Nature Communications*</span>](https://doi.org/10.1038/s41467-022-34776-7)  
-  [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.01.470729v1)    
+  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.12.01.470729v1)    
   Mirian Romitti, Adrien Tourneur, Barbara de Faria da Fonseca, Gilles Doumont, Pierre Gillotay, Xiao-Hui Liao, <span style="color:#D96098">**Sema Elif Eski**</span>, Gaetan Van Simaeys, Laura Chomette, Helene Lasolle, Olivier Monestier, Dominika Figini Kasprzyk, Vincent Detours, <span style="color:black">**Sumeet Pal Singh**</span>, Serge Goldman,  Samuel Refetoff, Sabine Costagliola    
   <br/>
 1. [Loss of tetraspanin-7 expression reduces pancreatic beta-cell exocytosis Ca<sup>2+</sup> sensitivity but has limited effect on systemic metabolism.   
