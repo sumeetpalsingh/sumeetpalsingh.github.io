@@ -12,7 +12,7 @@ featured_image: /images/covers/icon.jpg
 ### 2023
 
 1. [Fluorescent Sensors for Imaging Interstitial Calcium.    
-  <span style="color:coral">*Nature Communications*</span>](https://www.nature.com/articles/s41467-023-41928-w)
+  <span style="color:coral">*Nature Communications*</span>](https://www.nature.com/articles/s41467-023-41928-w)  
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.03.23.533956v1)        
   Ariel A. Valiente-Gabioud, <span style="color:#D96098">**Inés Garteizgogeascoa Suñer**</span>, Agata Idziak, Arne Fabritius,Jérome Basquin, Julie Angibaud, U. Valentin Nägerl, <span style="color:black">**Sumeet Pal Singh**</span>, Oliver Griesbeck       
   <br/>
