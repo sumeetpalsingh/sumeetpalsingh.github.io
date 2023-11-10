@@ -9,7 +9,7 @@ featured_image: /images/covers/FishStages.jpg
 
 ##### November
 
-Dr Nadia Mercader (Iowa State University, USA) visits the institute to give a seminar.  
+Dr Nadia Mercader (University of Bern, Switzerland) visits the institute to give a seminar.  
   
 ![NadiaVisit](/images/news/2023/Nov_Nadia.jpeg "Nadia Visit")  
 
