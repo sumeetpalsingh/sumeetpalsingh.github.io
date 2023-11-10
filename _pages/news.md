@@ -7,7 +7,44 @@ featured_image: /images/covers/FishStages.jpg
 
 #### 2023
 
+##### November
+
+Dr Nadia Mercader (Iowa State University, USA) visits the institute to give a seminar.  
+  
+![NadiaVisit](/images/news/2023/Nov_Nadia.jpeg "Nadia Visit")  
+
+---
+##### September
+
+Dr Hua Bai (Iowa State University, USA) visits the lab.  
+  
+![HuaVisit](/images/news/2023/Sept_Hua.jpeg "Hua Visit")  
+
+---
+Elif presents her work on liver regeneration at the inaugural conference of International Society of Regenerative Biology (ISRB) at Vienna.    
+  
+![ElifISRB](/images/news/2023/Sept_ElifISRB.jpeg "ElifISRB")  
+
+---
+##### June
+
+Dr Nicolas Rohner (Stowers Institute, USA) visits the lab.  
+  
+![NickVisit](/images/news/2023/June_Nicolas.jpeg "Nick")  
+
+---
+Ines wins Best Flash Talk award at IRIBHM PhD Day! Congratulations!  
+  
+![InesAward](/images/news/2023/June_IRIBHM_PhDDay.jpeg "InesAward")  
+
+---
 ##### April
+
+Macarena successfully defends her thesis! She becomes the first PhD student to graduate from the lab.  
+  
+![Macarena](/images/news/2023/April_Macarena.jpeg "Macarena")  
+
+---
 
 Dr Jan Philipp Junker (Max Delbrück Center for Molecular Medicine, Berlin) visits the lab.  
   
