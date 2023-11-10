@@ -5,6 +5,17 @@ description: Happenings in the lab.
 featured_image: /images/covers/FishStages.jpg
 ---
 
+#### 2023
+
+##### April
+
+Dr Jan Philipp Junker (Max Delbrück Center for Molecular Medicine, Berlin) visits the lab.  
+  
+![JanVisit](/images/news/2023/April_Jan.jpeg "Jan Philipp Junker")  
+
+---
+
+
 #### 2022
 
 ##### December
@@ -27,7 +38,7 @@ Macarena gives a talk at IB2 Retreat. Elif and Ines present posters.
   
 ---
   
-Kirsten Sadler Edepli (NYU Abu Dhabi) visits the lab.  
+Dr Kirsten Sadler Edepli (NYU Abu Dhabi) visits the lab.  
   
 ![KSE](/images/news/2022/KirstenVisit.jpeg "KSE")  
   
