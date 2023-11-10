@@ -13,7 +13,7 @@ featured_image: /images/covers/icon.jpg
 
 1. [Cellular senescence modulates progenitor cell expansion during axolotl limb regeneration.    
   <span style="color:coral">*Developmental Cell*</span>](https://www.sciencedirect.com/science/article/pii/S1534580723005105)     
-  [*bioRxiv*]((https://www.biorxiv.org/content/10.1101/2022.09.01.506196v1)        
+  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.09.01.506196v1)        
   Qinghao Yu, Hannah E. Walters, Giovanni Pasquini, <span style="color:black">**Sumeet Pal Singh**</span>, Daniel León-Periñán, Andreas Petzold, Preethi Kesavan, Cristina Subiran, <span style="color:#D96098">**Ines Garteizgogeascoa**</span>, Dunja Knapp, Anne Wagner, Andrea Bernardos, María Alfonso, Gayathri Nadar,  Andreas Dahl, Volker Busskamp, Ramón Martínez-Máñez, Maximina H. Yun        
   <br/>
 1. [Fluorescent Sensors for Imaging Interstitial Calcium.    
