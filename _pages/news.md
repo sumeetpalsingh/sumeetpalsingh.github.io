@@ -7,6 +7,12 @@ featured_image: /images/covers/FishStages.jpg
 
 #### 2022
 
+##### December
+
+The lab receives funding from FNRS to investigate the starvation response in zebrafish.   
+
+---
+  
 ##### November
 
 At the Annual Meeting of Belgian Society of Physiology and Pharmacology (PhysPhar), Macarena gave a selected abstract talk. Ines and Elif presented posters. Elif won Best Poster Award!
