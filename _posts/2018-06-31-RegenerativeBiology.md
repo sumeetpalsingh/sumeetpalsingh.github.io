@@ -6,16 +6,25 @@ description: Our work contributes to advancing the fundamental understanding of 
 featured_image: '/images/slideshow/Regeneration_GreenT.jpg'
 ---
 
-## What makes the thyroid gland
+## Cellular Plasticity during Regeneration
 
-<img src="/images/ThyroidGland.png" alt="ThyroidGland" style="float:left;width:108px;height:200px;margin:0px 30px 0px 0px">
+<!-- <img src="/images/Blog/Old/ThyroidGland.png" alt="ThyroidGland" style="float:left;width:108px;height:200px;margin:0px 30px 0px 0px"> -->
 
-The thyroid gland regulates growth and metabolism via production of thyroid hormone in follicles composed of thyrocytes. So far, thyrocytes have been assumed to be a homogenous population. To uncover genetic heterogeneity in the thyrocyte population, and molecularly characterize the non-thyrocyte cells surrounding the follicle, we developed a single-cell transcriptome atlas of the zebrafish thyroid gland. The 6249-cell atlas includes profiles of thyrocytes, blood vessels, lymphatic vessels, immune cells including macrophages and fibroblasts. 
+The ability to regenerate complex organs requires generation of multiple cell-types, which is achieved by three means: 
 
-<img src="/images/pax2a.gif" alt="Pax2a" style="float:left;width:400px;height:240px;margin:0px 30px 0px 0px"> 
+1.	Proliferation of resident stem cells, such as in skin, intestine or blood.
+1.	Self-renewal of spared functional cells, such as in heart regeneration or upon mild injury of pancreatic β-cell or liver. 
+1.	Transdifferentiation of a functional cell into another, such as upon a severe injury to bone cells, pancreatic β-cells or liver hepatocytes.
 
-Further, the thyrocytes could be split into two sub-populations with unique transcriptional signature, including differential expression of the transcription factor pax2a. To validate thyrocyte heterogeneity, we generated a CRISPR/Cas9-based pax2a knock-in line, which demonstrated specific pax2a expression in the thyrocytes. However, a population of pax2a-low mature thyrocytes interspersed within individual follicles could be distinguished, corroborating heterogeneity within the thyrocyte population. Our results identify and validate transcriptional differences within the nominally homogenous thyrocyte population.  
+Among the three means of cellular recovery, the third method, transdifferentiation, is peculiar as it is not the default mode of regeneration. For instance, mild injury to pancreatic β-cell or liver hepatocytes is recovered by self-renewal, while a total loss of these cells is compensated by transdifferentiation. Thus, **transdifferentiation is facultative**: occurring only when the primary source of regeneration is missing. Moreover, transdifferentiation is not perfect. For example, the transdifferentiation of pancreatic δ-cells to β-cells in zebrafish leads to the formation of hybrid cells (Fig. 2) that contain characteristics of δ- and β-cells.
+
+The goal of our current research is to understand the regulators of such regenerative plasticity. 
+
+In line with this, we have started work on liver regeneration in zebrafish to accomplish these goals, as the liver provides an evolutionary conserved model to study the cellular mode of regeneration. The zebrafish liver is highly similar to the human liver, conserving both cellular composition and functionality. It consists of two major cell types: the hepatocytes and biliary epithelial cells (BECs or cholangiocytes). Hepatocytes perform most of the liver functions, while BECs transport bile acid produced by hepatocytes to the gallbladder.
+
+
+
+
+<!-- <img src="/images/Blog/Old/pax2a.gif" alt="Pax2a" style="float:left;width:400px;height:240px;margin:0px 30px 0px 0px"> --> 
+
   
-[The Thyroid Gland Atlas can be explored using an online webtool.](https://sumeet.shinyapps.io/zfthyroid/) 
-
-The Atlas was generated in collaboration with [Dr. Sabine Costagliola Lab](https://costalab.ulb.ac.be/) at IRIBHM, ULB, Brussels.
