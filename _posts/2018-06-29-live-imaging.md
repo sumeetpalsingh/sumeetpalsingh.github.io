@@ -1,12 +1,12 @@
 ---
-title: 'Live Imaging at cellular resolution'
-subtitle: 'Illuminating cellular interactions.'
-date: 2018-06-29 00:00:00
+title: 'Stress Biology'
+subtitle: 'Decoding environmental cacophony.'
+date: 2023-11-12 00:00:00
 description: Cells do not exist in a vaccum. They are constantly interacting with their environment. We are interested in live imaging of the cellular interactions. With this, we want to understand how cell behavior is shaped by their neighbours during health and disease.
-featured_image: '/images/demo/animation1.gif'
+featured_image: '/images/gallery/Steatosis.jpg'
 ---
 
-## Illuminating cellular interactions
+## Response to starvation stress
 
 <img src="/images/demo/animation1.gif" alt="Sumeet" style="float:left;width:600px;height:314px;margin:0px 30px 0px 0px">  
 
