@@ -51,7 +51,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: 'https://twitter.com/sumeetpalsingh8'
-  instagram_url: 'https://www.instagram.com/singh_iribhm/'
+  instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -74,7 +74,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: 'https://www.linkedin.com/in/sumeetpalsingh8/'
+  linkedin_url: ''
 
 color_settings:
   background_color: '#ffffff'

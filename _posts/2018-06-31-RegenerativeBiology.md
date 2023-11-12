@@ -1,7 +1,7 @@
 ---
 title: 'Regenerative Biology'
 subtitle: 'Cellular and Molecular Basis of Organ Recovery.'
-date: 2018-06-31 00:00:00
+date: 2023-11-12 00:00:00
 description: Our work contributes to advancing the fundamental understanding of how cells collaborate to achieve remarkable regenerative feats. We explore the incredible potential of harnessing the body's natural ability to heal and rejuvenate itself. We explore how the regenerative potential interacts with evolution, nutrition and disease.
 featured_image: '/images/slideshow/Regeneration_GreenT.jpg'
 ---
@@ -20,9 +20,9 @@ Among the three means of cellular recovery, the third method, transdifferentiati
 
 The goal of our current research is to understand the regulators of such regenerative plasticity. 
 
-In line with this, we have started work on liver regeneration in zebrafish to accomplish these goals, as the liver provides an evolutionary conserved model to study the cellular mode of regeneration. The zebrafish liver is highly similar to the human liver, conserving both cellular composition and functionality. It consists of two major cell types: the hepatocytes and biliary epithelial cells (BECs or cholangiocytes). Hepatocytes perform most of the liver functions, while BECs transport bile acid produced by hepatocytes to the gallbladder.
+In line with this, we have started work on liver regeneration in zebrafish to accomplish these goals, as the liver provides an evolutionary conserved model to study the cellular mode of regeneration. The zebrafish liver is highly similar to the human liver, conserving both cellular composition and functionality. It consists of two major cell types: the hepatocytes and biliary epithelial cells (BECs or cholangiocytes or ductal cells). Hepatocytes perform most of the liver functions, while BECs transport bile acid produced by hepatocytes to the gallbladder.
 
-
+Liver regeneration in zebrafish and mammals is facultative. Upon mild injury, for example loss of less than 75% of the liver by partial hepatectomy, the remaining hepatocytes proliferate to regenerate the remaining tissue. However, upon severe injury or when the cell-cycle in hepatocytes is blocked, the biliary epithelial cells (BECs) transdifferentiate to generate new hepatocytes. In our lab we are investigating the regulators of BECs-to-hepatocyte conversion.
 
 
 <!-- <img src="/images/Blog/Old/pax2a.gif" alt="Pax2a" style="float:left;width:400px;height:240px;margin:0px 30px 0px 0px"> --> 
