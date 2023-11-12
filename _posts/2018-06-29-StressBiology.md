@@ -17,5 +17,6 @@ Additionally, a major driver of evolutionary selection is the adaptation to star
 
 Our work has demonstrated that the zebrafish liver accumulates lipid droplets in response to starvation. Hepatic steatosis, in this case, creates an energy reservoir that allows survival during long-term caloric deprivation. We study this “natural” mode of liver steatosis to uncover the mechanisms underlying its induction and resolution, identifying insulin-driven calcium signaling and a lipid transporter (slc27a2 / FATP2) as a regulator of fatty liver. As steatosis is the first step towards liver disease, we are currently investigating the link between steatosis and liver damage.
 
-<img src="/images/gallery/Liver.jpg" alt="Liver" style="float:left;width:600px;height:314px;margin:0px 30px 0px 0px">  
+<img src="/images/gallery/Liver.jpg" alt="Liver">  
+
 Left: A fatty liver in fasting zebrafish larvae. Right: Inflammation (macrophages) in the starved liver.
