@@ -9,8 +9,19 @@ featured_image: /images/covers/icon.jpg
 
 <span style="color:#D96098">Lab Members in Purple</span>
 
+### 2024
+
+1. [HAMSAB diet ameliorates dysfunctional signaling in pancreatic islets in autoimmune diabetes.      
+  <span style="color:coral">*iScience*</span>](https://www.sciencedirect.com/science/article/pii/S2589004223027712)    
+  Valerie Vandenbempt, <span style="color:#D96098">**Sema Elif Eski**</span>, Manoja K. Brahma, Ao Li, Javier Negueruela, Ylke Bruggeman, Stéphane Demine, Peng Xiao, Alessandra K. Cardozo, Nicolas Baeyens, Luciano G. Martelotto, <span style="color:black">**Sumeet Pal Singh**</span>, Eliana Mariño, Conny Gysemans, Esteban N. Gurzov     
+  <br/>  
+
 ### 2023
 
+1. [Protein tyrosine phosphatase receptor kappa regulates glycolysis and de novo lipogenesis to promote hepatocyte metabolic reprogramming in obesity.  
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2023.12.01.569004v1)    
+  Eduardo H. Gilglioni, Ao Li, Wadsen St-Pierre-Wijckmans, Tzu-Keng Shen, Israel Pérez-Chávez, Garnik Hovhannisyan, Michela Lisjak, Javier Negueruela, Valerie Vandenbempt, Julia Bauzá-Martinez, Jose M. Herranz, Daria Ezerina, Stephane Demine, Zheng Feng, Thibaut Vignane, Lukas Otero-Sánchez, Flavia Lambertucci, Alena Prašnická, Jacques Devière, David C. Hay, Jose A. Encinar, <span style="color:black">**Sumeet Pal Singh**</span>, Joris Messens, Milos R. Filipovic, Hayley J. Sharpe, Eric Trépo, Wei Wu, Esteban N. Gurzov   
+  <br/> 
 1. [Cellular senescence modulates progenitor cell expansion during axolotl limb regeneration.    
   <span style="color:coral">*Developmental Cell*</span>](https://www.sciencedirect.com/science/article/pii/S1534580723005105)     
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.09.01.506196v1)        
