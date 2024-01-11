@@ -50,7 +50,6 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: 'https://twitter.com/sumeetpalsingh8'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
@@ -75,7 +74,9 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/sumeetpalsingh8/'
-  mastodon_url: 'https://biologists.social/home'
+  twitter_url: 'https://twitter.com/sumeetpalsingh8'
+  bluesky_url: 'https://bsky.app/profile/singhlab.bsky.social'
+  mastodon_url: 'https://biologists.social/@sumeetpalsingh'
 
 color_settings:
   background_color: '#ffffff'
