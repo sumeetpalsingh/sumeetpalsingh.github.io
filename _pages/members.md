@@ -5,9 +5,10 @@ description: Singh Lab Members.
 featured_image: /images/covers/Cartoon.jpg
 ---
 
-#### 2022
+#### 2024
 
 <img src="/images/members/GroupPhoto2021_Small.jpg" alt="GroupPhoto 2021">
+Group Photo 2021
 
 #### Technician
 <img src="/images/members/Camille.jpg" alt="Camille" style="float:left;width:135px;height:150px;margin:-20px 30px 0px 0px">
