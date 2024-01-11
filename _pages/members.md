@@ -17,6 +17,12 @@ featured_image: /images/covers/Cartoon.jpg
 <br/>
 
 #### Current PhD Students
+<img src="/images/members/Garnik.jpg" alt="Garnik" style="float:left;width:150px;height:140px;margin:-20px 30px 0px 0px">
+
+<span style="color:coral">**Garnik Hovhannisyan**</span>, graduated from a M.Sc in Biomedical Sciences in 2023 at the Université Libre de Bruxelles. During his master thesis under the supervision of [Dr. Esteban Gurzov](https://www.stmlaboratory.com/dr-esteban-gurzov-phd), he focused on studying the role of PTPRK in MASLD and hepatocellular carcinoma in the context of obesity. He joined the group in 2024, being co-supervised with [Dr. Esteban Gurzov](https://www.stmlaboratory.com/dr-esteban-gurzov-phd). His project focusses on the role of PTPRK in lipid metabolism and the development of hepatocellular carcinoma in fish and mouse. For this, Garnik received a PhD fellowship from FNRS (FRIA) for four years.  
+
+<br/>
+
 <img src="/images/members/Elif.jpg" alt="Elif" style="float:left;width:123px;height:150px;margin:-20px 30px 0px 0px">
 
 <span style="color:coral">**Elif Eski**</span>, the lab's first PhD student, joined on 01 November, 2019. She obtained her M.Sc. degree from Bogazici University, Turkey. During her master's thesis under the supervision of [Dr. Stefan H. Fuss](http://neurobio.boun.edu.tr/), she focussed on the role of Wnt/β-catenin signaling during regenerative neurogenesis in adult zebrafish olfactory epithelium. In 2021, Elif received a PhD fellowship from FNRS (ASP) for three years. Elif is focusing her thesis on <span style="color:coral">the cellular source of liver regeneration</span>.
