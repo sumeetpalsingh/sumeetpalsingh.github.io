@@ -9,9 +9,19 @@ featured_image: /images/covers/FishStages.jpg
 
 ##### December
 
+The lab receives a four-year research project funding (Projet de recherche - PDR) from FNRS to investigate cell-fate plasticity during liver regeneration!    
+
+---
 Dr Elly Tanaka (Institute of Molecular Pathology (IMP), Vinna, Austria) visits the lab and the institute to give a seminar.  
   
 ![EllyVisit](/images/news/2023/Dec_Elly.jpg "Elly Visit")  
+
+---
+##### November
+
+Dr Filipa Simões (Institute of Developmental and Regenerative Medicine (IDRM), Oxford, UK) visits the institute to give a seminar.  
+  
+![FilipaVisit](/images/news/2023/Nov_Filipa.jpg "Filipa Visit")  
 
 ---
 
