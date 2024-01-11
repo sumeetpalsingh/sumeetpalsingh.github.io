@@ -7,7 +7,13 @@ featured_image: /images/covers/FishStages.jpg
 
 #### 2023
 
-##### November
+##### December
+
+Dr Elly Tanaka (Institute of Molecular Pathology (IMP), Vinna, Austria) visits the lab and the institute to give a seminar.  
+  
+![EllyVisit](/images/news/2023/Dec_Elly.jpg "Elly Visit")  
+
+---
 
 Dr Nadia Mercader (University of Bern, Switzerland) visits the institute to give a seminar.  
   
