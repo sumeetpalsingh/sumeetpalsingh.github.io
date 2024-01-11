@@ -117,7 +117,7 @@ featured_image: /images/covers/icon.jpg
   Navrita Mathiah,  Evangeline Despin-Guitard,  Matthew Stower,  Wallis Nahaboo,  <span style="color:#D96098">**Sema Elif Eski**</span>, <span style="color:black">**Sumeet Pal Singh**</span>, Shankar Srinivas, Isabelle Migeotte  
   <br/>
 1. [Nuclei Isolation from Whole Tissue using a Detergent and Enzyme-Free Method    
-  <span style="color:coral">*J. Vis. Exp.*</span>](https://www.jove.com/t/61471/nuclei-isolation-from-whole-tissue-using-detergent-enzyme-free)    
+  <span style="color:coral">*Journal of Visualized Experiments*</span>](https://www.jove.com/t/61471/nuclei-isolation-from-whole-tissue-using-detergent-enzyme-free)    
   <span style="color:#D96098">**Sema Elif Eski**</span>, Christine Dubois, <span style="color:black">**Sumeet Pal Singh**</span>  
   <br/>
 1. [Transcriptional analysis of sepsis-induced activation and damage of the adrenal microvascular cells  
