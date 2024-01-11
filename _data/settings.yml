@@ -75,6 +75,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/sumeetpalsingh8/'
+  mastodon_url: 'https://biologists.social/home'
 
 color_settings:
   background_color: '#ffffff'
