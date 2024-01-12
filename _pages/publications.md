@@ -11,6 +11,12 @@ featured_image: /images/covers/icon.jpg
 
 ### 2024
 
+1. [Starvation resistant cavefish reveal conserved mechanisms of starvation-induced hepatic lipotoxicity    
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2024.01.10.574986v1)        
+  <span style="color:#D96098">**Macarena Pozo-Morales**</span><sup>*</sup>, Ansa E Cobham<sup>*</sup>, Cielo Centola, Mary Cathleen McKinney, Peiduo Liu, <span style="color:#D96098">**Camille Perazzolo**</span>, Anne Lefort, Frederick Libert, Hua Bai, Nicolas Rohner<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
+  <sup>*</sup> Co-Authors  
+  <sup>§</sup> Co-Corresponding author     
+  <br/>
 1. [HAMSAB diet ameliorates dysfunctional signaling in pancreatic islets in autoimmune diabetes.      
   <span style="color:coral">*iScience*</span>](https://www.sciencedirect.com/science/article/pii/S2589004223027712)    
   Valerie Vandenbempt, <span style="color:#D96098">**Sema Elif Eski**</span>, Manoja K. Brahma, Ao Li, Javier Negueruela, Ylke Bruggeman, Stéphane Demine, Peng Xiao, Alessandra K. Cardozo, Nicolas Baeyens, Luciano G. Martelotto, <span style="color:black">**Sumeet Pal Singh**</span>, Eliana Mariño, Conny Gysemans, Esteban N. Gurzov     
