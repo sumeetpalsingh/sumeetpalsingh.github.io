@@ -18,7 +18,7 @@ featured_image: /images/covers/icon.jpg
   <sup>*</sup> Co-Authors  
   <sup>§</sup> Co-Corresponding author     
   
-  News Coverage:  
+  <span style="color:MediumOrchid">**News Coverage:**</span> 
   [*New Scientist:* **Blind cave fish offers lessons in how to survive starvation**](https://www.newscientist.com/article/2421466-blind-cave-fish-offers-lessons-in-how-to-survive-starvation/)   
        
   [*Yahoo! Finance:* **Overeating and starving both damage the liver: Cavefish provide new insight into fatty liver disease**](https://finance.yahoo.com/news/overeating-starving-both-damage-liver-142400368.html)   
