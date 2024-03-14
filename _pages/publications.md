@@ -21,7 +21,7 @@ featured_image: /images/covers/icon.jpg
   News Coverage:  
   [*New Scientist:* **Blind cave fish offers lessons in how to survive starvation**](https://www.newscientist.com/article/2421466-blind-cave-fish-offers-lessons-in-how-to-survive-starvation/)   
        
-  [*Yahoo Finance:* **Overeating and starving both damage the liver: Cavefish provide new insight into fatty liver disease**](https://finance.yahoo.com/news/overeating-starving-both-damage-liver-142400368.html)   
+  [*Yahoo! Finance:* **Overeating and starving both damage the liver: Cavefish provide new insight into fatty liver disease**](https://finance.yahoo.com/news/overeating-starving-both-damage-liver-142400368.html)   
   <br/>
 1. [HAMSAB diet ameliorates dysfunctional signaling in pancreatic islets in autoimmune diabetes.      
   <span style="color:coral">*iScience*</span>](https://www.sciencedirect.com/science/article/pii/S2589004223027712)    
