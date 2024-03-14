@@ -17,10 +17,10 @@ featured_image: /images/covers/icon.jpg
   <span style="color:#D96098">**Macarena Pozo-Morales**</span><sup>*</sup>, Ansa E Cobham<sup>*</sup>, Cielo Centola, Mary Cathleen McKinney, Peiduo Liu, <span style="color:#D96098">**Camille Perazzolo**</span>, Anne Lefort, Frederick Libert, Hua Bai, Nicolas Rohner<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
   <sup>*</sup> Co-Authors  
   <sup>§</sup> Co-Corresponding author     
-  
+  <br/>
   <span style="color:MediumOrchid">**News Coverage:**</span> 
   [*New Scientist:* **Blind cave fish offers lessons in how to survive starvation**](https://www.newscientist.com/article/2421466-blind-cave-fish-offers-lessons-in-how-to-survive-starvation/)   
-       
+  <br/>   
   [*Yahoo! Finance:* **Overeating and starving both damage the liver: Cavefish provide new insight into fatty liver disease**](https://finance.yahoo.com/news/overeating-starving-both-damage-liver-142400368.html)   
   <br/>
 1. [CD38 promotes hematopoietic stem cell dormancy via c-Fos.      
