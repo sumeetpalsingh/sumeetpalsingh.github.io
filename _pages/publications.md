@@ -19,8 +19,7 @@ featured_image: /images/covers/icon.jpg
   <sup>§</sup> Co-Corresponding author     
   <br/>
   <span style="color:SeaGreen">**News Coverage:**</span>   
-  [*New Scientist:* **Blind cave fish offers lessons in how to survive starvation**](https://www.newscientist.com/article/2421466-blind-cave-fish-offers-lessons-in-how-to-survive-starvation/)   
-  <br/>
+  [*New Scientist:* **Blind cave fish offers lessons in how to survive starvation**](https://www.newscientist.com/article/2421466-blind-cave-fish-offers-lessons-in-how-to-survive-starvation/)    
   [*Yahoo! Finance:* **Overeating and starving both damage the liver: Cavefish provide new insight into fatty liver disease**](https://finance.yahoo.com/news/overeating-starving-both-damage-liver-142400368.html)   
   <br/>
 1. [CD38 promotes hematopoietic stem cell dormancy via c-Fos.      
