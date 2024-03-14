@@ -12,7 +12,8 @@ featured_image: /images/covers/icon.jpg
 ### 2024
 
 1. [Starvation resistant cavefish reveal conserved mechanisms of starvation-induced hepatic lipotoxicity    
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2024.01.10.574986v1)        
+  <span style="color:coral">*Life Science Alliance*</span>](https://www.life-science-alliance.org/content/7/5/e202302458)        
+  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2024.01.10.574986v1)        
   <span style="color:#D96098">**Macarena Pozo-Morales**</span><sup>*</sup>, Ansa E Cobham<sup>*</sup>, Cielo Centola, Mary Cathleen McKinney, Peiduo Liu, <span style="color:#D96098">**Camille Perazzolo**</span>, Anne Lefort, Frederick Libert, Hua Bai, Nicolas Rohner<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
   <sup>*</sup> Co-Authors  
   <sup>§</sup> Co-Corresponding author     
