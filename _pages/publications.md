@@ -20,13 +20,13 @@ featured_image: /images/covers/icon.jpg
   <br/>
   <span style="color:SeaGreen">**News Coverage:**</span>   
   [*New Scientist:* **Blind cave fish offers lessons in how to survive starvation**](https://www.newscientist.com/article/2421466-blind-cave-fish-offers-lessons-in-how-to-survive-starvation/)   
-  <br/>   
+  <br/>
   [*Yahoo! Finance:* **Overeating and starving both damage the liver: Cavefish provide new insight into fatty liver disease**](https://finance.yahoo.com/news/overeating-starving-both-damage-liver-142400368.html)   
   <br/>
 1. [CD38 promotes hematopoietic stem cell dormancy via c-Fos.      
   <span style="color:coral">*PLoS Biology*</span>](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002517)     
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.02.08.527614v1)    
-  Liliia Ibneeva,  <span style="color:black">**Sumeet Pal Singh**</span>, Anupam Sinha, <span style="color:#D96098">**Sema Elif Eski**</span>, Rebekka Wehner, Luise Rupp, Juan Alberto Perez-Valencia, Alexander Gerbaulet, Susanne Reinhardt, Manja Wobus, Malte Bonin, Jaime Sancho, Frances E Lund, Andreas Dahl, Marc Schmitz, Martin Bornhaeuser, Triantafyllos Chavakis, Ben Wielockx, Tatyana Grinenko   
+  Liliia Ibneeva,  <span style="color:black">**Sumeet Pal Singh**</span>, Anupam Sinha, <span style="color:#D96098">**Sema Elif Eski**</span>, Rebekka Wehner, Luise Rupp, Iryna Kovtun, Juan Alberto Perez-Valencia, Alexander Gerbaulet, Susanne Reinhardt, Manja Wobus, Malte von Bonin, Jaime Sancho, Frances Lund, Andreas Dahl, Marc Schmitz, Martin Bornhaeuser, Triantafyllos Chavakis, Ben Wielockx, Tatyana Grinenko   
   <br/>   
 1. [HAMSAB diet ameliorates dysfunctional signaling in pancreatic islets in autoimmune diabetes.      
   <span style="color:coral">*iScience*</span>](https://www.sciencedirect.com/science/article/pii/S2589004223027712)    
