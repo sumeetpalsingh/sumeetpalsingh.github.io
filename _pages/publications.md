@@ -17,6 +17,10 @@ featured_image: /images/covers/icon.jpg
   <span style="color:#D96098">**Macarena Pozo-Morales**</span><sup>*</sup>, Ansa E Cobham<sup>*</sup>, Cielo Centola, Mary Cathleen McKinney, Peiduo Liu, <span style="color:#D96098">**Camille Perazzolo**</span>, Anne Lefort, Frederick Libert, Hua Bai, Nicolas Rohner<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
   <sup>*</sup> Co-Authors  
   <sup>§</sup> Co-Corresponding author     
+  
+  In News:
+  [*New Scientist*](https://www.newscientist.com/article/2421466-blind-cave-fish-offers-lessons-in-how-to-survive-starvation/) 
+  [*Yahoo Finance*](https://finance.yahoo.com/news/overeating-starving-both-damage-liver-142400368.html)
   <br/>
 1. [HAMSAB diet ameliorates dysfunctional signaling in pancreatic islets in autoimmune diabetes.      
   <span style="color:coral">*iScience*</span>](https://www.sciencedirect.com/science/article/pii/S2589004223027712)    
