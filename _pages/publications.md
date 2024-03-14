@@ -23,6 +23,11 @@ featured_image: /images/covers/icon.jpg
        
   [*Yahoo! Finance:* **Overeating and starving both damage the liver: Cavefish provide new insight into fatty liver disease**](https://finance.yahoo.com/news/overeating-starving-both-damage-liver-142400368.html)   
   <br/>
+1. [CD38 promotes hematopoietic stem cell dormancy via c-Fos.      
+  <span style="color:coral">*PLoS Biology*</span>](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002517)     
+  [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.02.08.527614v1)    
+  Liliia Ibneeva,  <span style="color:black">**Sumeet Pal Singh**</span>, Anupam Sinha, <span style="color:#D96098">**Sema Elif Eski**</span>, Rebekka Wehner, Luise Rupp, Juan Alberto Perez-Valencia, Alexander Gerbaulet, Susanne Reinhardt, Manja Wobus, Malte Bonin, Jaime Sancho, Frances E Lund, Andreas Dahl, Marc Schmitz, Martin Bornhaeuser, Triantafyllos Chavakis, Ben Wielockx, Tatyana Grinenko   
+  <br/>   
 1. [HAMSAB diet ameliorates dysfunctional signaling in pancreatic islets in autoimmune diabetes.      
   <span style="color:coral">*iScience*</span>](https://www.sciencedirect.com/science/article/pii/S2589004223027712)    
   Valerie Vandenbempt, <span style="color:#D96098">**Sema Elif Eski**</span>, Manoja K. Brahma, Ao Li, Javier Negueruela, Ylke Bruggeman, Stéphane Demine, Peng Xiao, Alessandra K. Cardozo, Nicolas Baeyens, Luciano G. Martelotto, <span style="color:black">**Sumeet Pal Singh**</span>, Eliana Mariño, Conny Gysemans, Esteban N. Gurzov     
@@ -56,10 +61,6 @@ featured_image: /images/covers/icon.jpg
   <span style="color:coral">*Hepatology*</span>](https://journals.lww.com/hep/Abstract/2023/03000/In_vivo_imaging_of_calcium_dynamics_in_zebrafish.10.aspx)   
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.01.11.475536v1)     
   <span style="color:#D96098">**Macarena Pozo-Morales, Inés Garteizgogeascoa, Camille Perazzolo**</span>, Juhoon So, Donghun Shin, <span style="color:black">**Sumeet Pal Singh**</span>       
-  <br/>
-1. [CD38 promotes hematopoietic stem cell dormancy via c-Fos.      
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2023.02.08.527614v1)    
-  Liliia Ibneeva,  <span style="color:black">**Sumeet Pal Singh**</span>, Anupam Sinha, <span style="color:#D96098">**Sema Elif Eski**</span>, Rebekka Wehner, Luise Rupp, Juan Alberto Perez-Valencia, Alexander Gerbaulet, Susanne Reinhardt, Manja Wobus, Malte Bonin, Jaime Sancho, Frances E Lund, Andreas Dahl, Marc Schmitz, Martin Bornhaeuser, Triantafyllos Chavakis, Ben Wielockx, Tatyana Grinenko   
   <br/>  
 
 ### 2022
