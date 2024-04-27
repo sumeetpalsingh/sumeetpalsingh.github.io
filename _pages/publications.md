@@ -10,7 +10,7 @@ featured_image: /images/covers/icon.jpg
 <span style="color:#D96098">Lab Members in Purple</span>
 
 ### 2024
-
+<img src="/images/publications/LSA_2024.gif" alt="LSA_Cover" style="float:left;width:340px;height:440px;margin:-20px 30px 0px 0px">
 1. [Starvation resistant cavefish reveal conserved mechanisms of starvation-induced hepatic lipotoxicity    
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2024.01.10.574986v1)        
   <span style="color:#D96098">**Macarena Pozo-Morales**</span><sup>*</sup>, Ansa E Cobham<sup>*</sup>, Cielo Centola, Mary Cathleen McKinney, Peiduo Liu, <span style="color:#D96098">**Camille Perazzolo**</span>, Anne Lefort, Frederick Libert, Hua Bai, Nicolas Rohner<sup>§</sup>, <span style="color:black">**Sumeet Pal Singh<sup>§</sup>**</span>  
