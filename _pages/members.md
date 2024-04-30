@@ -67,6 +67,6 @@ In 2024, she was awarded the [CNIO Friends Postdoctoral fellowship](https://www.
 <br/>
 
 
-## 2021
+##### 2021
 <img src="/images/members/GroupPhoto2021_Small.jpg" alt="GroupPhoto 2021">
 Group Photo 2021
