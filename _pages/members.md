@@ -27,16 +27,12 @@ Download [CV][1]
 
 [1]:{{ site.url }}/download/Sumeet_CV_Jan2024.pdf
 
-<br/>
-
 ---
 
 #### Technician
 <img src="/images/members/Camille.jpg" alt="Camille" style="float:left;width:135px;height:150px;margin:-20px 30px 0px 0px">
 
 <span style="color:coral">**Camille Perazzolo**</span> performed her Bachelor in medical biology with clinical chemistry option at the Paul Lambin Institute (Haute école Da Vinci), where she graduated in June 2012 with Distinction. Since 2012, she has been working at ULB on projects related to zebrafish. She has strong expertise in handing, maintainance and transgenesis of  zebrafish, as well as molecular biology and confocal imaging. She is currently focusing on developing <span style="color:coral">knock-in tools to visualize the dynamic response of the cells to stress</span>. 
-
-<br/>
 
 ---
 
@@ -57,7 +53,6 @@ Download [CV][1]
 
 <span style="color:coral">**Inés Garteizgogeascoa Suñer.**</span> Graduated in Biochemistry from University Autónoma de Madrid, Spain; followed by a M.Sc. degree in Integrative Biology and Physiology from University Claude Bernard de Lyon, France (2019). During her master’s thesis under the supervision of Dr. Karine Gauthier and Dr.Fréderic Flamant, she focused on studying thyroid hormone-mediated thermogenesis in brown adipose tissue in mice. She was able to identify potential new thermogenic pathways, independent from UCP-1 classic mechanism, regulated by thyroid hormone in response to prolonged cold exposure. She joined the group in 2020 to work on developing tools for <span style="color:coral">imaging of signalling pathways in zebrafish</span>.
 
-<br/>
 
 ---
 
@@ -67,7 +62,6 @@ Download [CV][1]
 
 <span style="color:coral">**Imane Ez-Zammoury**</span> graduated from her Bachelor's degree in Biomedical Science at the Université Catholique de Louvain in 2022. In the Master's thesis conducted under the guidance of Prof. Sophie Lucas, her project centered on the investigating TGF-β1 activation. In the final year of her Master's program, she joined the lab after defending her master's thesis. Her project focuses on developing imaging modalities to study starvation and injury response of the liver. 
 
-<br/>
 
 ---
 
