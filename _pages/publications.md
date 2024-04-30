@@ -10,7 +10,7 @@ featured_image: /images/covers/icon.jpg
 <span style="color:#D96098">Lab Members in Purple</span>
 
 ### 2024
-
+<img src="/images/publications/LSA_2024.gif" alt="LSA_Cover" style="float:left;width:340px;height:440px;margin:-20px 30px 0px 0px">
 1. [Starvation resistant cavefish reveal conserved mechanisms of starvation-induced hepatic lipotoxicity    
   <span style="color:coral">*Life Science Alliance*</span>](https://www.life-science-alliance.org/content/7/5/e202302458)        
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2024.01.10.574986v1)        
