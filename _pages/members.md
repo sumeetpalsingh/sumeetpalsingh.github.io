@@ -58,7 +58,7 @@ Download [CV][1]
 
 #### Past Members
 
-#### PhD Students
+##### PhD Students
 <img src="/images/members/Macarena.jpeg" alt="Macarena" style="float:left;width:123px;height:168px;margin:-20px 30px 0px 0px">
 
 <span style="color:coral">**Macarena Pozo Morales.**</span> completed her PhD in 2023, titled ["Roles and regulations of starvation-induced hepatic steatosis"](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/358507/Holdings). During her doctoral thesis, she focused on the impact of starvation on the zebrafish liver. For this, she developed in vivo imaging setup to visualize calcium dynamics and lipid droplets. Her first author papers were published in [**Hepatology**](https://journals.lww.com/hep/Abstract/2023/03000/In_vivo_imaging_of_calcium_dynamics_in_zebrafish.10.aspx) and [**Life Science Alliance**](https://www.life-science-alliance.org/content/7/5/e202302458).  
@@ -67,7 +67,7 @@ In 2024, she was awarded the [CNIO Friends Postdoctoral fellowship](https://www.
 
 ---
 
-#### Intern Students
+##### Intern Students
 
 <img src="/images/members/Imane.jpg" alt="Imane" style="float:left;width:133px;height:200px;margin:-20px 30px 0px 0px">
 
