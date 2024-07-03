@@ -10,6 +10,10 @@ featured_image: /images/covers/icon.jpg
 <span style="color:#D96098">Lab Members in Purple</span>
 
 ### 2024
+1. [Optogenetic β cell interrogation in vivo reveals a functional hierarchy directing the Ca2+ response to glucose supported by vitamin B6.      
+  <span style="color:coral">*Science Advances*</span>](https://www.science.org/doi/10.1126/sciadv.ado4513)     
+  Luis Fernando Delgadillo-Silva, Emirhan Tasöz,  <span style="color:black">**Sumeet Pal Singh**</span>, Prateek Chawla, Eleni Georgiadou, Anne Gompf, Guy A. Rutter, Nikolay Ninov   
+  <br/>  
 <img src="/images/publications/LSA_2024.gif" alt="LSA_Cover" style="float:left;width:340px;height:440px;margin:-20px 30px 0px 0px">
 1. [Starvation resistant cavefish reveal conserved mechanisms of starvation-induced hepatic lipotoxicity    
   <span style="color:coral">*Life Science Alliance*</span>](https://www.life-science-alliance.org/content/7/5/e202302458)        
