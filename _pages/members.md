@@ -71,9 +71,9 @@ In 2024, she was awarded the [CNIO Friends Postdoctoral fellowship](https://www.
 
 <img src="/images/members/Imane.jpg" alt="Imane" style="float:left;width:133px;height:200px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Imane Ez-Zammoury**</span> <!--graduated from her Bachelor's degree in Biomedical Science at the Université Catholique de Louvain in 2022. In the Master's thesis conducted under the guidance of Prof. Sophie Lucas, her project centered on the investigating TGF-β1 activation. In the final year of her Master's program, she--> joined the lab in Spring 2024 after defending her master's thesis. Her project focused on developing imaging modalities to study starvation and injury response of the liver. 
+<span style="color:coral">**Imane Ez-Zammoury**</span> <!--graduated from her Bachelor's degree in Biomedical Science at the Université Catholique de Louvain in 2022. In the Master's thesis conducted under the guidance of Prof. Sophie Lucas, her project centered on the investigating TGF-β1 activation. In the final year of her Master's program, she--> joined the lab in Spring 2024 after defending her master's thesis. Her project focused on developing imaging modalities to study starvation and injury response of the liver.  
 
-
+  
 ---
 <br/>
 

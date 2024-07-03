@@ -4,6 +4,60 @@ subtitle: Small steps.
 description: Happenings in the lab.
 featured_image: /images/covers/FishStages.jpg
 ---
+#### 2024
+
+##### June
+
+Sumeet gives a talk at the 16th Annual Swiss Zebrafish Meeting help at University of Fribourg. The Meeting was organized by [Dr Anna Jazwinska](https://www.unifr.ch/bio/en/groups/jazwinska/).
+
+![SZMVisit](/images/news/2024/June_SZM.jpg "SZM")    
+
+---
+Elif presented poster at the annual IRIBHM PhD Day.
+
+![PhDDay](/images/news/2024/June_PhDDay.jpg "Arica")    
+
+---
+The lab hosts [Dr Arica Beisaw](https://www.beisawlab.com/) for institute seminar.
+
+![AricaVisit](/images/news/2024/June_Arica.jpg "Arica")    
+
+---
+
+##### April
+
+The lab hosts [Dr Julien Vermot](https://www.vermotlab.com/) for institute seminar.
+
+  
+
+---
+##### February
+
+Sumeet gives a talk at the "Cellular and Molecular Mechanisms of Development and Regeneration" conference held at Shiv Nadar Institution of Eminence, Delhi-NCR.
+
+![SNUVisit](/images/news/2024/Feb_SNU.jpg "SNU")  
+
+---
+With help from [Wallonie-Bruxelles International (WBI)](https://www.wbi.be/), Sumeet takes a course on bioinformatics and Regenerative Biology at Indian Institute of Technology-Kanpur (IITK). [Dr Jonaki Sen](https://sites.google.com/view/jslab-iitk/home) kindly hosted the visit.
+
+![IITKVisit](/images/news/2024/Feb_IITK.jpg "IITK")  
+
+---
+Sumeet visits  Regional Centre for Biotechnology (RCB) hosted by [Dr Rajender Motiani](https://www.rcb.res.in/index.php?param=empdetails/rajender).    
+  
+![RCBVisit](/images/news/2024/Feb_RCB.jpg "RCB")  
+
+---
+Sumeet visits Indian Institute of Technology-Bombay (IITB) hosted by [Dr Roop Mallik](https://www.bio.iitb.ac.in/~roop/).    
+  
+![IITBVisit](/images/news/2024/Feb_IITB.jpg "IITB")  
+
+---
+The lab hosts [Dr Marino Zerial](https://humantechnopole.it/en/people/marino-zerial/) for institute seminar.    
+  
+![MarinoVisit](/images/news/2024/Feb_Marino.jpg "Marino")  
+
+---
 
 #### 2023
 
