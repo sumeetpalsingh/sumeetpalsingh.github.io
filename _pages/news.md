@@ -8,7 +8,7 @@ featured_image: /images/covers/FishStages.jpg
 
 ##### June
 
-Sumeet gives a talk at the 16th Annual Swiss Zebrafish Meeting help at University of Fribourg. The Meeting was organized by [Dr Anna Jazwinska](https://www.unifr.ch/bio/en/groups/jazwinska/).
+Sumeet gives a talk at the 16th Annual Swiss Zebrafish Meeting held at University of Fribourg. The Meeting was organized by [Dr Anna Jazwinska](https://www.unifr.ch/bio/en/groups/jazwinska/).
 
 ![SZMVisit](/images/news/2024/June_SZM.jpg "SZM")    
 
