@@ -28,7 +28,7 @@ The lab hosts [Dr Arica Beisaw](https://www.beisawlab.com/) for institute semina
 
 The lab hosts [Dr Julien Vermot](https://www.vermotlab.com/) for institute seminar.
 
-  
+![JulienVisit](/images/news/2024/April_Julien.jpg "Julien")  
 
 ---
 ##### February
