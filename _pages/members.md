@@ -56,24 +56,25 @@ Download [CV][1]
 
 ---
 
-#### Intern Students
-
-<img src="/images/members/Imane.jpg" alt="Imane" style="float:left;width:133px;height:200px;margin:-20px 30px 0px 0px">
-
-<span style="color:coral">**Imane Ez-Zammoury**</span> graduated from her Bachelor's degree in Biomedical Science at the Université Catholique de Louvain in 2022. In the Master's thesis conducted under the guidance of Prof. Sophie Lucas, her project centered on the investigating TGF-β1 activation. In the final year of her Master's program, she joined the lab after defending her master's thesis. Her project focuses on developing imaging modalities to study starvation and injury response of the liver. 
-
-
----
-
 #### Past Members
 
+#### PhD Students
 <img src="/images/members/Macarena.jpeg" alt="Macarena" style="float:left;width:123px;height:168px;margin:-20px 30px 0px 0px">
 
 <span style="color:coral">**Macarena Pozo Morales.**</span> completed her PhD in 2023, titled ["Roles and regulations of starvation-induced hepatic steatosis"](https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/358507/Holdings). During her doctoral thesis, she focused on the impact of starvation on the zebrafish liver. For this, she developed in vivo imaging setup to visualize calcium dynamics and lipid droplets. Her first author papers were published in [**Hepatology**](https://journals.lww.com/hep/Abstract/2023/03000/In_vivo_imaging_of_calcium_dynamics_in_zebrafish.10.aspx) and [**Life Science Alliance**](https://www.life-science-alliance.org/content/7/5/e202302458).  
 In 2024, she was awarded the [CNIO Friends Postdoctoral fellowship](https://www.cnio.es/educacion-y-formacion/programas-de-fomacion/programa-de-formacion-postdoctoral/convocatoria-postdoctoral-amigos-del-cnio/) to conduct her Postdoctoral research at Spanish National Cancer Research Center (CNIO) in the group of [Dr Eva González Suárez](https://www.cnio.es/investigacion-e-innovacion/programas-cientificos/programa-de-oncologia-molecular/grupo-de-transformacion-y-metastasis/).  
 <!--Graduated in Biochemistry at the University of Málaga (Spain) in 2018. During her master’s thesis under the supervision of Dr. Ma Ángeles Real Avilés and Dr. Alicia Rivera Ramírez, she focused on determining the role of dopaminergic D4 receptor on the effect of cocaine in caudate putamen in rat. At the same time, she worked as intern student in the lab of Dr. Francisco J. Bermúdez Silva and Dr. Isabel González Mariscal in IBIMA (Spain) to study the role of GPR55 on the onset of type 1 diabetes. <br/> where she focused on studying pharmacogenetic response to Tacrolimus in kidney transplantation, under the supervision of Dr. Ma José Bravo Romero. Also, she joined two Internships Erasmus scholarships during her bachelor’s degree: 1. At Warsaw University of Life Sciences (Poland) in 2017 in the lab of Dr. Hanna Bolibok-Bragoszewska, where she worked on identifying and characterizing sequences targeted by domestication and breeding in rye (Secale Cereale L); 2. At University of Oxford (United Kingdom) in 2018, under the supervision of Dr. David A. Priestman. She focused on studying the supplementation with ursodeoxycholic acid (UDCA) as a new therapy of Niemann-Pick type C (NPC) disease. After her bachelor’s degree, she obtained her M.Sc. degree in Molecular and Cellular Biology at University of Málaga in 2019. <br/>-->
 
+---
 
+#### Intern Students
+
+<img src="/images/members/Imane.jpg" alt="Imane" style="float:left;width:133px;height:200px;margin:-20px 30px 0px 0px">
+
+<span style="color:coral">**Imane Ez-Zammoury**</span> <!--graduated from her Bachelor's degree in Biomedical Science at the Université Catholique de Louvain in 2022. In the Master's thesis conducted under the guidance of Prof. Sophie Lucas, her project centered on the investigating TGF-β1 activation. In the final year of her Master's program, she--> joined the lab in Spring 2024 after defending her master's thesis. Her project focused on developing imaging modalities to study starvation and injury response of the liver. 
+
+
+---
 <br/>
 
 
