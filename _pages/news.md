@@ -6,6 +6,26 @@ featured_image: /images/covers/FishStages.jpg
 ---
 #### 2024
 
+##### October
+
+Elif and Sumeet attend the EMBO Workshop on "The molecular and cellular basis of regeneration and tissue repair". Elif wins the Best Poster Award!
+
+![EMBO2024](/images/news/2024/October_EMBO.jpg "EMBO2024")  
+
+---
+##### September
+
+Inés Garteizgogeascoa Suñer successfully defends her thesis! She is the second PhD student to graduate from the lab. .
+
+![InesPhD](/images/news/2024/Sept_Ines.jpg "InesPhD")    
+
+---
+The lab hosts [Dr Lionel Christiaen](https://www4.uib.no/en/find-employees/Lionel.Christiaen) for institute seminar..
+
+![Lionel](/images/news/2024/Sept_Lionel.jpg "Lionel")    
+
+---
+
 ##### June
 
 Sumeet gives a talk at the 16th Annual Swiss Zebrafish Meeting held at University of Fribourg. The Meeting was organized by [Dr Anna Jazwinska](https://www.unifr.ch/bio/en/groups/jazwinska/).
