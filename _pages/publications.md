@@ -8,7 +8,12 @@ featured_image: /images/covers/icon.jpg
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
 <span style="color:#D96098">Lab Members in Purple</span>
-
+### 2025
+1. [Computational Analysis of Calcium Flux Data Using R.      
+  <span style="color:coral">*Series: Methods In Molecular Biology; Book: Calcium Signaling*</span>](https://pubmed.ncbi.nlm.nih.gov/39395112/)     
+  <span style="color:#D96098">**Macarena Pozo-Morales**</span>,  <span style="color:black">**Sumeet Pal Singh**</span>   
+  <br/>  
+    
 ### 2024
 1. [Optogenetic β cell interrogation in vivo reveals a functional hierarchy directing the Ca2+ response to glucose supported by vitamin B6.      
   <span style="color:coral">*Science Advances*</span>](https://www.science.org/doi/10.1126/sciadv.ado4513)     
