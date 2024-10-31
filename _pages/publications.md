@@ -13,7 +13,7 @@ featured_image: /images/covers/icon.jpg
   <span style="color:coral">*Series: Methods In Molecular Biology; Book: Calcium Signaling*</span>](https://pubmed.ncbi.nlm.nih.gov/39395112/)     
   <span style="color:#D96098">**Macarena Pozo-Morales**</span>,  <span style="color:black">**Sumeet Pal Singh**</span>   
   <br/>  
-    
+
 ### 2024
 1. [Optogenetic β cell interrogation in vivo reveals a functional hierarchy directing the Ca2+ response to glucose supported by vitamin B6.      
   <span style="color:coral">*Science Advances*</span>](https://www.science.org/doi/10.1126/sciadv.ado4513)     
