@@ -15,6 +15,12 @@ featured_image: /images/covers/icon.jpg
   <br/>  
 
 ### 2024
+
+1. [PTPRK regulates glycolysis and de novo lipogenesis to promote hepatocyte metabolic reprogramming in obesity.  
+  <span style="color:coral">*Nature Communications*</span>](https://www.nature.com/articles/s41467-024-53733-0)    
+  [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.01.569004v1)    
+  Eduardo H. Gilglioni, Ao Li, Wadsen St-Pierre-Wijckmans, Tzu-Keng Shen, Israel Pérez-Chávez, Garnik Hovhannisyan, Michela Lisjak, Javier Negueruela, Valerie Vandenbempt, Julia Bauzá-Martinez, Jose M. Herranz, Daria Ezeriņa, Stéphane Demine, Zheng Feng, Thibaut Vignane, Lukas Otero Sanchez, Flavia Lambertucci, Alena Prašnická, Jacques Devière, David C. Hay, Jose A. Encinar, <span style="color:black">**Sumeet Pal Singh**</span>, Joris Messens, Milos R. Filipovic, Hayley J. Sharpe, Eric Trépo, Wei Wu, Esteban N. Gurzov   
+  <br/>
 1. [Optogenetic β cell interrogation in vivo reveals a functional hierarchy directing the Ca2+ response to glucose supported by vitamin B6.      
   <span style="color:coral">*Science Advances*</span>](https://www.science.org/doi/10.1126/sciadv.ado4513)     
   Luis Fernando Delgadillo-Silva, Emirhan Tasöz,  <span style="color:black">**Sumeet Pal Singh**</span>, Prateek Chawla, Eleni Georgiadou, Anne Gompf, Guy A. Rutter, Nikolay Ninov   
@@ -42,11 +48,7 @@ featured_image: /images/covers/icon.jpg
   <br/>  
 
 ### 2023
-
-1. [Protein tyrosine phosphatase receptor kappa regulates glycolysis and de novo lipogenesis to promote hepatocyte metabolic reprogramming in obesity.  
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2023.12.01.569004v1)    
-  Eduardo H. Gilglioni, Ao Li, Wadsen St-Pierre-Wijckmans, Tzu-Keng Shen, Israel Pérez-Chávez, Garnik Hovhannisyan, Michela Lisjak, Javier Negueruela, Valerie Vandenbempt, Julia Bauzá-Martinez, Jose M. Herranz, Daria Ezerina, Stephane Demine, Zheng Feng, Thibaut Vignane, Lukas Otero-Sánchez, Flavia Lambertucci, Alena Prašnická, Jacques Devière, David C. Hay, Jose A. Encinar, <span style="color:black">**Sumeet Pal Singh**</span>, Joris Messens, Milos R. Filipovic, Hayley J. Sharpe, Eric Trépo, Wei Wu, Esteban N. Gurzov   
-  <br/> 
+ 
 1. [Cellular senescence modulates progenitor cell expansion during axolotl limb regeneration.    
   <span style="color:coral">*Developmental Cell*</span>](https://www.sciencedirect.com/science/article/pii/S1534580723005105)     
   [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.09.01.506196v1)        
