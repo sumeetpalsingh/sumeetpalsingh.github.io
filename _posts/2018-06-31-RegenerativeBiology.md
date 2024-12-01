@@ -16,7 +16,7 @@ The ability to regenerate complex organs requires generation of multiple cell-ty
 1.	Self-renewal of spared functional cells, such as in heart regeneration or upon mild injury of pancreatic β-cell or liver. 
 1.	Transdifferentiation of a functional cell into another, such as upon a severe injury to bone cells, pancreatic β-cells or liver hepatocytes.
 
-Among the three means of cellular recovery, the third method, transdifferentiation, is peculiar as it is not the default mode of regeneration. For instance, mild injury to pancreatic β-cell or liver hepatocytes is recovered by self-renewal, while a total loss of these cells is compensated by transdifferentiation. Thus, **transdifferentiation is facultative**: occurring only when the primary source of regeneration is missing. Moreover, transdifferentiation is not perfect. For example, the transdifferentiation of pancreatic δ-cells to β-cells in zebrafish leads to the formation of hybrid cells (Fig. 2) that contain characteristics of δ- and β-cells.
+Among the three means of cellular recovery, the third method, transdifferentiation, is peculiar as it is not the default mode of regeneration. For instance, mild injury to pancreatic β-cell or liver hepatocytes is recovered by self-renewal, while a total loss of these cells is compensated by transdifferentiation. Thus, **transdifferentiation is facultative**: occurring only when the primary source of regeneration is missing. Moreover, transdifferentiation is not perfect. For example, the transdifferentiation of pancreatic δ-cells to β-cells in zebrafish leads to the formation of hybrid cells that contain characteristics of δ- and β-cells.
 
 The goal of our current research is to understand the regulators of such regenerative plasticity. 
 
