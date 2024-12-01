@@ -25,7 +25,7 @@ In 2022, Sumeet was award tenure at ULB.
   
 Download [CV][1]
 
-[1]:{{ site.url }}/download/Sumeet_CV_Jan2024.pdf
+[1]:{{ site.url }}/download/Sumeet_CV_Nov2024.pdf
 
 ---
 
