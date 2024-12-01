@@ -10,8 +10,13 @@ featured_image: /images/covers/icon.jpg
 <span style="color:#D96098">Lab Members in Purple</span>
 ### 2025
 1. [Computational Analysis of Calcium Flux Data Using R.      
-  <span style="color:coral">*Series: Methods In Molecular Biology; Book: Calcium Signaling*</span>](https://pubmed.ncbi.nlm.nih.gov/39395112/)     
+  <span style="color:coral">*Book: Methods In Molecular Biology; Series: Calcium Signaling*</span>](https://pubmed.ncbi.nlm.nih.gov/39395112/)     
   <span style="color:#D96098">**Macarena Pozo-Morales**</span>,  <span style="color:black">**Sumeet Pal Singh**</span>   
+  <br/>  
+
+1. [Fluorescent Tagging of Endogenous FOXO for Live Imaging and Pull-Down Assays.      
+  <span style="color:coral">*Book: Methods In Molecular Biology; Series: FOXO Transcription Factors *</span>](https://pubmed.ncbi.nlm.nih.gov/39565585/)     
+  <span style="color:#D96098">**Inés Garteizgogeascoa Suñer**</span>,  <span style="color:black">**Sumeet Pal Singh**</span>   
   <br/>  
 
 ### 2024
