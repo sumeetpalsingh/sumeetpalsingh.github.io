@@ -15,7 +15,7 @@ featured_image: /images/covers/icon.jpg
   <br/>  
 
 1. [Fluorescent Tagging of Endogenous FOXO for Live Imaging and Pull-Down Assays.      
-  <span style="color:coral">*Book: Methods In Molecular Biology; Series: FOXO Transcription Factors *</span>](https://pubmed.ncbi.nlm.nih.gov/39565585/)     
+  <span style="color:coral">*Book: Methods In Molecular Biology; Series: FOXO Transcription Factors*</span>](https://pubmed.ncbi.nlm.nih.gov/39565585/)     
   <span style="color:#D96098">**Inés Garteizgogeascoa Suñer**</span>,  <span style="color:black">**Sumeet Pal Singh**</span>   
   <br/>  
 
