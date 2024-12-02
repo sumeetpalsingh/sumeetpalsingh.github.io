@@ -6,6 +6,13 @@ featured_image: /images/covers/FishStages.jpg
 ---
 #### 2024
 
+##### November
+
+Elif and Garnik attend the Annual Meeting of the Belgian Society of Stem Cell Research (BeSSCR). Elif wins the Best Talk Award!
+
+![EMBO2024](/images/news/2024/November_BeSSCR.jpg "BeSSCR2024")  
+
+---
 ##### October
 
 Elif and Sumeet attend the EMBO Workshop on "The molecular and cellular basis of regeneration and tissue repair". Elif wins the Best Poster Award!
