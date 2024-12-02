@@ -8,7 +8,7 @@ featured_image: /images/covers/FishStages.jpg
 
 ##### November
 
-Elif and Garnik attend the Annual Meeting of the Belgian Society of Stem Cell Research (BeSSCR). Elif wins the Best Talk Award!
+Elif and Gabriel attend the Annual Meeting of the Belgian Society of Stem Cell Research (BeSSCR). Elif wins the Best Talk Award!
 
 ![EMBO2024](/images/news/2024/November_BeSSCR.jpg "BeSSCR2024")  
 
