@@ -13,7 +13,7 @@ Group Photo 2024
 #### Group Leader
 <img src="/images/members/sumeet.jpeg" alt="Sumeet" style="float:left;width:150px;height:150px;margin:-20px 30px 0px 0px"> 
 
-<span style="color:coral">**Sumeet Pal Singh, PhD**</span> is an alumni of [Indian Institute of Technology (IIT), Kanpur](https://www.iitk.ac.in/). He graduated in 2004 with a B.Tech. degree in [Biological Sciences and Bioengineering](http://www.iitk.ac.in/bsbe/). Directly after bachelor's degree, he joined the PhD program at Duke University, USA where he performed his doctorate under the supervision of [Dr. Kenneth Poss](https://sites.duke.edu/posslab/). For his thesis, Sumeet worked on the cellular basis of bone regeneration in the zebrafish fin amputation model.  
+<span style="color:coral">**Sumeet Pal Singh, PhD**</span> is an alumnus of [Indian Institute of Technology (IIT), Kanpur](https://www.iitk.ac.in/). He graduated in 2004 with a B.Tech. degree in [Biological Sciences and Bioengineering](http://www.iitk.ac.in/bsbe/). Directly after bachelor's degree, he joined the PhD program at Duke University, USA where he performed his doctorate under the supervision of [Dr. Kenneth Poss](https://sites.duke.edu/posslab/). For his thesis, Sumeet worked on the cellular basis of bone regeneration in the zebrafish fin amputation model.  
   
 For post-doctoral work, Sumeet started work on planarian model system, a fascinating organism with extraordinary regenerative capacity, in the lab of [Dr. Jochen Rink](https://www.mpi-cbg.de/research-groups/current-groups/jochen-rink/research-focus/) at the Max Planck Institute of Molecular Cell Biology and Genetics ([MPI-CBG](https://www.mpi-cbg.de/home/)), Germany.  
   
