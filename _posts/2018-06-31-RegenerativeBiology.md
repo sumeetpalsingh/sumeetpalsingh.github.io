@@ -22,6 +22,8 @@ Among these, transdifferentiation is particularly intriguing because it is not t
 
 **Our lab has uncovered a novel and unexpected role for cholangiocyte plasticity during rapid developmental growth, where transdifferentiation occurs not in response to pathology but as a physiological mechanism to meet the demands of rapid organ expansion. This finding challenges the prevailing paradigm that transdifferentiation is purely a compensatory mechanism and highlights its critical role in normal developmental processes.**
 
+<img src="/images/posts/regeneration/Trajectory.jpg" alt="Trajectory">
+
 Unlike in adults, where hepatocyte senescence often serves as a trigger for cholangiocyte-driven regeneration, our work shows that during growth spurts in zebrafish, cholangiocyte-to-hepatocyte conversion occurs independently of hepatocyte senescence. This unique context provides an exceptional opportunity to study the molecular drivers and physiological triggers of transdifferentiation in a non-pathological setting.
 
 Our research focuses on identifying the regulators that enable this remarkable plasticity and understanding how developmental growth environments influence cellular behavior. By leveraging advanced genetic tools, live imaging, and transcriptomic analyses in zebrafish, we aim to uncover the fundamental principles governing BEC-to-hepatocyte conversion. These insights have broader implications, offering a blueprint for exploring regenerative mechanisms in both health and disease contexts, and paving the way for advancing our understanding of organ repair across species.
