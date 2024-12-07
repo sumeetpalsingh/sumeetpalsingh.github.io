@@ -1,28 +1,30 @@
 ---
 title: 'Regenerative Biology'
-subtitle: 'Cellular and Molecular Basis of Organ Recovery.'
+subtitle: 'Unraveling the Cellular and Molecular Basis of Liver Recovery'
 date: 2023-11-12 00:00:00
-description: Our work contributes to advancing the fundamental understanding of how cells collaborate to achieve remarkable regenerative feats. We explore the incredible potential of harnessing the body's natural ability to heal and rejuvenate itself. We explore how the regenerative potential interacts with evolution, nutrition and disease.
+description: Our research investigates the extraordinary regenerative capacity of the liver, focusing on the cellular and molecular mechanisms that enable it to recover from injury and cancer. We aim to understand how liver cells collaborate in response to damage, such as through cholangiocyte-to-hepatocyte transdifferentiation, a process we’ve shown to occur during growth spurts.
 featured_image: '/images/slideshow/Regeneration_GreenT.jpg'
 ---
 
-## Cellular Plasticity during Regeneration
+## Cellular Plasticity during Liver Regeneration
 
-<!-- <img src="/images/Blog/Old/ThyroidGland.png" alt="ThyroidGland" style="float:left;width:108px;height:200px;margin:0px 30px 0px 0px"> -->
 
-The ability to regenerate complex organs requires generation of multiple cell-types, which is achieved by three means: 
 
-1.	Proliferation of resident stem cells, such as in skin, intestine or blood.
-1.	Self-renewal of spared functional cells, such as in heart regeneration or upon mild injury of pancreatic β-cell or liver. 
-1.	Transdifferentiation of a functional cell into another, such as upon a severe injury to bone cells, pancreatic β-cells or liver hepatocytes.
+Regeneration of complex organs depends on diverse cellular mechanisms to restore tissue integrity and function. Broadly, three mechanisms drive this process: 
 
-Among the three means of cellular recovery, the third method, transdifferentiation, is peculiar as it is not the default mode of regeneration. For instance, mild injury to pancreatic β-cell or liver hepatocytes is recovered by self-renewal, while a total loss of these cells is compensated by transdifferentiation. Thus, **transdifferentiation is facultative**: occurring only when the primary source of regeneration is missing. Moreover, transdifferentiation is not perfect. For example, the transdifferentiation of pancreatic δ-cells to β-cells in zebrafish leads to the formation of hybrid cells that contain characteristics of δ- and β-cells.
+1.	**Proliferation of resident stem cells**, such as in skin, intestine or blood.
+1.	**Self-duplication of spared functional cells**, such as in heart regeneration or mild injury to pancreatic β-cells or liver hepatocytes. 
+1.	**Transdifferentiation**, where one functional cell type converts into another, as seen in severe injuries to bone, pancreatic β-cells, or liver hepatocytes.
 
-The goal of our current research is to understand the regulators of such regenerative plasticity. 
+<img src="/images/posts/regeneration/CellularModeRegeneration.jpg" alt="Cellular Modes of Regeneration">
 
-In line with this, we have started work on liver regeneration in zebrafish to accomplish these goals, as the liver provides an evolutionary conserved model to study the cellular mode of regeneration. The zebrafish liver is highly similar to the human liver, conserving both cellular composition and functionality. It consists of two major cell types: the hepatocytes and biliary epithelial cells (BECs or cholangiocytes or ductal cells). Hepatocytes perform most of the liver functions, while BECs transport bile acid produced by hepatocytes to the gallbladder.
+Among these, transdifferentiation is particularly intriguing because it is not the default mode of regeneration. For example, mild injuries to the liver are repaired through self-duplication of existing cells, but in cases of severe injury, where primary sources of regeneration are compromised, transdifferentiation becomes critical. This facultative process allows cholangiocytes (also called biliary epithelial cells) to convert into hepatocytes, compensating for the loss of liver function. Our research focuses on unraveling the molecular and physiological regulators of regenerative plasticity, particularly transdifferentiation, to understand its role in liver repair.
 
-Liver regeneration in zebrafish and mammals is facultative. Upon mild injury, for example loss of less than 75% of the liver by partial hepatectomy, the remaining hepatocytes proliferate to regenerate the remaining tissue. However, upon severe injury or when the cell-cycle in hepatocytes is blocked, the biliary epithelial cells (BECs) transdifferentiate to generate new hepatocytes. In our lab we are investigating the regulators of BECs-to-hepatocyte conversion.
+**Our lab has uncovered a novel and unexpected role for cholangiocyte plasticity during rapid developmental growth, where transdifferentiation occurs not in response to pathology but as a physiological mechanism to meet the demands of rapid organ expansion. This finding challenges the prevailing paradigm that transdifferentiation is purely a compensatory mechanism and highlights its critical role in normal developmental processes.**
+
+Unlike in adults, where hepatocyte senescence often serves as a trigger for cholangiocyte-driven regeneration, our work shows that during growth spurts in zebrafish, cholangiocyte-to-hepatocyte conversion occurs independently of hepatocyte senescence. This unique context provides an exceptional opportunity to study the molecular drivers and physiological triggers of transdifferentiation in a non-pathological setting.
+
+Our research focuses on identifying the regulators that enable this remarkable plasticity and understanding how developmental growth environments influence cellular behavior. By leveraging advanced genetic tools, live imaging, and transcriptomic analyses in zebrafish, we aim to uncover the fundamental principles governing BEC-to-hepatocyte conversion. These insights have broader implications, offering a blueprint for exploring regenerative mechanisms in both health and disease contexts, and paving the way for advancing our understanding of organ repair across species.
 
 
 <!-- <img src="/images/Blog/Old/pax2a.gif" alt="Pax2a" style="float:left;width:400px;height:240px;margin:0px 30px 0px 0px"> --> 
