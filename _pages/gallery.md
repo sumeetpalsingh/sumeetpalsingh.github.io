@@ -9,4 +9,5 @@ featured_image: /images/covers/RGB.jpg
     <img src="/images/gallery/LiverPHx.jpg">
     <img src="/images/gallery/Steatosis.jpg"> 
     <img src="/images/gallery/Inflammation.jpg">
+    <img src="/images/gallery/HepaticDuct.jpg">
 </div>
