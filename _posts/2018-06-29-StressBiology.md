@@ -1,7 +1,7 @@
 ---
 title: 'Stress Biology'
 subtitle: 'Decoding environmental cacophony.'
-date: 2023-11-12 00:00:00
+date: 2024-12-07 00:00:00
 description: Our research attempts to illuminate the complex web of cellular stress responses with the aim of enhancing the resilience of biological systems. In particular, we explore the adaptive strategies employed by organs and organisms under nutritional deprivation, revealing the secrets of metabolic resilience. 
 featured_image: '/images/posts/starvation/Steatosis.jpg'
 ---
@@ -17,10 +17,10 @@ Additionally, a major driver of evolutionary selection is the adaptation to star
 
 Our work has demonstrated that the zebrafish liver accumulates lipid droplets in response to starvation. Hepatic steatosis, in this case, creates an energy reservoir that allows survival during long-term caloric deprivation. We study this “natural” mode of liver steatosis to uncover the mechanisms underlying its induction and resolution, identifying insulin-driven calcium signaling and a lipid transporter (slc27a2 / FATP2) as a regulator of fatty liver. As steatosis is the first step towards liver disease, we are currently investigating the link between steatosis and liver damage.
 
-![LiverSteatosis](/images/posts/LiverSteatosis.jpg) 
+![LiverSteatosis](/images/posts/starvation/LiverSteatosis.jpg) 
 
 Development of fatty liver in fasting zebrafish larvae. 
 
-![LiverSteatosis](/images/posts/LiverInflammation.jpg) 
+![LiverSteatosis](/images/posts/starvation/LiverInflammation.jpg) 
 
 Inflammation (macrophages) in the starved liver.
