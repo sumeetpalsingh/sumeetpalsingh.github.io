@@ -3,7 +3,7 @@ title: 'Regenerative Biology'
 subtitle: 'Unraveling the Cellular and Molecular Basis of Liver Recovery'
 date: 2023-11-12 00:00:00
 description: Our research investigates the extraordinary regenerative capacity of the liver, focusing on the cellular and molecular mechanisms that enable it to recover from injury and cancer. We aim to understand how liver cells collaborate in response to damage, such as through cholangiocyte-to-hepatocyte transdifferentiation, a process we’ve shown to occur during growth spurts.
-featured_image: '/images/slideshow/Regeneration_GreenT.jpg'
+featured_image: '/images/posts/regeneration/LiverPHx.jpg'
 ---
 
 ## Cellular Plasticity during Liver Regeneration
