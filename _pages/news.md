@@ -6,6 +6,10 @@ featured_image: /images/covers/FishStages.jpg
 ---
 #### 2024
 
+##### December
+
+The lab receives a two-year research project funding (Credit de recherche - CDR) from FNRS to investigate starvation-induced fatty liver in Zebrafish!    
+
 ##### November
 
 Elif and Gabriel attend the Annual Meeting of the Belgian Society of Stem Cell Research (BeSSCR). Elif wins the Best Talk Award!
