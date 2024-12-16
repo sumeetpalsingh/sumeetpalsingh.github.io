@@ -8,7 +8,9 @@ featured_image: /images/covers/FishStages.jpg
 
 ##### December
 
-The lab receives a two-year research project funding (Credit de recherche - CDR) from FNRS to investigate starvation-induced fatty liver in Zebrafish!    
+The lab receives a two-year research project funding (Credit de recherche - CDR) from FNRS to investigate starvation-induced fatty liver in Zebrafish!  
+
+---
 
 ##### November
 
