@@ -3,12 +3,7 @@
 	{% if url[1] != '' %}
 	<li class="socials__item">
 		<a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">
-			<!-- {% if url[0] == 'bluesky_url' %}
-			&#129419
-			{% else %} -->
 			<i class="fab fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true"></i>
-			<!-- {% endif %} -->
-			<!-- <i class="fa-solid fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }} fa-2x" aria-hidden="true"> -->
 		</a>
 	</li>
 	{% endif %}
