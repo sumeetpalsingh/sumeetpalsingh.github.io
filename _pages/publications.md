@@ -12,7 +12,7 @@ featured_image: /images/covers/icon.jpg
 
 1. [Epigenetic Disordering Drives Stemness, Senescence Escape and Tumor Heterogeneity.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2024.12.29.629346v1)  
-  Elena Magnani, Filippo Macchi, Tijana Randic, Charlene Chen, Bhavani Madakashira, Shashi Ranjan,<span style="color:#D96098">**Sema Elif Eski**</span>, <span style="color:black">**Sumeet Pal Singh**</span>, Kirsten C. Sadler   
+  Elena Magnani, Filippo Macchi, Tijana Randic, Charlene Chen, Bhavani Madakashira, Shashi Ranjan, <span style="color:#D96098">**Sema Elif Eski**</span>, <span style="color:black">**Sumeet Pal Singh**</span>, Kirsten C. Sadler   
   <br/> 
 1. [Fluorescent Tagging of Endogenous FOXO for Live Imaging and Pull-Down Assays.      
   <span style="color:coral">*Book Chapter - FOXO Transcription Factors: Methods and Protocols*</span>](https://pubmed.ncbi.nlm.nih.gov/39565585/)  
