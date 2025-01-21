@@ -43,9 +43,7 @@ Download [CV][1]
 
 <br/>
 
-<img src="/images/members/Elif.jpg" alt="Elif" style="float:left;width:123px;height:150px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Elif Eski**</span>, the lab's first PhD student, joined on 01 November, 2019. She obtained her M.Sc. degree from Bogazici University, Turkey. During her master's thesis under the supervision of [Dr. Stefan H. Fuss](http://neurobio.boun.edu.tr/), she focussed on the role of Wnt/β-catenin signaling during regenerative neurogenesis in adult zebrafish olfactory epithelium. In 2021, Elif received a PhD fellowship from FNRS (ASP) for three years. Elif is focusing her thesis on <span style="color:coral">the cellular source of liver regeneration</span>.
 
 
 
@@ -65,6 +63,13 @@ In 2024, she was awarded the [CNIO Friends Postdoctoral fellowship](https://www.
 <img src="/images/members/Ines.jpg" alt="Ines" style="float:left;width:150px;height:135px;margin:-20px 30px 0px 0px">
 
 <span style="color:coral">**Inés Garteizgogeascoa Suñer.**</span> completed her PhD in 2024. During her doctoral thesis, she focused on developing novel tools for imaging [extracellular calcium](https://www.nature.com/articles/s41467-023-41928-w) and [Foxo1 protein dynamics](https://www.biorxiv.org/content/10.1101/2023.07.17.548093v1) in zebrafish.
+
+<br/>
+
+
+<img src="/images/members/Elif.jpg" alt="Elif" style="float:left;width:123px;height:150px;margin:-20px 30px 0px 0px">
+
+<span style="color:coral">**Elif Eski**</span>, the lab's first PhD student, joined on 01 November, 2019. She obtained her M.Sc. degree from Bogazici University, Turkey. During her master's thesis under the supervision of [Dr. Stefan H. Fuss](http://neurobio.boun.edu.tr/), she focussed on the role of Wnt/β-catenin signaling during regenerative neurogenesis in adult zebrafish olfactory epithelium. In 2021, Elif received a PhD fellowship from FNRS (ASP) for three years. Elif is focusing her thesis on <span style="color:coral">[the cellular source of liver regeneration](https://www.biorxiv.org/content/10.1101/2025.01.09.629100v1)</span>.
 
 
 ---
