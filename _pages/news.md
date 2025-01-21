@@ -4,6 +4,15 @@ subtitle: Small steps.
 description: Happenings in the lab.
 featured_image: /images/covers/FishStages.jpg
 ---
+#### 2025
+
+##### January
+
+Sema Elif Erkol successfully defends her thesis! She is the third PhD student to graduate from the lab!
+
+![ElifPhD](/images/news/2025/Jan_Elif.jpg "ElifPhD")    
+
+---
 #### 2024
 
 ##### December
@@ -28,12 +37,12 @@ Elif and Sumeet attend the EMBO Workshop on "The molecular and cellular basis of
 ---
 ##### September
 
-Inés Garteizgogeascoa Suñer successfully defends her thesis! She is the second PhD student to graduate from the lab. .
+Inés Garteizgogeascoa Suñer successfully defends her thesis! She is the second PhD student to graduate from the lab.  
 
 ![InesPhD](/images/news/2024/Sept_Ines.jpg "InesPhD")    
 
 ---
-The lab hosts [Dr Lionel Christiaen](https://www4.uib.no/en/find-employees/Lionel.Christiaen) for institute seminar..
+The lab hosts [Dr Lionel Christiaen](https://www4.uib.no/en/find-employees/Lionel.Christiaen) for institute seminar.  
 
 ![Lionel](/images/news/2024/Sept_Lionel.jpg "Lionel")    
 
