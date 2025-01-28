@@ -10,6 +10,10 @@ featured_image: /images/covers/icon.jpg
 <span style="color:#D96098">Lab Members in Purple</span>
 ### 2025
 
+1. [Biphasic inflammation control by dedifferentiated fibroblasts enables axon regeneration after spinal cord injury in zebrafish.      
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2025.01.27.635043v1)  
+  Nora John, Thomas Fleming, Julia Kolb, Olga Lyraki, Sebastian Vasquez-Sepulveda, Asha Parmar, Kyoohyun Kim, Maria Tarczewska, Kanwarpal Singh, Federico Marini, <span style="color:black">**Sumeet Pal Singh**</span>, Sven Falk, Kristian Franze, Jochen Guck,  Daniel Wehner    
+  <br/>
 1. [Cholangiocytes contribute to hepatocyte regeneration after partial liver injury during growth spurt in zebrafish.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2025.01.09.629100v1)  
   <span style="color:#D96098">**Sema Elif Eski**</span>, Jiarui Mi, <span style="color:#D96098">**Macarena Pozo-Morales**</span>, <span style="color:#D96098">**Gabriel Garnik Hovhannisyan**</span>, <span style="color:#D96098">**Camille Perazzolo**</span>, Rita Manco, <span style="color:#D96098">**Imane Ez-Zammoury**</span>, Dev Barbhaya, Anne Lefort, Frederick Libert, Federico Marini, Esteban N. Gurzov, Olov Andersson, <span style="color:black">**Sumeet Pal Singh**</span>   
