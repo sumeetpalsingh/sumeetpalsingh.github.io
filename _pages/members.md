@@ -41,12 +41,6 @@ Download [CV][1]
 
 <span style="color:coral">**Gabriel Garnik Hovhannisyan**</span>, graduated from a M.Sc in Biomedical Sciences in 2023 at the Université Libre de Bruxelles. During his master thesis under the supervision of [Dr. Esteban Gurzov](https://www.stmlaboratory.com/dr-esteban-gurzov-phd), he focused on studying the role of PTPRK in MASLD and hepatocellular carcinoma in the context of obesity. He joined the group in 2024, being co-supervised with [Dr. Esteban Gurzov](https://www.stmlaboratory.com/dr-esteban-gurzov-phd). His project focusses on the role of PTPRK in lipid metabolism and the development of hepatocellular carcinoma in fish and mouse. For this, Gabriel received a PhD fellowship from FNRS (FRIA) for four years.  
 
-<br/>
-
-
-
-
-
 ---
 
 #### Past Members

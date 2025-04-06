@@ -6,6 +6,13 @@ featured_image: /images/covers/FishStages.jpg
 ---
 #### 2025
 
+##### April
+
+Sumeet presents work on liver regeneration at 7th European PI Meeting held at Paris, France. 
+
+![PI2025](/images/news/2025/April_PIMeeting.jpg "PI2025")    
+
+---
 ##### January
 
 Sema Elif Erkol successfully defends her thesis! She is the third PhD student to graduate from the lab!
