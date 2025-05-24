@@ -10,6 +10,10 @@ featured_image: /images/covers/icon.jpg
 <span style="color:#D96098">Lab Members in Purple</span>
 ### 2025
 
+1. [Feeding induces c-Fos in hepatocytes contributing to hepatocellular carcinoma in obesity.      
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2025.05.20.654880v1)  
+  Ao Li, Eduardo H Gilglioni, Wadsen St-Pierre-Wijckmans, Leila Hosseinzadeh, Christelle Veyrat-Durebex, <span style="color:black">**Sumeet Pal Singh**</span>, Roberto Coppari, Latifa Bakiri, Esteban N Gurzov    
+  <br/>
 1. [Volumetric imaging and single-cell RNAseq atlases identify cellular mechanisms of human dental pulp response during tooth decay progression.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2025.05.11.653296v1.full)  
   Hoang Thai Ha, Sofya Kosmynina, Amandine Verocq, Kerem Ozen, Ines Tekia, Hugo Bussy, Dima Sabbah, Chloe Goemans, Valerie Vandenbempt, Esteban N Gurzov, <span style="color:black">**Sumeet Pal Singh**</span>, Nicolas Baeyens    
