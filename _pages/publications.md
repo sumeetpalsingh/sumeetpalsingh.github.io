@@ -11,7 +11,7 @@ featured_image: /images/covers/icon.jpg
 ### 2025
 
 1. [Cholangiocytes contribute to hepatocyte regeneration after partial liver injury during growth spurt in zebrafish.      
-  <span style="color:coral">*Nature Communications*</span>](https://www.nature.com/articles/s41467-025-60334-y)
+  <span style="color:coral">*Nature Communications*</span>](https://www.nature.com/articles/s41467-025-60334-y)      
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.09.629100v1)  
   <span style="color:#D96098">**Sema Elif Eski**</span>, Jiarui Mi, <span style="color:#D96098">**Macarena Pozo-Morales**</span>, <span style="color:#D96098">**Gabriel Garnik Hovhannisyan**</span>, <span style="color:#D96098">**Camille Perazzolo**</span>, Rita Manco, <span style="color:#D96098">**Imane Ez-Zammoury**</span>, Dev Barbhaya, Anne Lefort, Frederick Libert, Federico Marini, Esteban N. Gurzov, Olov Andersson, <span style="color:black">**Sumeet Pal Singh**</span>   
   <br/>
