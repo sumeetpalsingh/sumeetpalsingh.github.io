@@ -7,7 +7,7 @@ featured_image: /images/covers/ModelOrganisms.jpg
 
 #### Location
 
-The lab is housed at [Department of Life Sciences](https://snu.edu.in/departments/department-of-life-sciences/) in [Shiv Nadar Institute of Eminence (SNIoE)](https://snu.edu.in/home/).
+The lab is housed at [Department of Life Sciences](https://snu.edu.in/departments/department-of-life-sciences/) in [Shiv Nadar Institution of Eminence (SNIoE)](https://snu.edu.in/home/).
 
 We are located in Delhi-National Capital Region(NCR), close to the capital of India.<br/>
 <br/>
