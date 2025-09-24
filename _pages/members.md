@@ -21,7 +21,9 @@ For his second post-doc, he returned to zebrafish research in the lab of [Dr. Ni
   
 In 2019, Sumeet was awarded the Mandat d’impulsion scientifique - mobilité Ulysse ([MISU](https://www.frs-fnrs.be/fr/reglements-guides#bourses-mandats)) by Le Fonds de la Recherche Scientifique ([FNRS](https://www.frs-fnrs.be/fr/)) to start his group at [IRIBHM](https://iribhm.org/), part of [ULB](https://www.ulb.be/en) in Brussels, Belgium.  
 
-In 2022, Sumeet was award tenure at ULB. 
+In 2022, Sumeet was award tenure at ULB and established a research program investigating tissue regeneration, stress adaptation, and metabolic disease.
+
+In 2025, he moved to [Shiv Nadar University](https://snu.edu.in/home/) as an Associate Professor in the [Department of Life Sciences](https://snu.edu.in/departments/department-of-life-sciences/), where his group continues to explore these themes using zebrafish, with a growing focus on the pathophysiology of alcoholic liver disease.
   
 Download [CV][1]
 
