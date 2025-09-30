@@ -10,15 +10,16 @@ featured_image: /images/covers/icon.jpg
 <span style="color:#D96098">Lab Members in Purple</span>
 ### 2025
 
+1. [Nutritional c-Fos Induction Rewires Hepatic Metabolism and Can Promote Obesity-Associated Hepatocellular Carcinoma.      
+  <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509755).     
+  Ao Li, Eduardo H Gilglioni, Wadsen St-Pierre-Wijckmans, Leila Hosseinzadeh, Christelle Veyrat-Durebex, <span style="color:black">**Sumeet Pal Singh**</span>, Roberto Coppari, Latifa Bakiri, Esteban N Gurzov    
+  <br/>
 1. [Cholangiocytes contribute to hepatocyte regeneration after partial liver injury during growth spurt in zebrafish.      
   <span style="color:coral">*Nature Communications*</span>](https://www.nature.com/articles/s41467-025-60334-y)      
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.09.629100v1)  
   <span style="color:#D96098">**Sema Elif Eski**</span>, Jiarui Mi, <span style="color:#D96098">**Macarena Pozo-Morales**</span>, <span style="color:#D96098">**Gabriel Garnik Hovhannisyan**</span>, <span style="color:#D96098">**Camille Perazzolo**</span>, Rita Manco, <span style="color:#D96098">**Imane Ez-Zammoury**</span>, Dev Barbhaya, Anne Lefort, Frederick Libert, Federico Marini, Esteban N. Gurzov, Olov Andersson, <span style="color:black">**Sumeet Pal Singh**</span>   
   <br/>
-1. [Feeding induces c-Fos in hepatocytes contributing to hepatocellular carcinoma in obesity.      
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2025.05.20.654880v1)  
-  Ao Li, Eduardo H Gilglioni, Wadsen St-Pierre-Wijckmans, Leila Hosseinzadeh, Christelle Veyrat-Durebex, <span style="color:black">**Sumeet Pal Singh**</span>, Roberto Coppari, Latifa Bakiri, Esteban N Gurzov    
-  <br/>
+
 1. [Volumetric imaging and single-cell RNAseq atlases identify cellular mechanisms of human dental pulp response during tooth decay progression.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2025.05.11.653296v1.full)  
   Hoang Thai Ha, Sofya Kosmynina, Amandine Verocq, Kerem Ozen, Ines Tekia, Hugo Bussy, Dima Sabbah, Chloe Goemans, Valerie Vandenbempt, Esteban N Gurzov, <span style="color:black">**Sumeet Pal Singh**</span>, Nicolas Baeyens    
