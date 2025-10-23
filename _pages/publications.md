@@ -15,14 +15,14 @@ featured_image: /images/covers/icon.jpg
   Aarti Sharma, Deepika Jakhar, Pinky Juneja, Jayesh Kumar Sevak, Ashwini Vasudewan, Simran Sharma, Impreet Kaur, Veluru Gautham, Viniyendra Pamecha, Dinesh M Tripathi, Shiv K Sarin, <span style="color:black">**Sumeet Pal Singh**</span>, Savneet Kaur    
   <br/>  
 1. [Biphasic inflammation control by dedifferentiated fibroblasts enables axon regeneration after spinal cord injury in zebrafish.      
-  <span style="color:coral">*Cell Reports*</span>](https://doi.org/10.1016/j.celrep.2025.116469)
+  <span style="color:coral">*Cell Reports*</span>](https://doi.org/10.1016/j.celrep.2025.116469)  
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.27.635043v1)    
   Nora John, Thomas Fleming, Julia Kolb, Olga Lyraki, Sebastian Vasquez-Sepulveda, Asha Parmar, Kyoohyun Kim, Maria Tarczewska, Kanwarpal Singh, Federico Marini, <span style="color:black">**Sumeet Pal Singh**</span>, Vasiliki Tsata, Sven Falk, Kristian Franze, Jochen Guck,  Daniel Wehner    
   <br/>  
 1. [Nutritional c-Fos Induction Rewires Hepatic Metabolism and Can Promote Obesity-Associated Hepatocellular Carcinoma.      
-  <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509755).     
+  <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509755).       
   Ao Li, Eduardo H Gilglioni, Wadsen St-Pierre-Wijckmans, Leila Hosseinzadeh, Christelle Veyrat-Durebex, <span style="color:black">**Sumeet Pal Singh**</span>, Roberto Coppari, Latifa Bakiri, Esteban N Gurzov    
-  <br/>
+  <br/>  
 1. [Cholangiocytes contribute to hepatocyte regeneration after partial liver injury during growth spurt in zebrafish.      
   <span style="color:coral">*Nature Communications*</span>](https://www.nature.com/articles/s41467-025-60334-y)      
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.09.629100v1)  
