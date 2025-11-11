@@ -11,7 +11,7 @@ featured_image: /images/covers/icon.jpg
 ### 2025
 
 1. [Human Atlas of Tooth Decay Progression: Identification of Cellular Mechanisms Driving the Switch from Dental Pulp Repair Toward Irreversible Pulpitis.      
-  <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202510096).
+  <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202510096)   
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.11.653296v1.full)  
   Hoang Thai Ha, Sofya Kosmynina, Amandine Verocq, Kerem Ozen, Ines Tekia, Hugo Bussy, Dima Sabbah, Chloe Goemans, Valerie Vandenbempt, Esteban N Gurzov, <span style="color:black">**Sumeet Pal Singh**</span>, Nicolas Baeyens    
   <br/>  
