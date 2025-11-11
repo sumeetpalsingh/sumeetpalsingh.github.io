@@ -27,7 +27,7 @@ In 2025, he moved to [Shiv Nadar University](https://snu.edu.in/home/) as an Ass
   
 Download [CV][1]
 
-[1]:{{ site.url }}/download/Sumeet_CV_April2025.pdf
+[1]:{{ site.url }}/download/Sumeet_CV_November2025.pdf
 
 ---
 
