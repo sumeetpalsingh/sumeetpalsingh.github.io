@@ -10,6 +10,11 @@ featured_image: /images/covers/icon.jpg
 <span style="color:#D96098">Lab Members in Purple</span>
 ### 2025
 
+1. [Human Atlas of Tooth Decay Progression: Identification of Cellular Mechanisms Driving the Switch from Dental Pulp Repair Toward Irreversible Pulpitis.      
+  <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202510096).
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.11.653296v1.full)  
+  Hoang Thai Ha, Sofya Kosmynina, Amandine Verocq, Kerem Ozen, Ines Tekia, Hugo Bussy, Dima Sabbah, Chloe Goemans, Valerie Vandenbempt, Esteban N Gurzov, <span style="color:black">**Sumeet Pal Singh**</span>, Nicolas Baeyens    
+  <br/>  
 1. [Wnt7a is a Novel Lymphangiocrine Factor Driving Cholangiocyte Proliferation during Liver Regeneration.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2025.10.16.682805v1)  
   Aarti Sharma, Deepika Jakhar, Pinky Juneja, Jayesh Kumar Sevak, Ashwini Vasudewan, Simran Sharma, Impreet Kaur, Veluru Gautham, Viniyendra Pamecha, Dinesh M Tripathi, Shiv K Sarin, <span style="color:black">**Sumeet Pal Singh**</span>, Savneet Kaur    
@@ -18,7 +23,7 @@ featured_image: /images/covers/icon.jpg
   <span style="color:coral">*Cell Reports*</span>](https://doi.org/10.1016/j.celrep.2025.116469)  
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.27.635043v1)    
   Nora John, Thomas Fleming, Julia Kolb, Olga Lyraki, Sebastian Vasquez-Sepulveda, Asha Parmar, Kyoohyun Kim, Maria Tarczewska, Kanwarpal Singh, Federico Marini, <span style="color:black">**Sumeet Pal Singh**</span>, Vasiliki Tsata, Sven Falk, Kristian Franze, Jochen Guck,  Daniel Wehner    
-  <br/>  
+  <br/>   
 1. [Nutritional c-Fos Induction Rewires Hepatic Metabolism and Can Promote Obesity-Associated Hepatocellular Carcinoma.      
   <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509755).       
   Ao Li, Eduardo H Gilglioni, Wadsen St-Pierre-Wijckmans, Leila Hosseinzadeh, Christelle Veyrat-Durebex, <span style="color:black">**Sumeet Pal Singh**</span>, Roberto Coppari, Latifa Bakiri, Esteban N Gurzov    
@@ -27,12 +32,7 @@ featured_image: /images/covers/icon.jpg
   <span style="color:coral">*Nature Communications*</span>](https://www.nature.com/articles/s41467-025-60334-y)      
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.09.629100v1)  
   <span style="color:#D96098">**Sema Elif Eski**</span>, Jiarui Mi, <span style="color:#D96098">**Macarena Pozo-Morales**</span>, <span style="color:#D96098">**Gabriel Garnik Hovhannisyan**</span>, <span style="color:#D96098">**Camille Perazzolo**</span>, Rita Manco, <span style="color:#D96098">**Imane Ez-Zammoury**</span>, Dev Barbhaya, Anne Lefort, Frederick Libert, Federico Marini, Esteban N. Gurzov, Olov Andersson, <span style="color:black">**Sumeet Pal Singh**</span>   
-  <br/>
-
-1. [Volumetric imaging and single-cell RNAseq atlases identify cellular mechanisms of human dental pulp response during tooth decay progression.      
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2025.05.11.653296v1.full)  
-  Hoang Thai Ha, Sofya Kosmynina, Amandine Verocq, Kerem Ozen, Ines Tekia, Hugo Bussy, Dima Sabbah, Chloe Goemans, Valerie Vandenbempt, Esteban N Gurzov, <span style="color:black">**Sumeet Pal Singh**</span>, Nicolas Baeyens    
-  <br/>  
+  <br/>    
 1. [Developmental beta-cell death orchestrates the islet’s inflammatory milieu by regulating immune system crosstalk.      
   <span style="color:coral">*The EMBO Journal*</span>](https://www.embopress.org/doi/full/10.1038/s44318-024-00332-w)  
   Mohammad Nadeem Akhtar, Alisa Hnatiuk, Luis Delgadillo-Silva, Shirin Geravandi, Katrin Sameith, Susanne Reinhardt, Katja Bernhardt, <span style="color:black">**Sumeet Pal Singh**</span>, Kathrin Maedler, Lutz Brusch, Nikolay Ninov   
