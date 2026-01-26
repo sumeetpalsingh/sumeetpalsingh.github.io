@@ -42,7 +42,7 @@ Download [CV][1]
 
 <img src="/images/members/Ishika.jpg" alt="Ishika Jain" style="float:left;width:168px;height:150px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Ishika Jain**</span> obtained an M.Sc. degree in Biochemistry from Nirma University, Ahmedabad, Gujarat, in 2025. During her master’s thesis under the supervision of Dr. Sriram Seshadri, she investigated the therapeutic potential of combination treatment using fecal microbiota transplantation and metformin for diet-induced type 2 diabetes, gaining insights into the role of a healthy gut microbiome in disease prevention. She is currently pursuing a PhD at Shiv Nadar Institution of Eminence under a five-year SNU fellowship. Her doctoral work focuses on developing in-house omics tools and investigating the systemic impact of inflammation in zebrafish.  
+<span style="color:coral">**Ishika Jain**</span> obtained an M.Sc. degree in Biochemistry from Nirma University, Ahmedabad, Gujarat, in 2025. During her master’s thesis under the supervision of [Dr. Sriram Seshadri](https://science.nirmauni.ac.in/author/sriram/), she investigated the therapeutic potential of combination treatment using fecal microbiota transplantation and metformin for diet-induced type 2 diabetes, gaining insights into the role of a healthy gut microbiome in disease prevention. She is currently pursuing a PhD at Shiv Nadar Institution of Eminence under a five-year SNU fellowship. Her doctoral work focuses on developing in-house omics tools and investigating the systemic impact of inflammation in zebrafish.  
 
 <br/>
 
@@ -62,8 +62,8 @@ Download [CV][1]
 
 #### Past Members
 
-#### Lab Photo, 2024
-<img src="/images/members/Lab2024_Small.jpg" alt="GroupPhoto 2024">  
+##### Lab Photo, 2024
+<img src="/images/members/Lab2024_Small.jpg" alt="GroupPhoto 2024" width="75%">  
 
 ##### Lab Photo, 2021
 <img src="/images/members/GroupPhoto2021_Small.jpg" alt="GroupPhoto 2021">  
@@ -91,10 +91,10 @@ In 2024, she was awarded the [CNIO Friends Postdoctoral fellowship](https://www.
 
 ---
 
-#### Technician
+##### Technician
 <img src="/images/members/Camille.jpg" alt="Camille" style="float:left;width:135px;height:150px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Camille Perazzolo**</span> performed her Bachelor in medical biology with clinical chemistry option at the Paul Lambin Institute (Haute école Da Vinci), where she graduated in June 2012 with Distinction. Since 2012, she has been working at ULB on projects related to zebrafish. She has strong expertise in handing, maintainance and transgenesis of  zebrafish, as well as molecular biology and confocal imaging. In the lab (2020 - 2025), she focussed on developing <span style="color:coral">knock-in tools to visualize the dynamic response of the cells to stress</span>. 
+<span style="color:coral">**Camille Perazzolo**</span> performed her Bachelor in medical biology with clinical chemistry option at the Paul Lambin Institute (Haute école Da Vinci), where she graduated in June 2012 with Distinction. Since 2012, she has been working at ULB on projects related to zebrafish. She has strong expertise in handing, maintainance and transgenesis of  zebrafish, as well as molecular biology and confocal imaging. In the lab (2020 - 2025), she focussed on developing knock-in tools to visualize the dynamic response of the cells to stress. 
 
 ---
 
