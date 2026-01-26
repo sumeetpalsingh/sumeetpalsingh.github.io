@@ -40,7 +40,7 @@ Download [CV][1]
 
 <img src="/images/members/Ishika.jpg" alt="Ishika Jain" style="float:left;width:170px;height:150px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Ishika Jain**</span>graduated with a M.Sc. in Biochemistry from Nirma University, Ahmedabad, Gujarat, in 2025. During her master’s thesis under the supervision of Dr. Sriram Seshadri, she investigated the reversal potential of combination therapy using fecal microbiota transplantation and metformin for diet-induced type 2 diabetes, gaining insights into the role of a healthy gut microbiome in disease prevention. She is now pursuing a PhD at Shiv Nadar Institution of Eminence under a 5-year SNU fellowship. She is developing in-house omics tools and investigating the systemic impact of inflammation in zebrafish.  
+<span style="color:coral">**Ishika Jain**</span> graduated with a M.Sc. in Biochemistry from Nirma University, Ahmedabad, Gujarat, in 2025. During her master’s thesis under the supervision of Dr. Sriram Seshadri, she investigated the reversal potential of combination therapy using fecal microbiota transplantation and metformin for diet-induced type 2 diabetes, gaining insights into the role of a healthy gut microbiome in disease prevention. She is now pursuing a PhD at Shiv Nadar Institution of Eminence under a 5-year SNU fellowship. She is developing in-house omics tools and investigating the systemic impact of inflammation in zebrafish.  
 
 ---
 
