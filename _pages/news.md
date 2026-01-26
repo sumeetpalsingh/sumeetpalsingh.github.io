@@ -4,6 +4,15 @@ subtitle: Small steps.
 description: Happenings in the lab.
 featured_image: /images/covers/FishStages.jpg
 ---
+#### 2026
+
+##### January
+
+Gabriel Garnik Hovhannisyan gave a talk at the Cellular and Molecular Mechanisms of Development and Regeneration (CMMDR) 2026 held at Shiv Nadar Institution of Eminence, India. He was one of the winners of the best talk award! Great job!  
+
+![Garnik2026](/images/news/2026/Jan_Garnik2026.jpeg "Garnik2026")    
+
+---
 #### 2025
 
 ##### December
