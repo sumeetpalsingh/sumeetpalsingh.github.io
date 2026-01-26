@@ -13,15 +13,15 @@ Group Photo 2024
 #### Group Leader
 <img src="/images/members/sumeet.jpeg" alt="Sumeet" style="float:left;width:150px;height:150px;margin:-20px 30px 0px 0px"> 
 
-<span style="color:coral">**Sumeet Pal Singh, PhD**</span> is an alumnus of [Indian Institute of Technology (IIT), Kanpur](https://www.iitk.ac.in/). He graduated in 2004 with a B.Tech. degree in [Biological Sciences and Bioengineering](http://www.iitk.ac.in/bsbe/). Directly after bachelor's degree, he joined the PhD program at Duke University, USA where he performed his doctorate under the supervision of [Dr. Kenneth Poss](https://sites.duke.edu/posslab/). For his thesis, Sumeet worked on the cellular basis of bone regeneration in the zebrafish fin amputation model.  
+<span style="color:coral">**Sumeet Pal Singh, PhD**</span> is an alumnus of [Indian Institute of Technology (IIT), Kanpur](https://www.iitk.ac.in/). He graduated in 2004 with a B.Tech. degree in [Biological Sciences and Bioengineering](http://www.iitk.ac.in/bsbe/). Directly after his bachelor’s degree, he joined the PhD program at Duke University, USA where he performed his doctorate under the supervision of [Dr. Kenneth Poss](https://sites.duke.edu/posslab/). For his thesis, Sumeet worked on the cellular basis of bone regeneration in the zebrafish fin amputation model.  
   
-For post-doctoral work, Sumeet started work on planarian model system, a fascinating organism with extraordinary regenerative capacity, in the lab of [Dr. Jochen Rink](https://www.mpi-cbg.de/research-groups/current-groups/jochen-rink/research-focus/) at the Max Planck Institute of Molecular Cell Biology and Genetics ([MPI-CBG](https://www.mpi-cbg.de/home/)), Germany.  
+For post-doctoral work, Sumeet started work on the planarian model system, a fascinating organism with extraordinary regenerative capacity, in the lab of [Dr. Jochen Rink](https://www.mpi-cbg.de/research-groups/current-groups/jochen-rink/research-focus/) at the Max Planck Institute of Molecular Cell Biology and Genetics ([MPI-CBG](https://www.mpi-cbg.de/home/)), Germany.  
   
 For his second post-doc, he returned to zebrafish research in the lab of [Dr. Nikolay Ninov](https://www.crt-dresden.de/research/research-groups/core-groups/group-leaders/dr-nikolay-ninov/) at Center for Regenerative Therapies Dresden ([CRTD](https://www.crt-dresden.de/about-us/)), Germany. Focussing on the pancreatic beta-cells, Sumeet uncovered latent heterogeneity in the beta-cell population. For this, he developed several transgenic reagents to interrogate the proliferative and functional differences among individual cells. He was awarded an [EFSD/Lilly Young Investigator Fellowship](http://www.europeandiabetesfoundation.org/efsdlilly-young-investigator.html) for his efforts.  
   
 In 2019, Sumeet was awarded the Mandat d’impulsion scientifique - mobilité Ulysse ([MISU](https://www.frs-fnrs.be/fr/reglements-guides#bourses-mandats)) by Le Fonds de la Recherche Scientifique ([FNRS](https://www.frs-fnrs.be/fr/)) to start his group at [IRIBHM](https://iribhm.org/), part of [ULB](https://www.ulb.be/en) in Brussels, Belgium.  
 
-In 2022, Sumeet was award tenure at ULB and established a research program investigating tissue regeneration, stress adaptation, and metabolic disease.
+In 2022, Sumeet was awarded tenure at ULB and established a research program investigating tissue regeneration, stress adaptation, and metabolic disease.
 
 In 2025, he moved to [Shiv Nadar University](https://snu.edu.in/home/) as an Associate Professor in the [Department of Life Sciences](https://snu.edu.in/departments/department-of-life-sciences/), where his group continues to explore these themes using zebrafish, with a growing focus on the pathophysiology of alcoholic liver disease.
   
@@ -48,7 +48,7 @@ Download [CV][1]
 
 <img src="/images/members/Kaushani.jpg" alt="Kaushani Ghosh" style="float:left;width:141px;height:150px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Kaushani Ghosh**</span> obtained an M.Sc. degree in Biochemistry from the University of Calcutta in 2023. During her master’s internship, she investigated the role of long non-coding RNAs (lncRNAs) in pancreatic cancer, aiming to identify regulatory molecules that influence tumor progression. She cleared the national-level TIFR Graduate School entrance examination and joined Shiv Nadar Institution of Eminence in 2025 under a five-year SNU doctoral fellowship. In the lab, she is working on alcoholic liver and pancreas disorders, focusing on the molecular mechanisms underlying tissue damage and disease progression.
+<span style="color:coral">**Kaushani Ghosh**</span> obtained an M.Sc. degree in Biochemistry from the University of Calcutta in 2023. During her master’s internship, she investigated the role of long non-coding RNAs (lncRNAs) in pancreatic cancer, aiming to identify regulatory molecules that influence tumor progression. She cleared the national-level TIFR Graduate School entrance examination and joined Shiv Nadar Institution of Eminence in 2025 under a five-year SNU doctoral fellowship. In the lab, she is working on alcoholic liver and pancreas disorders, focussing on the molecular mechanisms underlying tissue damage and disease progression.
 
 ---
 
@@ -94,7 +94,7 @@ In 2024, she was awarded the [CNIO Friends Postdoctoral fellowship](https://www.
 ##### Technician
 <img src="/images/members/Camille.jpg" alt="Camille" style="float:left;width:135px;height:150px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Camille Perazzolo**</span> performed her Bachelor in medical biology with clinical chemistry option at the Paul Lambin Institute (Haute école Da Vinci), where she graduated in June 2012 with Distinction. Since 2012, she has been working at ULB on projects related to zebrafish. She has strong expertise in handing, maintainance and transgenesis of  zebrafish, as well as molecular biology and confocal imaging. In the lab (2020 - 2025), she focussed on developing knock-in tools to visualize the dynamic response of the cells to stress. 
+<span style="color:coral">**Camille Perazzolo**</span> performed her Bachelor in medical biology with clinical chemistry option at the Paul Lambin Institute (Haute école Da Vinci), where she graduated in June 2012 with Distinction. Since 2012, she has been working at ULB on projects related to zebrafish. She has strong expertise in handling, maintenance and transgenesis of zebrafish, as well as molecular biology and confocal imaging. In the lab (2020 - 2025), she focussed on developing knock-in tools to visualize the dynamic response of the cells to stress. 
 
 ---
 
