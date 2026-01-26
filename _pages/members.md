@@ -78,10 +78,18 @@ In 2024, she was awarded the [CNIO Friends Postdoctoral fellowship](https://www.
 
 ##### Intern Students
 
+<img src="/images/members/Member.jpg" alt="Tawba" style="float:left;width:150px;height:62px;margin:-20px 30px 0px 0px">
+
+<span style="color:coral">**Tawba Akhourbi**</span>, a Bachelor’s student in Chemistry (Biotechnology) from Roger Lambion Institute, Brussels, contributed to improving the [CellCousin2 ablation model for zebrafish liver regeneration](https://www.biorxiv.org/content/10.1101/2025.05.23.655316v1).
+
+<br/>
+
+
 <img src="/images/members/Imane.jpg" alt="Imane" style="float:left;width:133px;height:118px;margin:-20px 30px 0px 0px">
 
 <span style="color:coral">**Imane Ez-Zammoury**</span> <!--graduated from her Bachelor's degree in Biomedical Science at the Université Catholique de Louvain in 2022. In the Master's thesis conducted under the guidance of Prof. Sophie Lucas, her project centered on the investigating TGF-β1 activation. In the final year of her Master's program, she--> joined the lab in Spring 2024 after defending her master's thesis. Her project focused on developing imaging modalities to study starvation and injury response of the liver.  
 
+<br/>
   
 ---
 <br/>
