@@ -42,6 +42,13 @@ Download [CV][1]
 
 <span style="color:coral">**Ishika Jain**</span> graduated with a M.Sc. in Biochemistry from Nirma University, Ahmedabad, Gujarat, in 2025. During her master’s thesis under the supervision of Dr. Sriram Seshadri, she investigated the reversal potential of combination therapy using fecal microbiota transplantation and metformin for diet-induced type 2 diabetes, gaining insights into the role of a healthy gut microbiome in disease prevention. She is now pursuing a PhD at Shiv Nadar Institution of Eminence under a 5-year SNU fellowship. She is developing in-house omics tools and investigating the systemic impact of inflammation in zebrafish.  
 
+<br/>
+
+<img src="/images/members/Kaushani.jpg" alt="Kaushani Ghosh" style="float:left;width:150px;height:199px;margin:-20px 30px 0px 0px">
+
+<span style="color:coral">**Kaushani Ghosh**</span> graduated with a M.Sc. degree in Biochemistry from Calcutta University in 2023. During her Master’s internship, she investigated the role of long non-coding RNAs (lncRNAs) in Pancreatic Cancer. That research aimed to uncover regulatory molecules that influence tumor progression. She cleared national level entrance TIFR-GS exam and joined Shiv Nadar Institution Of Eminence in 2025 with 5- year SNU  doctoral fellowship. She is developing in-house omics tools and investigating the systemic impact of inflammation in zebrafish. In the lab, she is working on alcoholic liver and pancreas disorders.  
+
+
 ---
 
 #### Past Members
