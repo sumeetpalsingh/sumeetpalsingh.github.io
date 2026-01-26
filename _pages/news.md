@@ -6,6 +6,45 @@ featured_image: /images/covers/FishStages.jpg
 ---
 #### 2025
 
+##### December
+
+The lab is granted the Advanced Research Grant (ARG) from ANRF!  
+
+![ANRF2025](/images/news/2025/Dec_ANRF.jpeg "ANRF2025")    
+
+---
+Sumeet gives a talk at Department Of Biochemistry, Daulat Ram College.  
+
+![DRC2025](/images/news/2025/Dec_Daulat.jpeg "DRC2025")    
+
+---
+Farewell dinner with lab members in Brussels.  
+
+![Farewell2025](/images/news/2025/Dec_Lab.jpeg "Farewell2025")    
+
+---
+
+##### September
+
+Sumeet attends the Patterns in Biology meeting at Indian Institute of Technology Hyderabad (IIT-H).  
+
+![Patterns2025](/images/news/2025/Sept_Patterns2025.jpeg "Patterns2025")    
+
+---
+##### July
+
+The lab moves to Shiv Nadar Institute of Eminence. Looking forward to the next chapter in the lab's journey.  
+
+![SNU2025](/images/news/2025/July_SNU.jpeg "SNU2025")    
+
+---
+##### June
+
+Tawba Akhourbi defends her internship project. She worked under the guidance of Gabriel Garnik Hovhannisyan on [CellCousin2 system](https://www.biorxiv.org/content/10.1101/2025.05.23.655316v1). Congratulations and good luck!  
+
+![Tawba2025](/images/news/2025/June_TawbaDefense.jpeg "Tawba2025")    
+
+---
 ##### April
 
 Sumeet presents work on liver regeneration at 7th European PI Meeting held at Paris, France. 
