@@ -22,10 +22,6 @@ featured_image: /images/covers/icon.jpg
 
 ### 2025
 
-1. [PTPN2 deficiency amplifies inflammatory signalling and impairs functional maturation of human stem cell-derived islets.      
-  <span style="color:coral">*Stem Cell Research & Therapy*</span>](https://doi.org/10.1186/s13287-025-04892-4)  
-  Valerie Vandenbempt, Javier Negueruela, Francisco Ribeiro-Costa, Mariana Nunes, Leonardo Traini, <span style="color:#D96098">**Sema Elif Eski**</span>, Wadsen St-Pierre-Wijckmans, Stéphane Demine, Nicolas Baeyens, Hazem Ibrahim, Luciano G. Martelotto, <span style="color:black">**Sumeet Pal Singh**</span>, Savneet Kaur    
-  <br/>  
 1. [Human Atlas of Tooth Decay Progression: Identification of Cellular Mechanisms Driving the Switch from Dental Pulp Repair Toward Irreversible Pulpitis.      
   <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202510096)   
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.11.653296v1.full)  
@@ -39,6 +35,10 @@ featured_image: /images/covers/icon.jpg
   <span style="color:coral">*Cell Reports*</span>](https://doi.org/10.1016/j.celrep.2025.116469)  
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.27.635043v1)    
   Nora John, Thomas Fleming, Julia Kolb, Olga Lyraki, Sebastian Vasquez-Sepulveda, Asha Parmar, Kyoohyun Kim, Maria Tarczewska, Kanwarpal Singh, Federico Marini, <span style="color:black">**Sumeet Pal Singh**</span>, Vasiliki Tsata, Sven Falk, Kristian Franze, Jochen Guck,  Daniel Wehner    
+  <br/>
+1. [CellCousin2: An Optimized System for Partial Ablation and Tracing of Regenerative Lineages.      
+  <span style="color:coral">*bioRxiv*</span>](https://doi.org/10.1101/2025.05.23.655316)    
+  <span style="color:#D96098">**Gabriel G. Hovhannisyan**</span>, <span style="color:#D96098">**Tawba Akhourbi**</span>, <span style="color:#D96098">**Sema Elif Eski**</span>, Isabelle Pirson, Esteban N. Gurzov, <span style="color:black">**Sumeet Pal Singh**</span>    
   <br/>   
 1. [Nutritional c-Fos Induction Rewires Hepatic Metabolism and Can Promote Obesity-Associated Hepatocellular Carcinoma.      
   <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509755).       
