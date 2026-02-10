@@ -8,8 +8,24 @@ featured_image: /images/covers/icon.jpg
 [ORCiD: 0000-0002-5154-3318](https://orcid.org/0000-0002-5154-3318)
 
 <span style="color:#D96098">Lab Members in Purple</span>
+
+### 2026
+
+1. [PTPN2 deficiency amplifies inflammatory signalling and impairs functional maturation of human stem cell-derived islets.      
+  <span style="color:coral">*Stem Cell Research & Therapy*</span>](https://doi.org/10.1186/s13287-025-04892-4)  
+  Valerie Vandenbempt, Javier Negueruela, Francisco Ribeiro-Costa, Mariana Nunes, Leonardo Traini, <span style="color:#D96098">**Sema Elif Eski**</span>, Wadsen St-Pierre-Wijckmans, Stéphane Demine, Nicolas Baeyens, Hazem Ibrahim, Luciano G. Martelotto, <span style="color:black">**Sumeet Pal Singh**</span>, Alessandra K. Cardozo, Mayank Bansal, Esteban N. Gurzov     
+  <br/>  
+1. [Loss of PTPRK in hepatocytes reduces steatosis and carcinogen-induced tumour development in obesity.      
+  <span style="color:coral">*bioRxiv*</span>](https://doi.org/10.64898/2026.01.17.697695)  
+  Ao Li, Wadsen St-Pierre-Wijckmans, <span style="color:#D96098">**Gabriel G. Hovhannisyan**</span>,  Tiffany Lai, Carlos E. Buss, Erick Arroba, Rabéa Dahili, Leila Hosseinzadeh, <span style="color:black">**Sumeet Pal Singh**</span>, Lu Yu, David Oxley, Hayley J. Sharpe, Eduardo H. Gilglioni, Esteban N. Gurzov   
+  <br/>  
+
 ### 2025
 
+1. [PTPN2 deficiency amplifies inflammatory signalling and impairs functional maturation of human stem cell-derived islets.      
+  <span style="color:coral">*Stem Cell Research & Therapy*</span>](https://doi.org/10.1186/s13287-025-04892-4)  
+  Valerie Vandenbempt, Javier Negueruela, Francisco Ribeiro-Costa, Mariana Nunes, Leonardo Traini, <span style="color:#D96098">**Sema Elif Eski**</span>, Wadsen St-Pierre-Wijckmans, Stéphane Demine, Nicolas Baeyens, Hazem Ibrahim, Luciano G. Martelotto, <span style="color:black">**Sumeet Pal Singh**</span>, Savneet Kaur    
+  <br/>  
 1. [Human Atlas of Tooth Decay Progression: Identification of Cellular Mechanisms Driving the Switch from Dental Pulp Repair Toward Irreversible Pulpitis.      
   <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202510096)   
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.11.653296v1.full)  
