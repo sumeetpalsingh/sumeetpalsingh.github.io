@@ -33,6 +33,10 @@ Download [CV][1]
 
 #### Current Members
 
+##### Lab Photo, 2026
+<img src="/images/members/Lab2026_Small.jpg" alt="GroupPhoto 2026" width="75%">  
+
+
 ##### PhD Students
 <img src="/images/members/Garnik.jpg" alt="Garnik" style="float:left;width:150px;height:140px;margin:-20px 30px 0px 0px">
 
