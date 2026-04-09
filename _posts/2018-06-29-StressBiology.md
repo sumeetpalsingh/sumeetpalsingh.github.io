@@ -2,6 +2,7 @@
 title: 'Stress Biology'
 subtitle: 'Decoding environmental cacophony.'
 date: 2024-12-07 00:00:00
+categories: research
 description: Our research attempts to illuminate the complex web of cellular stress responses with the aim of enhancing the resilience of biological systems. In particular, we explore the adaptive strategies employed by organs and organisms under nutritional deprivation, revealing the secrets of metabolic resilience. 
 featured_image: '/images/posts/starvation/Steatosis.jpg'
 ---
