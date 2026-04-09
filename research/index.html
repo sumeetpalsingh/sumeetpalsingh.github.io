@@ -25,8 +25,8 @@ permalink: /research/
 
 	<div class="wrap">
 
-		{% for post in paginator.posts %}
-       {% if post.categories contains "research" %}
+		{% for post in site.posts %}
+		{% if post.categories contains "research" %}
 
 		<article class="post">
 
@@ -43,7 +43,8 @@ permalink: /research/
 			</div>
 
 		</article>
-    {% endif %}
+
+		{% endif %}
 		{% endfor %}
 
 	</div>
