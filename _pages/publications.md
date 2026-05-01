@@ -14,7 +14,7 @@ featured_image: /images/covers/icon.jpg
 1. [CellCousin2: an optimized system for partial ablation and tracing of regenerative lineages.      
   <span style="color:coral">*npj Regenerative Medicine*</span>](https://www.nature.com/articles/s41536-026-00473-y)   
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.23.655316v1)  
-  <span style="color:#D96098">**Gabriel G. Hovhannisyan**</span>, <span style="color:#D96098">**Tawba Akhourbi**</span>,<span style="color:#D96098">**Sema Elif Eski**</span>, Isabelle Pirson, Esteban N Gurzov, <span style="color:black">**Sumeet Pal Singh**</span>    
+  <span style="color:#D96098">**Gabriel G. Hovhannisyan**</span>, <span style="color:#D96098">**Tawba Akhourbi**</span>, <span style="color:#D96098">**Sema Elif Eski**</span>, Isabelle Pirson, Esteban N Gurzov, <span style="color:black">**Sumeet Pal Singh**</span>    
   <br/>
 1. [PTPN2 deficiency amplifies inflammatory signalling and impairs functional maturation of human stem cell-derived islets.      
   <span style="color:coral">*Stem Cell Research & Therapy*</span>](https://doi.org/10.1186/s13287-025-04892-4)  
