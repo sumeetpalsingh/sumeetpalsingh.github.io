@@ -40,11 +40,7 @@ featured_image: /images/covers/icon.jpg
   <span style="color:coral">*Cell Reports*</span>](https://doi.org/10.1016/j.celrep.2025.116469)  
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.27.635043v1)    
   Nora John, Thomas Fleming, Julia Kolb, Olga Lyraki, Sebastian Vasquez-Sepulveda, Asha Parmar, Kyoohyun Kim, Maria Tarczewska, Kanwarpal Singh, Federico Marini, <span style="color:black">**Sumeet Pal Singh**</span>, Vasiliki Tsata, Sven Falk, Kristian Franze, Jochen Guck,  Daniel Wehner    
-  <br/>
-1. [CellCousin2: An Optimized System for Partial Ablation and Tracing of Regenerative Lineages.      
-  <span style="color:coral">*bioRxiv*</span>](https://doi.org/10.1101/2025.05.23.655316)    
-  <span style="color:#D96098">**Gabriel G. Hovhannisyan**</span>, <span style="color:#D96098">**Tawba Akhourbi**</span>, <span style="color:#D96098">**Sema Elif Eski**</span>, Isabelle Pirson, Esteban N. Gurzov, <span style="color:black">**Sumeet Pal Singh**</span>    
-  <br/>   
+  <br/>  
 1. [Nutritional c-Fos Induction Rewires Hepatic Metabolism and Can Promote Obesity-Associated Hepatocellular Carcinoma.      
   <span style="color:coral">*Advanced Science*</span>](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509755).       
   Ao Li, Eduardo H Gilglioni, Wadsen St-Pierre-Wijckmans, Leila Hosseinzadeh, Christelle Veyrat-Durebex, <span style="color:black">**Sumeet Pal Singh**</span>, Roberto Coppari, Latifa Bakiri, Esteban N Gurzov    
