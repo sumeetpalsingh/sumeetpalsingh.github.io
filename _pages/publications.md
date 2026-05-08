@@ -11,6 +11,11 @@ featured_image: /images/covers/icon.jpg
 
 ### 2026
 
+1. [The role of Nrf2 in thyroid maturation and hormone synthesis in vertebrate models.    
+  <span style="color:coral">*Life Science Alliance*</span>](https://www.life-science-alliance.org/content/9/7/e202603687)      
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.27.482168v1)     
+  Gillotay Pierre, Romitti Mirian, Dassy Benjamin, Haerlingen Benoit, Parakkal Shankar Meghna, Faria Fonseca Barbara, Ziros G. Panos, <span style="color:black">**Sumeet Pal Singh**</span>, Sykiotis P. Gerasimos, Sabine Costagliola        
+  <br/>
 1. [CellCousin2: an optimized system for partial ablation and tracing of regenerative lineages.      
   <span style="color:coral">*npj Regenerative Medicine*</span>](https://www.nature.com/articles/s41536-026-00473-y)   
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.23.655316v1)  
@@ -144,10 +149,6 @@ featured_image: /images/covers/icon.jpg
 1. [Foxe1 orchestrates thyroid and lung cell lineage divergence in mouse stem cell-derived organoids.    
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.05.16.492074v1)     
   Barbara F. Fonseca, Cindy Barbée, Mirian Romitti, <span style="color:#D96098">**Sema Elif Eski**</span>, Pierre Gillotay, Daniel Monteyne, David Perez Morga, Samuel Refetoff, <span style="color:black">**Sumeet Pal Singh**</span>, Sabine Costagliola        
-  <br/>
-1. [Nrf2 promotes thyroid development and hormone synthesis.    
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.02.27.482168v1)     
-  Gillotay Pierre, Romitti Mirian, Dassy Benjamin, Haerlingen Benoit, Parakkal Shankar Meghna, Faria Fonseca Barbara, Ziros G. Panos, <span style="color:black">**Sumeet Pal Singh**</span>, Sykiotis P. Gerasimos, Sabine Costagliola        
   <br/>
 1. [Keratin filaments mediate the expansion of extra-embryonic membranes in the post-gastrulation mouse embryo.      
   <span style="color:coral">*The EMBO Journal*</span>](https://www.embopress.org/doi/full/10.15252/embj.2021108747)  
