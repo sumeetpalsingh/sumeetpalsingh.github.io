@@ -14,7 +14,7 @@ featured_image: /images/covers/icon.jpg
 1. [The role of Nrf2 in thyroid maturation and hormone synthesis in vertebrate models.    
   <span style="color:coral">*Life Science Alliance*</span>](https://www.life-science-alliance.org/content/9/7/e202603687)      
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.27.482168v1)     
-  Gillotay Pierre, Romitti Mirian, Dassy Benjamin, Haerlingen Benoit, Parakkal Shankar Meghna, Faria Fonseca Barbara, Ziros G. Panos, <span style="color:black">**Sumeet Pal Singh**</span>, Sykiotis P. Gerasimos, Sabine Costagliola        
+Pierre Gillotay, Sushant Bangru, Dassy Benjamin, Haerlingen Benoit, Parakkal Shankar Meghna, Faria Fonseca Barbara, Ziros G. Panos, <span style="color:black">**Sumeet Pal Singh**</span>, Sykiotis P. Gerasimos, Romitti Mirian, Sabine Costagliola        
   <br/>
 1. [CellCousin2: an optimized system for partial ablation and tracing of regenerative lineages.      
   <span style="color:coral">*npj Regenerative Medicine*</span>](https://www.nature.com/articles/s41536-026-00473-y)   
