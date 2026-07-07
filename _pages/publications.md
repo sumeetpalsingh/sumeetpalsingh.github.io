@@ -13,7 +13,7 @@ featured_image: /images/covers/icon.jpg
 
 1. [Rhpn2 promotes zebrafish melanoma development and aggressiveness in vivo.      
   <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.64898/2026.07.03.736252v1.abstract)  
-  Mana Alavi, Alexia Gybels, Laura Gulizia, Katarzyna Konobrocka, Garnik Hovhannisyan, Sena Bekar, Camille Perazzolo, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Pirson    
+  Mana Alavi, Alexia Gybels, Laura Gulizia, Katarzyna Konobrocka, <span style="color:#D96098">**Garnik Hovhannisyan**</span>, Sena Bekar, Camille Perazzolo, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Pirson    
   <br/>
 1. [Less severe endothelial injury and vascular pathway activation in SARS-CoV-2 Omicron variant compared to Alpha.      
   <span style="color:coral">*Scientific Reports*</span>](https://www.nature.com/articles/s41598-026-57821-7)  
