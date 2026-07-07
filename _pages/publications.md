@@ -20,7 +20,7 @@ featured_image: /images/covers/icon.jpg
   Margherita Tiezzi, Francesca Fortini, Valerie Vandenbempt, Javier Negueruela, Desli Shahini, Charbel Haddad, Véronique Corbière, Tatiana Takiishi, Melina Houinsou Hans, Patrizia Mancuso, Francesco Bertolini, Nicolas Baeyens, <span style="color:black">**Sumeet Pal Singh**</span>, Esteban N. Gurzov, Philippe van de Borne, Alessandra K. Cardozo       
   <br/>
 1. [MagmaFlow: A desktop platform for artificial intelligence-driven expression analysis.      
-  <span style="color:coral">*Scientific Reports*</span>](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/2211-5463.70288)  
+  <span style="color:coral">*FEBS Open Bio*</span>](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/2211-5463.70288)  
   Carlos E. Buss, Ao Li, Eduardo H. Gilglioni, Mayank Bansal, <span style="color:black">**Sumeet Pal Singh**</span>, Latifa Bakiri, Alessandra K. Cardozo, Esteban N. Gurzov       
   <br/>
 1. [Foxe1 orchestrates thyroid and lung cell lineage divergence in mouse stem cell-derived organoids.    
