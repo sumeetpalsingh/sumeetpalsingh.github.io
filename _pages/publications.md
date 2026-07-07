@@ -24,7 +24,7 @@ featured_image: /images/covers/icon.jpg
   Carlos E. Buss, Ao Li, Eduardo H. Gilglioni, Mayank Bansal, <span style="color:black">**Sumeet Pal Singh**</span>, Latifa Bakiri, Alessandra K. Cardozo, Esteban N. Gurzov       
   <br/>
 1. [Foxe1 orchestrates thyroid and lung cell lineage divergence in mouse stem cell-derived organoids.    
-  <span style="color:coral">*EMBO reports*</span>](https://pubmed.ncbi.nlm.nih.gov/42324400/)
+  <span style="color:coral">*EMBO reports*</span>](https://pubmed.ncbi.nlm.nih.gov/42324400/)      
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.16.492074v1)     
   Barbara F. Fonseca, Cindy Barbée, Mirian Romitti, <span style="color:#D96098">**Sema Elif Eski**</span>, Pierre Gillotay, Daniel Monteyne, David Perez Morga, Samuel Refetoff, <span style="color:black">**Sumeet Pal Singh**</span>, Sabine Costagliola        
   <br/>
