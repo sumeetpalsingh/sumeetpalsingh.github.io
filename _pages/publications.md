@@ -11,6 +11,23 @@ featured_image: /images/covers/icon.jpg
 
 ### 2026
 
+1. [Rhpn2 promotes zebrafish melanoma development and aggressiveness in vivo.      
+  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.64898/2026.07.03.736252v1.abstract)  
+  Mana Alavi, Alexia Gybels, Laura Gulizia, Katarzyna Konobrocka, Garnik Hovhannisyan, Sena Bekar, Camille Perazzolo, <span style="color:black">**Sumeet Pal Singh**</span>, Isabelle Pirson    
+  <br/>
+1. [Less severe endothelial injury and vascular pathway activation in SARS-CoV-2 Omicron variant compared to Alpha.      
+  <span style="color:coral">*Scientific Reports*</span>](https://www.nature.com/articles/s41598-026-57821-7)  
+  Margherita Tiezzi, Francesca Fortini, Valerie Vandenbempt, Javier Negueruela, Desli Shahini, Charbel Haddad, Véronique Corbière, Tatiana Takiishi, Melina Houinsou Hans, Patrizia Mancuso, Francesco Bertolini, Nicolas Baeyens, <span style="color:black">**Sumeet Pal Singh**</span>, Esteban N. Gurzov, Philippe van de Borne, Alessandra K. Cardozo       
+  <br/>
+1. [MagmaFlow: A desktop platform for artificial intelligence-driven expression analysis.      
+  <span style="color:coral">*Scientific Reports*</span>](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/2211-5463.70288)  
+  Carlos E. Buss, Ao Li, Eduardo H. Gilglioni, Mayank Bansal, <span style="color:black">**Sumeet Pal Singh**</span>, Latifa Bakiri, Alessandra K. Cardozo, Esteban N. Gurzov       
+  <br/>
+1. [Foxe1 orchestrates thyroid and lung cell lineage divergence in mouse stem cell-derived organoids.    
+  <span style="color:coral">*EMBO reports*</span>](https://pubmed.ncbi.nlm.nih.gov/42324400/)
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.16.492074v1)     
+  Barbara F. Fonseca, Cindy Barbée, Mirian Romitti, <span style="color:#D96098">**Sema Elif Eski**</span>, Pierre Gillotay, Daniel Monteyne, David Perez Morga, Samuel Refetoff, <span style="color:black">**Sumeet Pal Singh**</span>, Sabine Costagliola        
+  <br/>
 1. [The role of Nrf2 in thyroid maturation and hormone synthesis in vertebrate models.    
   <span style="color:coral">*Life Science Alliance*</span>](https://www.life-science-alliance.org/content/9/7/e202603687)      
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.27.482168v1)     
@@ -145,10 +162,6 @@ Pierre Gillotay, Sushant Bangru, Dassy Benjamin, Haerlingen Benoit, Parakkal Sha
 1. [NF-κB-inducing kinase (NIK) is activated in pancreatic β-cells but does not contribute to the development of diabetes.    
   <span style="color:coral">*Cell Death & Disease*</span>](https://www.nature.com/articles/s41419-022-04931-5)     
   Peng Xiao, Tatiana Takiishi, Natalia Moretti Violato, Giada Licata, Francesco Dotta, Guido Sebastiani, Lorella Marselli, <span style="color:black">**Sumeet Pal Singh**</span>, Mozes Sze, Geert Van Loo, Emmanuel Dejardin, Esteban Nicolas Gurzov & Alessandra Kupper Cardozo    
-  <br/>
-1. [Foxe1 orchestrates thyroid and lung cell lineage divergence in mouse stem cell-derived organoids.    
-  <span style="color:coral">*bioRxiv*</span>](https://www.biorxiv.org/content/10.1101/2022.05.16.492074v1)     
-  Barbara F. Fonseca, Cindy Barbée, Mirian Romitti, <span style="color:#D96098">**Sema Elif Eski**</span>, Pierre Gillotay, Daniel Monteyne, David Perez Morga, Samuel Refetoff, <span style="color:black">**Sumeet Pal Singh**</span>, Sabine Costagliola        
   <br/>
 1. [Keratin filaments mediate the expansion of extra-embryonic membranes in the post-gastrulation mouse embryo.      
   <span style="color:coral">*The EMBO Journal*</span>](https://www.embopress.org/doi/full/10.15252/embj.2021108747)  
