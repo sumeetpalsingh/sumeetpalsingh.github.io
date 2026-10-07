@@ -34,7 +34,7 @@ Download [CV][1]
 #### Current Members
 
 ##### Lab Photo, 2026
-<img src="/images/members/Lab2026_Small.jpg" alt="GroupPhoto 2026" width="75%">  
+<img src="/images/members/LabPic_2026.jpeg" alt="GroupPhoto 2026" width="75%">  
 
 
 ##### PhD Students
@@ -58,9 +58,9 @@ Download [CV][1]
 
 ##### Intern Students
 
-<img src="/images/members/Member.jpg" alt="Janani" style="float:left;width:150px;height:62px;margin:-20px 30px 0px 0px">
+<img src="/images/members/Tanishkaa.png" alt="Tanishkaa" style="float:left;width:126px;height:124px;margin:-20px 30px 0px 0px">
 
-<span style="color:coral">**Janani K**</span> is a sophomore undergraduate student in B.Sc. Biotechnology at Shiv Nadar University. She is working on the labeling of proliferating cells as part of the Opportunities for Undergraduate Research (OUR) program.
+<span style="color:coral">**Tanishkaa**</span>, is currently a final-year undergraduate student at SNIOE. Her current research focuses on developing and characterizing a zebrafish inflammation model, with particular interest in understanding how inflammatory responses influence tissue and cellular processes. Previously, she worked under the supervision of Dr Anindita Chakrabarty where she investigated DNA -protein Crosslinks (DPCs), gaining experience in studying DNA damage and protein–DNA interactions. Through these research experiences, she has developed an interest in molecular biology, disease mechanisms, and experimental model systems, with a growing focus on understanding inflammation and its cellular consequences.
 
 ---
 
@@ -114,4 +114,10 @@ In 2024, she was awarded the [CNIO Friends Postdoctoral fellowship](https://www.
 <img src="/images/members/Imane.jpg" alt="Imane" style="float:left;width:133px;height:118px;margin:-20px 30px 0px 0px">
 
 <span style="color:coral">**Imane Ez-Zammoury**</span> <!--graduated from her Bachelor's degree in Biomedical Science at the Université Catholique de Louvain in 2022. In the Master's thesis conducted under the guidance of Prof. Sophie Lucas, her project centered on the investigating TGF-β1 activation. In the final year of her Master's program, she--> joined the lab in Spring 2024 after defending her master's thesis. Her project focused on developing imaging modalities to study starvation and injury response of the liver.  
+
+<br/>
+
+<img src="/images/members/Member.jpg" alt="Janani" style="float:left;width:150px;height:62px;margin:-20px 30px 0px 0px">
+
+<span style="color:coral">**Janani K**</span> was a sophomore undergraduate student in B.Sc. Biotechnology at Shiv Nadar University. She worked on the labeling of proliferating cells as part of the Opportunities for Undergraduate Research (OUR) program.
 
